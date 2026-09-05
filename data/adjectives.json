@@ -1,0 +1,269 @@
+{
+  "id": "adjectives",
+  "name": {
+    "de": "Adjektive",
+    "en": "Adjectives",
+    "fr": "Adjectifs",
+    "ar": "الصفات"
+  },
+  "items": [
+    {
+      "de": { "word": "ruhig", "opposite": "nervös" },
+      "en": { "word": "calm", "opposite": "nervous" },
+      "fr": { "word": "calme", "opposite": "nerveux" },
+      "ar": { "word": "هادئ", "opposite": "عصبي" }
+    },
+    {
+      "de": { "word": "ehrlich", "opposite": "unehrlich" },
+      "en": { "word": "honest", "opposite": "dishonest" },
+      "fr": { "word": "honnête", "opposite": "malhonnête" },
+      "ar": { "word": "صادق", "opposite": "غير صادق" }
+    },
+    {
+      "de": { "word": "großzügig", "opposite": "geizig" },
+      "en": { "word": "generous", "opposite": "stingy" },
+      "fr": { "word": "généreux", "opposite": "avare" },
+      "ar": { "word": "كريم", "opposite": "بخيل" }
+    },
+    {
+      "de": { "word": "geduldig", "opposite": "ungeduldig" },
+      "en": { "word": "patient", "opposite": "impatient" },
+      "fr": { "word": "patient", "opposite": "impatient" },
+      "ar": { "word": "صبور", "opposite": "نفور" }
+    },
+    {
+      "de": { "word": "optimistisch", "opposite": "pessimistisch" },
+      "en": { "word": "optimistic", "opposite": "pessimistic" },
+      "fr": { "word": "optimiste", "opposite": "pessimiste" },
+      "ar": { "word": "متفائل", "opposite": "متشائم" }
+    },
+    {
+      "de": { "word": "mutig", "opposite": "feige" },
+      "en": { "word": "courageous", "opposite": "cowardly" },
+      "fr": { "word": "courageux", "opposite": "lâche" },
+      "ar": { "word": "شجاع", "opposite": "جبان" }
+    },
+    {
+      "de": { "word": "aktiv", "opposite": "faul" },
+      "en": { "word": "active", "opposite": "lazy" },
+      "fr": { "word": "actif", "opposite": "paresseux" },
+      "ar": { "word": "نشيط", "opposite": "كسول" }
+    },
+    {
+      "de": { "word": "vorsichtig", "opposite": "unvorsichtig" },
+      "en": { "word": "cautious", "opposite": "careless" },
+      "fr": { "word": "prudent", "opposite": "imprudent" },
+      "ar": { "word": "حذر", "opposite": "مهمل" }
+    },
+    {
+      "de": { "word": "intelligent", "opposite": "dumm" },
+      "en": { "word": "intelligent", "opposite": "stupid" },
+      "fr": { "word": "intelligent", "opposite": "stupide" },
+      "ar": { "word": "ذكي", "opposite": "غبي" }
+    },
+    {
+      "de": { "word": "höflich", "opposite": "unhöflich" },
+      "en": { "word": "polite", "opposite": "impolite" },
+      "fr": { "word": "poli", "opposite": "impoli" },
+      "ar": { "word": "مهذب", "opposite": "وقح" }
+    },
+    {
+      "de": { "word": "nett", "opposite": "böse" },
+      "en": { "word": "kind", "opposite": "mean" },
+      "fr": { "word": "gentil", "opposite": "méchant" },
+      "ar": { "word": "لطيف", "opposite": "شرير" }
+    },
+    {
+      "de": { "word": "groß", "opposite": "klein" },
+      "en": { "word": "big", "opposite": "small" },
+      "fr": { "word": "grand", "opposite": "petit" },
+      "ar": { "word": "كبير", "opposite": "صغير" }
+    },
+    {
+      "de": { "word": "hoch", "opposite": "niedrig" },
+      "en": { "word": "high", "opposite": "low" },
+      "fr": { "word": "haut", "opposite": "bas" },
+      "ar": { "word": "مرتفع", "opposite": "منخفض" }
+    },
+    {
+      "de": { "word": "dick", "opposite": "dünn" },
+      "en": { "word": "fat", "opposite": "thin" },
+      "fr": { "word": "gros", "opposite": "mince" },
+      "ar": { "word": "سمين", "opposite": "نحيف" }
+    },
+    {
+      "de": { "word": "jung", "opposite": "alt" },
+      "en": { "word": "young", "opposite": "old" },
+      "fr": { "word": "jeune", "opposite": "vieux" },
+      "ar": { "word": "شاب", "opposite": "عجوز" }
+    },
+    {
+      "de": { "word": "schön", "opposite": "hässlich" },
+      "en": { "word": "beautiful", "opposite": "ugly" },
+      "fr": { "word": "beau", "opposite": "laid" },
+      "ar": { "word": "جميل", "opposite": "قبيح" }
+    },
+    {
+      "de": { "word": "sauber", "opposite": "schmutzig" },
+      "en": { "word": "clean", "opposite": "dirty" },
+      "fr": { "word": "propre", "opposite": "sale" },
+      "ar": { "word": "نظيف", "opposite": "متسخ" }
+    },
+    {
+      "de": { "word": "lang", "opposite": "kurz" },
+      "en": { "word": "long", "opposite": "short" },
+      "fr": { "word": "long", "opposite": "court" },
+      "ar": { "word": "طويل", "opposite": "قصير" }
+    },
+    {
+      "de": { "word": "neu", "opposite": "alt" },
+      "en": { "word": "new", "opposite": "old" },
+      "fr": { "word": "neuf", "opposite": "vieux" },
+      "ar": { "word": "جديد", "opposite": "قديم" }
+    },
+    {
+      "de": { "word": "einfach", "opposite": "kompliziert" },
+      "en": { "word": "simple", "opposite": "complicated" },
+      "fr": { "word": "simple", "opposite": "compliqué" },
+      "ar": { "word": "بسيط", "opposite": "معقد" }
+    },
+    {
+      "de": { "word": "weich", "opposite": "hart" },
+      "en": { "word": "soft", "opposite": "hard" },
+      "fr": { "word": "doux", "opposite": "dur" },
+      "ar": { "word": "ناعم", "opposite": "صلب" }
+    },
+    {
+      "de": { "word": "süß", "opposite": "bitter" },
+      "en": { "word": "sweet", "opposite": "bitter" },
+      "fr": { "word": "sucré", "opposite": "amer" },
+      "ar": { "word": "حلو", "opposite": "مر" }
+    },
+    {
+      "de": { "word": "rein", "opposite": "unrein" },
+      "en": { "word": "pure", "opposite": "impure" },
+      "fr": { "word": "pur", "opposite": "impur" },
+      "ar": { "word": "نقي", "opposite": "ملوث" }
+    },
+    {
+      "de": { "word": "glänzend", "opposite": "matt" },
+      "en": { "word": "bright", "opposite": "dull" },
+      "fr": { "word": "brillant", "opposite": "terne" },
+      "ar": { "word": "لامع", "opposite": "باهت" }
+    },
+    {
+      "de": { "word": "nass", "opposite": "trocken" },
+      "en": { "word": "wet", "opposite": "dry" },
+      "fr": { "word": "mouillé", "opposite": "sec" },
+      "ar": { "word": "رطب", "opposite": "جاف" }
+    },
+    {
+      "de": { "word": "schwer", "opposite": "leicht" },
+      "en": { "word": "heavy", "opposite": "light" },
+      "fr": { "word": "lourd", "opposite": "léger" },
+      "ar": { "word": "ثقيل", "opposite": "خفيف" }
+    },
+    {
+      "de": { "word": "voll", "opposite": "leer" },
+      "en": { "word": "full", "opposite": "empty" },
+      "fr": { "word": "plein", "opposite": "vide" },
+      "ar": { "word": "ممتلئ", "opposite": "فارغ" }
+    },
+    {
+      "de": { "word": "offen", "opposite": "geschlossen" },
+      "en": { "word": "open", "opposite": "closed" },
+      "fr": { "word": "ouvert", "opposite": "fermé" },
+      "ar": { "word": "مفتوح", "opposite": "مغلق" }
+    },
+    {
+      "de": { "word": "laut", "opposite": "leise" },
+      "en": { "word": "noisy", "opposite": "silent" },
+      "fr": { "word": "bruyant", "opposite": "silencieux" },
+      "ar": { "word": "صاخب", "opposite": "هادئ" }
+    },
+    {
+      "de": { "word": "leicht", "opposite": "schwierig" },
+      "en": { "word": "easy", "opposite": "difficult" },
+      "fr": { "word": "facile", "opposite": "difficile" },
+      "ar": { "word": "سهل", "opposite": "صعب" }
+    },
+    {
+      "de": { "word": "schnell", "opposite": "langsam" },
+      "en": { "word": "fast", "opposite": "slow" },
+      "fr": { "word": "rapide", "opposite": "lent" },
+      "ar": { "word": "سريع", "opposite": "بطيء" }
+    },
+    {
+      "de": { "word": "stark", "opposite": "schwach" },
+      "en": { "word": "strong", "opposite": "weak" },
+      "fr": { "word": "fort", "opposite": "faible" },
+      "ar": { "word": "قوي", "opposite": "ضعيف" }
+    },
+    {
+      "de": { "word": "heiß", "opposite": "kalt" },
+      "en": { "word": "hot", "opposite": "cold" },
+      "fr": { "word": "chaud", "opposite": "froid" },
+      "ar": { "word": "ساخن", "opposite": "بارد" }
+    },
+    {
+      "de": { "word": "hell", "opposite": "dunkel" },
+      "en": { "word": "light", "opposite": "dark" },
+      "fr": { "word": "clair", "opposite": "sombre" },
+      "ar": { "word": "مضيء", "opposite": "مظلم" }
+    },
+    {
+      "de": { "word": "möglich", "opposite": "unmöglich" },
+      "en": { "word": "possible", "opposite": "impossible" },
+      "fr": { "word": "possible", "opposite": "impossible" },
+      "ar": { "word": "ممكن", "opposite": "مستحيل" }
+    },
+    {
+      "de": { "word": "wahr", "opposite": "falsch" },
+      "en": { "word": "true", "opposite": "false" },
+      "fr": { "word": "vrai", "opposite": "faux" },
+      "ar": { "word": "صحيح", "opposite": "خاطئ" }
+    },
+    {
+      "de": { "word": "positiv", "opposite": "negativ" },
+      "en": { "word": "positive", "opposite": "negative" },
+      "fr": { "word": "positif", "opposite": "négatif" },
+      "ar": { "word": "إيجابي", "opposite": "سلبي" }
+    },
+    {
+      "de": { "word": "lebendig", "opposite": "tot" },
+      "en": { "word": "alive", "opposite": "dead" },
+      "fr": { "word": "vivant", "opposite": "mort" },
+      "ar": { "word": "حي", "opposite": "ميت" }
+    },
+    {
+      "de": { "word": "berühmt", "opposite": "unbekannt" },
+      "en": { "word": "famous", "opposite": "unknown" },
+      "fr": { "word": "célèbre", "opposite": "inconnu" },
+      "ar": { "word": "مشهور", "opposite": "مجهول" }
+    },
+    {
+      "de": { "word": "frei", "opposite": "beschäftigt" },
+      "en": { "word": "free", "opposite": "busy" },
+      "fr": { "word": "libre", "opposite": "occupé" },
+      "ar": { "word": "حر", "opposite": "مشغول" }
+    },
+    {
+      "de": { "word": "zufrieden", "opposite": "unzufrieden" },
+      "en": { "word": "satisfied", "opposite": "dissatisfied" },
+      "fr": { "word": "satisfait", "opposite": "mécontent" },
+      "ar": { "word": "راضي", "opposite": "غير راضي" }
+    },
+    {
+      "de": { "word": "reich", "opposite": "arm" },
+      "en": { "word": "rich", "opposite": "poor" },
+      "fr": { "word": "riche", "opposite": "pauvre" },
+      "ar": { "word": "غني", "opposite": "فقير" }
+    },
+    {
+      "de": { "word": "glücklich", "opposite": "unglücklich" },
+      "en": { "word": "happy", "opposite": "unhappy" },
+      "fr": { "word": "heureux", "opposite": "malheureux" },
+      "ar": { "word": "سعيد", "opposite": "حزين" }
+    }
+  ]
+}

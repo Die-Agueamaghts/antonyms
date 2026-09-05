@@ -180,8 +180,16 @@ button {
 }
 [data-theme="dark"] .language-button.selected,
 [data-theme="dark"] .mode-card.selected,
-[data-theme="dark"] .language-icon:hover {
+[data-theme="dark"] .language-icon:hover,
+[data-theme="dark"] .language-icon.selected {
   background: #29465a;
+}
+[data-theme="dark"] .language-icon {
+  color: var(--text);
+}
+[data-theme="dark"] .language-icon.selected {
+  border-color: var(--primary);
+  color: #ffffff;
 }
 [data-theme="dark"] .answer-display {
   background: #223949;

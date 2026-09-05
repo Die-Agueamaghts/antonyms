@@ -5,11 +5,11 @@
     de: { name: "Deutsch", flag: "🇩🇪", dir: "ltr", speechLang: "de-DE" },
     en: { name: "English", flag: "🇬🇧", dir: "ltr", speechLang: "en-GB" },
     fr: { name: "Français", flag: "🇫🇷", dir: "ltr", speechLang: "fr-FR" },
-    ar: { name: "العربية", flag: "🇸🇦", dir: "rtl", speechLang: "ar-SA" },
+    ar: { name: "العربية", flag: "AR", dir: "rtl", speechLang: "ar-SA" },
   };
 
   const state = {
-    language: "de",
+    language: "fr",
     mode: "learn",
     category: "",
     words: [],
@@ -22,6 +22,7 @@
 
   const $ = (selector) => document.querySelector(selector);
   const $$ = (selector) => [...document.querySelectorAll(selector)];
+  const dataUrl = (file) => new URL(`data/${file}`, document.baseURI).href;
   const screens = {
     setup: $("#setupScreen"),
     exercise: $("#exerciseScreen"),
@@ -77,7 +78,12 @@
     select.innerHTML = "<option>Wird geladen …</option>";
     select.disabled = true;
     try {
-      const categoriesResponse = await fetch("data/categories.json");
+      if (window.location.protocol === "file:") {
+        throw new Error(
+          "Die App wurde direkt als Datei geöffnet. Für fetch() wird ein lokaler Webserver benötigt.",
+        );
+      }
+      const categoriesResponse = await fetch(dataUrl("categories.json"));
       if (!categoriesResponse.ok) {
         throw new Error(`HTTP ${categoriesResponse.status}`);
       }
@@ -89,7 +95,7 @@
         throw new Error("Keine Kategorie-Dateien konfiguriert");
       }
       const responses = await Promise.all(
-        categoryConfig.files.map((file) => fetch(`data/${file}`)),
+        categoryConfig.files.map((file) => fetch(dataUrl(file))),
       );
       const invalidResponse = responses.find((response) => !response.ok);
       if (invalidResponse) throw new Error(`HTTP ${invalidResponse.status}`);
@@ -117,8 +123,11 @@
       select.innerHTML = "<option>Fehler beim Laden</option>";
       select.disabled = true;
       state.category = "";
-      $("#setupStatus").textContent =
-        "Die Wortdaten konnten nicht geladen werden. Bitte starte die Seite über einen lokalen Webserver, z. B. mit: python -m http.server 8000";
+      $("#setupStatus").textContent = error.message.includes(
+        "lokalen Webserver",
+      )
+        ? "Bitte starte die Seite über einen lokalen Webserver, z. B. mit: python -m http.server 8000, und öffne danach http://localhost:8000."
+        : "Die Wortdaten konnten nicht geladen werden. Bitte prüfe, ob der lokale Webserver läuft.";
       console.error("Wortdaten konnten nicht geladen werden:", error);
     }
   }
@@ -473,6 +482,6 @@
 
   renderLanguages();
   setupEvents();
-  setTheme(localStorage.getItem("wordOppositesTheme") || "light");
+  setTheme(localStorage.getItem("wordOppositesTheme") || "dark");
   selectLanguage(state.language);
 })();
