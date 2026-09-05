@@ -1,0 +1,203 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, viewport-fit=cover"
+    />
+    <meta name="theme-color" content="#17324d" />
+    <meta
+      name="description"
+      content="Sprachen lernen, trainieren und testen mit Gegensätzen in Deutsch, Englisch, Französisch und Arabisch."
+    />
+    <title>WortGegensätze – Sprachtrainer</title>
+    <link rel="stylesheet" href="style/main.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <nav
+          id="languageSwitcher"
+          class="language-switcher"
+          aria-label="Sprache wechseln"
+        ></nav>
+        <div class="brand">
+          <div class="brand-icon" aria-hidden="true">↔</div>
+          <div>
+            <h1>WortGegensätze</h1>
+            <p>Sprachen lernen mit Gegenteilen</p>
+          </div>
+        </div>
+        <button
+          id="homeButton"
+          class="icon-button floating-control home-control"
+          type="button"
+          aria-label="Zur Startseite"
+        >
+          ⌂
+        </button>
+        <button
+          id="themeButton"
+          class="icon-button floating-control theme-control"
+          type="button"
+          aria-label="Dunkelmodus aktivieren"
+          aria-pressed="false"
+        >
+          <span id="themeIcon" aria-hidden="true">☾</span>
+        </button>
+      </header>
+
+      <main>
+        <section
+          id="setupScreen"
+          class="screen active"
+          aria-labelledby="setupTitle"
+        >
+          <div class="hero-card">
+            <span class="eyebrow">4 Sprachen · mehrere Kategorien</span>
+            <h2 id="setupTitle">Trainiere Gegenteile</h2>
+            <p>
+              Wähle Sprache, Kategorie und einen Modus. Danach geht es Wort für
+              Wort durch die komplette Liste.
+            </p>
+          </div>
+
+          <div class="setup-grid">
+            <section class="panel">
+              <h3>Kategorie</h3>
+              <select
+                id="categorySelect"
+                class="select-control"
+                aria-label="Kategorie"
+              ></select>
+            </section>
+
+            <section class="panel">
+              <h3>Modus</h3>
+              <div id="modeGrid" class="mode-grid">
+                <button
+                  class="mode-card selected"
+                  data-mode="learn"
+                  type="button"
+                >
+                  <span class="mode-icon">📖</span>
+                  <strong>Lernen</strong>
+                  <span>Wort und Gegenteil direkt sehen.</span>
+                </button>
+                <button class="mode-card" data-mode="training" type="button">
+                  <span class="mode-icon">⌨️</span>
+                  <strong>Trainieren</strong>
+                  <span>Gegenteil selbst eingeben und prüfen.</span>
+                </button>
+                <button class="mode-card" data-mode="test" type="button">
+                  <span class="mode-icon">🏁</span>
+                  <strong>Test</strong>
+                  <span>Ein Durchlauf mit anschließender Auswertung.</span>
+                </button>
+              </div>
+            </section>
+          </div>
+
+          <button
+            id="startButton"
+            class="primary-button large-button"
+            type="button"
+          >
+            Starten
+          </button>
+          <p id="setupStatus" class="status-text" role="status"></p>
+        </section>
+
+        <section
+          id="exerciseScreen"
+          class="screen"
+          aria-labelledby="exerciseTitle"
+        >
+          <div class="exercise-header">
+            <div>
+              <span id="modeLabel" class="eyebrow">Lernen</span>
+              <h2 id="exerciseTitle">Gegenteil finden</h2>
+            </div>
+            <div class="progress-box">
+              <span id="progressLabel">1 / 10</span>
+              <div class="progress-track" aria-hidden="true">
+                <div id="progressBar" class="progress-bar"></div>
+              </div>
+            </div>
+          </div>
+
+          <div class="language-strip">
+            <span id="languageLabel">Deutsch</span>
+            <span>•</span>
+            <span id="categoryLabel">Adjektive</span>
+          </div>
+
+          <div class="word-card">
+            <span class="card-label">Gesuchtes Gegenteil</span>
+            <div id="questionWord" class="question-word">groß</div>
+            <div id="answerArea"></div>
+          </div>
+
+          <div
+            id="feedback"
+            class="feedback"
+            role="status"
+            aria-live="polite"
+          ></div>
+
+          <div class="exercise-actions">
+            <button id="nextButton" class="primary-button" type="button">
+              Weiter
+            </button>
+            <button id="finishButton" class="secondary-button" type="button">
+              Beenden
+            </button>
+          </div>
+        </section>
+
+        <section id="resultScreen" class="screen" aria-labelledby="resultTitle">
+          <div class="result-card">
+            <span class="eyebrow">Test abgeschlossen</span>
+            <h2 id="resultTitle">Dein Ergebnis</h2>
+            <div class="score-circle" aria-label="Ergebnis">
+              <span id="scorePercent">0%</span>
+            </div>
+            <p id="scoreSummary" class="score-summary">0 von 10 richtig</p>
+            <div class="result-details">
+              <div>
+                <span>Sprache</span><strong id="resultLanguage">Deutsch</strong>
+              </div>
+              <div>
+                <span>Kategorie</span
+                ><strong id="resultCategory">Adjektive</strong>
+              </div>
+              <div>
+                <span>Richtig</span><strong id="resultCorrect">0</strong>
+              </div>
+              <div><span>Falsch</span><strong id="resultWrong">0</strong></div>
+            </div>
+            <button
+              id="restartButton"
+              class="primary-button large-button"
+              type="button"
+            >
+              Nochmal testen
+            </button>
+            <button
+              id="resultHomeButton"
+              class="secondary-button large-button"
+              type="button"
+            >
+              Zur Auswahl
+            </button>
+          </div>
+        </section>
+      </main>
+
+      <footer class="footer">WortGegensätze · Sprachtrainer</footer>
+    </div>
+
+    <script src="app/main.js" defer></script>
+  </body>
+</html>

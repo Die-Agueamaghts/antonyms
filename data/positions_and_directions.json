@@ -1,0 +1,77 @@
+{
+  "id": "positions_and_directions",
+  "name": {
+    "de": "Positionen und Richtungen",
+    "en": "Positions and Directions",
+    "fr": "Positions et directions",
+    "ar": "المواضع والاتجاهات"
+  },
+  "items": [
+    {
+      "de": { "word": "oben", "opposite": "unten" },
+      "en": { "word": "above", "opposite": "below" },
+      "fr": { "word": "en haut", "opposite": "en bas" },
+      "ar": { "word": "فوق", "opposite": "تحت" }
+    },
+    {
+      "de": { "word": "links", "opposite": "rechts" },
+      "en": { "word": "left", "opposite": "right" },
+      "fr": { "word": "gauche", "opposite": "droite" },
+      "ar": { "word": "يسار", "opposite": "يمين" }
+    },
+    {
+      "de": { "word": "vorne", "opposite": "hinten" },
+      "en": { "word": "front", "opposite": "back" },
+      "fr": { "word": "devant", "opposite": "derrière" },
+      "ar": { "word": "أمام", "opposite": "خلف" }
+    },
+    {
+      "de": { "word": "innen", "opposite": "außen" },
+      "en": { "word": "inside", "opposite": "outside" },
+      "fr": { "word": "à l'intérieur", "opposite": "à l'extérieur" },
+      "ar": { "word": "داخل", "opposite": "خارج" }
+    },
+    {
+      "de": { "word": "nah", "opposite": "fern" },
+      "en": { "word": "near", "opposite": "far" },
+      "fr": { "word": "proche", "opposite": "loin" },
+      "ar": { "word": "قريب", "opposite": "بعيد" }
+    },
+    {
+      "de": { "word": "vorwärts", "opposite": "rückwärts" },
+      "en": { "word": "forward", "opposite": "backward" },
+      "fr": { "word": "en avant", "opposite": "en arrière" },
+      "ar": { "word": "إلى الأمام", "opposite": "إلى الخلف" }
+    },
+    {
+      "de": { "word": "aufwärts", "opposite": "abwärts" },
+      "en": { "word": "upward", "opposite": "downward" },
+      "fr": { "word": "vers le haut", "opposite": "vers le bas" },
+      "ar": { "word": "صعوداً", "opposite": "هبوطاً" }
+    },
+    {
+      "de": { "word": "Norden", "opposite": "Süden" },
+      "en": { "word": "north", "opposite": "south" },
+      "fr": { "word": "nord", "opposite": "sud" },
+      "ar": { "word": "شمال", "opposite": "جنوب" }
+    },
+    {
+      "de": { "word": "Osten", "opposite": "Westen" },
+      "en": { "word": "east", "opposite": "west" },
+      "fr": { "word": "est", "opposite": "ouest" },
+      "ar": { "word": "شرق", "opposite": "غرب" }
+    },
+    {
+      "de": { "word": "Nordosten", "opposite": "Südwesten" },
+      "en": { "word": "northeast", "opposite": "southwest" },
+      "fr": { "word": "nord-est", "opposite": "sud-ouest" },
+      "ar": { "word": "شمال شرقي", "opposite": "جنوب غربي" }
+    },
+    {
+      "de": { "word": "Nordwesten", "opposite": "Südosten" },
+      "en": { "word": "northwest", "opposite": "southeast" },
+      "fr": { "word": "nord-ouest", "opposite": "sud-est" },
+      "ar": { "word": "شمال غربي", "opposite": "جنوب شرقي" }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "feelings",
+    "name": {
+      "de": "Gefühle",
+      "en": "Feelings",
+      "fr": "Sentiments",
+      "ar": "المشاعر"
+    },
+    "items": [
+      {
+        "de": { "word": "glücklich", "opposite": "traurig" },
+        "en": { "word": "happy", "opposite": "sad" },
+        "fr": { "word": "heureux", "opposite": "triste" },
+        "ar": { "word": "سعيد", "opposite": "حزين" }
+      },
+      {
+        "de": { "word": "begeistert", "opposite": "frustriert" },
+        "en": { "word": "enthusiastic", "opposite": "frustrated" },
+        "fr": { "word": "enthousiaste", "opposite": "frustré" },
+        "ar": { "word": "متحمس", "opposite": "إحباط" }
+      },
+      {
+        "de": { "word": "gelassen", "opposite": "nervös" },
+        "en": { "word": "calm", "opposite": "nervous" },
+        "fr": { "word": "serein", "opposite": "nerveux" },
+        "ar": { "word": "هادئ", "opposite": "متوتر" }
+      },
+      {
+        "de": { "word": "stolz", "opposite": "beschämt" },
+        "en": { "word": "proud", "opposite": "ashamed" },
+        "fr": { "word": "fier", "opposite": "honteux" },
+        "ar": { "word": "فخور", "opposite": "خجول" }
+      },
+      {
+        "de": { "word": "wütend", "opposite": "friedlich" },
+        "en": { "word": "angry", "opposite": "peaceful" },
+        "fr": { "word": "en colère", "opposite": "paisible" },
+        "ar": { "word": "غاضب", "opposite": "هادئ" }
+      },
+      {
+        "de": { "word": "ängstlich", "opposite": "mutig" },
+        "en": { "word": "fearful", "opposite": "brave" },
+        "fr": { "word": "peureux", "opposite": "courageux" },
+        "ar": { "word": "خائف", "opposite": "شجاع" }
+      },
+      {
+        "de": { "word": "energetisch", "opposite": "erschöpft" },
+        "en": { "word": "energetic", "opposite": "exhausted" },
+        "fr": { "word": "énergique", "opposite": "épuisé" },
+        "ar": { "word": "نشيط", "opposite": "مرهق" }
+      },
+      {
+        "de": { "word": "interessiert", "opposite": "gleichgültig" },
+        "en": { "word": "interested", "opposite": "indifferent" },
+        "fr": { "word": "intéressé", "opposite": "indifférent" },
+        "ar": { "word": "مهتم", "opposite": "لا مبالي" }
+      },
+      {
+        "de": { "word": "klar", "opposite": "verwirrt" },
+        "en": { "word": "clear-minded", "opposite": "confused" },
+        "fr": { "word": "lucide", "opposite": "confus" },
+        "ar": { "word": "واضح الذهن", "opposite": "مرتبك" }
+      }
+    ]
+  }
+]
