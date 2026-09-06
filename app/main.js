@@ -15,6 +15,7 @@
     words: [],
     currentIndex: 0,
     results: [],
+    answers: [],
     data: null,
     catalog: null,
     answered: false,
@@ -194,6 +195,7 @@
     state.words = [...category.words];
     state.currentIndex = 0;
     state.results = [];
+    state.answers = [];
     state.answered = false;
     $("#languageLabel").textContent = LANGUAGES[state.language].name;
     $("#categoryLabel").textContent = category.name;
@@ -318,8 +320,9 @@
     $("#feedback").className = "feedback";
     $("#feedback").textContent = "";
     renderAnswerArea(item);
-    $("#backButton").disabled =
-      state.mode !== "learn" || state.currentIndex === 0;
+    const backButton = $("#backButton");
+    backButton.hidden = state.mode !== "learn";
+    backButton.disabled = state.currentIndex === 0;
     $("#nextButton").disabled = false;
     $("#nextButton").textContent =
       state.currentIndex === state.words.length - 1 ? "Fertig" : "Weiter";
@@ -356,7 +359,7 @@
     input.addEventListener("keydown", (event) => {
       if (event.key === "Enter") {
         event.preventDefault();
-        validateAnswer();
+        state.mode === "test" ? next() : validateAnswer();
       }
     });
     wrap.appendChild(input);
@@ -364,7 +367,7 @@
     if (state.mode === "test") {
       const note = document.createElement("div");
       note.className = "test-note";
-      note.textContent = "Drücke Enter, um deine Antwort zu prüfen.";
+      note.textContent = "Drücke Enter, um zur nächsten Frage zu gehen.";
       area.appendChild(note);
     }
     setTimeout(() => input.focus(), 80);
@@ -383,8 +386,13 @@
     if (!input) return;
     const value = input.value.trim();
     if (!value) {
-      setFeedback("info", "Bitte gib zuerst ein Gegenteil ein.");
-      input.focus();
+      state.answered = true;
+      state.results[state.currentIndex] = false;
+      setFeedback("error", `✗ Richtig ist: „${item.answer}“.`);
+      input.disabled = true;
+      const nextButton = $("#nextButton");
+      nextButton.disabled = false;
+      nextButton.focus();
       return;
     }
     const correct = isCorrect(value, item.answers || [item.answer]);
@@ -394,15 +402,20 @@
       correct ? "success" : "error",
       correct
         ? `✓ Richtig! Das Gegenteil von „${item.word}“ ist „${item.answer}“.`
-        : `✗ Nicht ganz. Richtig ist: „${item.answer}“.`,
+        : value
+          ? `✗ Nicht ganz. Richtig ist: „${item.answer}“.`
+          : `✗ Richtig ist: „${item.answer}“.`,
     );
     input.disabled = true;
-    $("#nextButton").disabled = false;
-    $("#nextButton").focus();
+    const nextButton = $("#nextButton");
+    nextButton.disabled = false;
+    nextButton.focus();
   }
 
   function next() {
-    if (state.mode !== "learn" && !state.answered) {
+    if (state.mode === "test") {
+      state.answers[state.currentIndex] = $("#answerInput")?.value.trim() || "";
+    } else if (state.mode !== "learn" && !state.answered) {
       validateAnswer();
       return;
     }
@@ -439,7 +452,14 @@
       return;
     }
     const total = state.words.length;
-    const correct = state.results.filter(Boolean).length;
+    const correct = state.words.reduce(
+      (count, item, index) =>
+        count +
+        (isCorrect(state.answers[index] || "", item.answers || [item.answer])
+          ? 1
+          : 0),
+      0,
+    );
     $("#scorePercent").textContent =
       `${total ? Math.round((correct / total) * 100) : 0}%`;
     $("#scoreSummary").textContent = `${correct} von ${total} richtig`;
@@ -469,6 +489,23 @@
   }
 
   function setupEvents() {
+    document.addEventListener("keydown", (event) => {
+      if (
+        event.key !== "Enter" ||
+        state.mode !== "learn" ||
+        !screens.exercise.classList.contains("active")
+      ) {
+        return;
+      }
+      if (
+        event.target instanceof HTMLElement &&
+        event.target.closest("button, input, select, textarea")
+      ) {
+        return;
+      }
+      event.preventDefault();
+      next();
+    });
     $("#categorySelect").addEventListener("change", (event) => {
       state.category = event.target.value;
     });

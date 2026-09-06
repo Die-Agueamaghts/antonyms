@@ -613,9 +613,55 @@ main {
 
 .exercise-actions {
   display: grid;
-  grid-template-columns: 130px 1fr 130px;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 10px;
   margin-top: 12px;
+  direction: ltr;
+}
+.exercise-actions button {
+  width: 100%;
+  border-width: 2px;
+  box-shadow: 0 0 9px rgba(91, 111, 126, 0.2);
+  transition:
+    background 0.18s ease,
+    border-color 0.18s ease,
+    box-shadow 0.18s ease,
+    transform 0.18s ease;
+}
+.exercise-actions #backButton {
+  grid-column: 1;
+  background: #2f6fa3;
+  border-color: #5f9bd0;
+  color: #fff;
+}
+.exercise-actions #nextButton {
+  grid-column: 2;
+  background: #258553;
+  border-color: #5bc486;
+  color: #fff;
+}
+.exercise-actions #finishButton {
+  grid-column: 3;
+  background: #b83e46;
+  border-color: #e47c82;
+  color: #fff;
+}
+.exercise-actions button:hover,
+.exercise-actions button:focus-visible {
+  box-shadow: 0 0 18px currentColor;
+  transform: translateY(-1px);
+}
+.exercise-actions #backButton:hover,
+.exercise-actions #backButton:focus-visible {
+  background: #3f8bc7;
+}
+.exercise-actions #nextButton:hover,
+.exercise-actions #nextButton:focus-visible {
+  background: #2fa96a;
+}
+.exercise-actions #finishButton:hover,
+.exercise-actions #finishButton:focus-visible {
+  background: #d4525b;
 }
 
 .exercise-actions button:disabled {
@@ -723,10 +769,8 @@ main {
     width: 100%;
   }
   .exercise-actions {
-    grid-template-columns: 1fr;
-  }
-  .exercise-actions .secondary-button {
-    order: 2;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 6px;
   }
   [data-theme="dark"] .exercise-actions .primary-button,
   [data-theme="dark"] .exercise-actions .secondary-button {
