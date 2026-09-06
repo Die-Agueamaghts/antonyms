@@ -5,7 +5,7 @@
     de: { name: "Deutsch", flag: "🇩🇪", dir: "ltr", speechLang: "de-DE" },
     en: { name: "English", flag: "🇬🇧", dir: "ltr", speechLang: "en-GB" },
     fr: { name: "Français", flag: "🇫🇷", dir: "ltr", speechLang: "fr-FR" },
-    ar: { name: "العربية", flag: "AR", dir: "rtl", speechLang: "ar-SA" },
+    ar: { name: "العربية", flag: "🇲🇦", dir: "rtl", speechLang: "ar-SA" },
   };
 
   const state = {
@@ -318,6 +318,8 @@
     $("#feedback").className = "feedback";
     $("#feedback").textContent = "";
     renderAnswerArea(item);
+    $("#backButton").disabled =
+      state.mode !== "learn" || state.currentIndex === 0;
     $("#nextButton").disabled = state.mode !== "learn";
     $("#nextButton").textContent =
       state.currentIndex === state.words.length - 1 ? "Fertig" : "Weiter";
@@ -412,6 +414,12 @@
     renderCard();
   }
 
+  function previous() {
+    if (state.mode !== "learn" || state.currentIndex === 0) return;
+    state.currentIndex -= 1;
+    renderCard();
+  }
+
   function finishTest() {
     if (state.mode === "learn") {
       showScreen("setup");
@@ -468,6 +476,7 @@
       button.addEventListener("click", () => selectMode(button.dataset.mode)),
     );
     $("#startButton").addEventListener("click", start);
+    $("#backButton").addEventListener("click", previous);
     $("#nextButton").addEventListener("click", next);
     $("#finishButton").addEventListener("click", returnHome);
     $("#homeButton").addEventListener("click", returnHome);

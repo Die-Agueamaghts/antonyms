@@ -598,9 +598,15 @@ main {
 
 .exercise-actions {
   display: grid;
-  grid-template-columns: 1fr 130px;
+  grid-template-columns: 130px 1fr 130px;
   gap: 10px;
   margin-top: 12px;
+}
+
+.exercise-actions button:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+  transform: none;
 }
 
 .result-card {
