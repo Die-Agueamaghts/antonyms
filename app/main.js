@@ -320,7 +320,7 @@
     renderAnswerArea(item);
     $("#backButton").disabled =
       state.mode !== "learn" || state.currentIndex === 0;
-    $("#nextButton").disabled = state.mode !== "learn";
+    $("#nextButton").disabled = false;
     $("#nextButton").textContent =
       state.currentIndex === state.words.length - 1 ? "Fertig" : "Weiter";
   }

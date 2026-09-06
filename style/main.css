@@ -728,6 +728,25 @@ main {
   .exercise-actions .secondary-button {
     order: 2;
   }
+  [data-theme="dark"] .exercise-actions .primary-button,
+  [data-theme="dark"] .exercise-actions .secondary-button {
+    min-height: 54px;
+    border-width: 2px;
+    font-size: 1rem;
+  }
+  [data-theme="dark"] .exercise-actions .primary-button {
+    background: #3a8eb8;
+    border-color: #8bcce8;
+  }
+  [data-theme="dark"] .exercise-actions .secondary-button {
+    background: #29465a;
+    border-color: #8bcce8;
+  }
+  [data-theme="dark"] .exercise-actions button:disabled {
+    background: #1c2d3c;
+    border-color: #718b9c;
+    color: #c2d0d9;
+  }
 }
 
 @media (max-width: 360px) {
