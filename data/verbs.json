@@ -1,0 +1,9047 @@
+{
+  "id": "verbs",
+  "name": {
+    "de": "Verben",
+    "en": "Verbs",
+    "fr": "Verbes",
+    "ar": "الأفعال"
+  },
+  "items": [
+    {
+      "de": {
+        "word": "rausgehen",
+        "opposite": "reingehen"
+      },
+      "en": {
+        "word": "go out",
+        "opposite": "go in"
+      },
+      "fr": {
+        "word": "sortir",
+        "opposite": "entrer"
+      },
+      "ar": {
+        "word": "خرج",
+        "opposite": "دخل"
+      }
+    },
+    {
+      "de": {
+        "word": "kommen",
+        "opposite": "gehen"
+      },
+      "en": {
+        "word": "come",
+        "opposite": "leave"
+      },
+      "fr": {
+        "word": "venir",
+        "opposite": "partir"
+      },
+      "ar": {
+        "word": "جاء",
+        "opposite": "غادر"
+      }
+    },
+    {
+      "de": {
+        "word": "ankommen",
+        "opposite": "abreisen"
+      },
+      "en": {
+        "word": "arrive",
+        "opposite": "depart"
+      },
+      "fr": {
+        "word": "arriver",
+        "opposite": "partir"
+      },
+      "ar": {
+        "word": "وصل",
+        "opposite": "غادر"
+      }
+    },
+    {
+      "de": {
+        "word": "aufstehen",
+        "opposite": "sich hinsetzen"
+      },
+      "en": {
+        "word": "stand up",
+        "opposite": "sit down"
+      },
+      "fr": {
+        "word": "se lever",
+        "opposite": "s'asseoir"
+      },
+      "ar": {
+        "word": "نهض",
+        "opposite": "جلس"
+      }
+    },
+    {
+      "de": {
+        "word": "sich setzen",
+        "opposite": "aufstehen"
+      },
+      "en": {
+        "word": "sit down",
+        "opposite": "stand up"
+      },
+      "fr": {
+        "word": "s'asseoir",
+        "opposite": "se lever"
+      },
+      "ar": {
+        "word": "جلس",
+        "opposite": "نهض"
+      }
+    },
+    {
+      "de": {
+        "word": "öffnen",
+        "opposite": "schließen"
+      },
+      "en": {
+        "word": "open",
+        "opposite": "close"
+      },
+      "fr": {
+        "word": "ouvrir",
+        "opposite": "fermer"
+      },
+      "ar": {
+        "word": "فتح",
+        "opposite": "أغلق"
+      }
+    },
+    {
+      "de": {
+        "word": "einschalten",
+        "opposite": "ausschalten"
+      },
+      "en": {
+        "word": "turn on",
+        "opposite": "turn off"
+      },
+      "fr": {
+        "word": "allumer",
+        "opposite": "éteindre"
+      },
+      "ar": {
+        "word": "شغّل",
+        "opposite": "أطفأ"
+      }
+    },
+    {
+      "de": {
+        "word": "anmachen",
+        "opposite": "ausmachen"
+      },
+      "en": {
+        "word": "switch on",
+        "opposite": "switch off"
+      },
+      "fr": {
+        "word": "allumer",
+        "opposite": "éteindre"
+      },
+      "ar": {
+        "word": "شغّل",
+        "opposite": "أطفأ"
+      }
+    },
+    {
+      "de": {
+        "word": "beginnen",
+        "opposite": "beenden"
+      },
+      "en": {
+        "word": "begin",
+        "opposite": "finish"
+      },
+      "fr": {
+        "word": "commencer",
+        "opposite": "finir"
+      },
+      "ar": {
+        "word": "بدأ",
+        "opposite": "أنهى"
+      }
+    },
+    {
+      "de": {
+        "word": "anfangen",
+        "opposite": "aufhören"
+      },
+      "en": {
+        "word": "start",
+        "opposite": "stop"
+      },
+      "fr": {
+        "word": "commencer",
+        "opposite": "arrêter"
+      },
+      "ar": {
+        "word": "بدأ",
+        "opposite": "توقف"
+      }
+    },
+    {
+      "de": {
+        "word": "weitergehen",
+        "opposite": "zurückgehen"
+      },
+      "en": {
+        "word": "continue",
+        "opposite": "go back"
+      },
+      "fr": {
+        "word": "continuer",
+        "opposite": "revenir"
+      },
+      "ar": {
+        "word": "واصل",
+        "opposite": "رجع"
+      }
+    },
+    {
+      "de": {
+        "word": "vorwärtsgehen",
+        "opposite": "zurückgehen"
+      },
+      "en": {
+        "word": "move forward",
+        "opposite": "move backward"
+      },
+      "fr": {
+        "word": "avancer",
+        "opposite": "reculer"
+      },
+      "ar": {
+        "word": "تقدم",
+        "opposite": "تراجع"
+      }
+    },
+    {
+      "de": {
+        "word": "hineingehen",
+        "opposite": "hinausgehen"
+      },
+      "en": {
+        "word": "go in",
+        "opposite": "go out"
+      },
+      "fr": {
+        "word": "entrer",
+        "opposite": "sortir"
+      },
+      "ar": {
+        "word": "دخل",
+        "opposite": "خرج"
+      }
+    },
+    {
+      "de": {
+        "word": "hochgehen",
+        "opposite": "runtergehen"
+      },
+      "en": {
+        "word": "go up",
+        "opposite": "go down"
+      },
+      "fr": {
+        "word": "monter",
+        "opposite": "descendre"
+      },
+      "ar": {
+        "word": "صعد",
+        "opposite": "نزل"
+      }
+    },
+    {
+      "de": {
+        "word": "steigen",
+        "opposite": "sinken"
+      },
+      "en": {
+        "word": "rise",
+        "opposite": "sink"
+      },
+      "fr": {
+        "word": "monter",
+        "opposite": "descendre"
+      },
+      "ar": {
+        "word": "ارتفع",
+        "opposite": "انخفض"
+      }
+    },
+    {
+      "de": {
+        "word": "heben",
+        "opposite": "senken"
+      },
+      "en": {
+        "word": "raise",
+        "opposite": "lower"
+      },
+      "fr": {
+        "word": "lever",
+        "opposite": "abaisser"
+      },
+      "ar": {
+        "word": "رفع",
+        "opposite": "خفض"
+      }
+    },
+    {
+      "de": {
+        "word": "hinzufügen",
+        "opposite": "entfernen"
+      },
+      "en": {
+        "word": "add",
+        "opposite": "remove"
+      },
+      "fr": {
+        "word": "ajouter",
+        "opposite": "enlever"
+      },
+      "ar": {
+        "word": "أضاف",
+        "opposite": "أزال"
+      }
+    },
+    {
+      "de": {
+        "word": "nehmen",
+        "opposite": "geben"
+      },
+      "en": {
+        "word": "take",
+        "opposite": "give"
+      },
+      "fr": {
+        "word": "prendre",
+        "opposite": "donner"
+      },
+      "ar": {
+        "word": "أخذ",
+        "opposite": "أعطى"
+      }
+    },
+    {
+      "de": {
+        "word": "kaufen",
+        "opposite": "verkaufen"
+      },
+      "en": {
+        "word": "buy",
+        "opposite": "sell"
+      },
+      "fr": {
+        "word": "acheter",
+        "opposite": "vendre"
+      },
+      "ar": {
+        "word": "اشترى",
+        "opposite": "باع"
+      }
+    },
+    {
+      "de": {
+        "word": "leihen",
+        "opposite": "zurückgeben"
+      },
+      "en": {
+        "word": "borrow",
+        "opposite": "return"
+      },
+      "fr": {
+        "word": "emprunter",
+        "opposite": "rendre"
+      },
+      "ar": {
+        "word": "استعار",
+        "opposite": "أعاد"
+      }
+    },
+    {
+      "de": {
+        "word": "gewinnen",
+        "opposite": "verlieren"
+      },
+      "en": {
+        "word": "win",
+        "opposite": "lose"
+      },
+      "fr": {
+        "word": "gagner",
+        "opposite": "perdre"
+      },
+      "ar": {
+        "word": "فاز",
+        "opposite": "خسر"
+      }
+    },
+    {
+      "de": {
+        "word": "siegen",
+        "opposite": "verlieren"
+      },
+      "en": {
+        "word": "defeat",
+        "opposite": "lose"
+      },
+      "fr": {
+        "word": "vaincre",
+        "opposite": "perdre"
+      },
+      "ar": {
+        "word": "هزم",
+        "opposite": "خسر"
+      }
+    },
+    {
+      "de": {
+        "word": "bezahlen",
+        "opposite": "kassieren"
+      },
+      "en": {
+        "word": "pay",
+        "opposite": "collect"
+      },
+      "fr": {
+        "word": "payer",
+        "opposite": "encaisser"
+      },
+      "ar": {
+        "word": "دفع",
+        "opposite": "قبض"
+      }
+    },
+    {
+      "de": {
+        "word": "sparen",
+        "opposite": "ausgeben"
+      },
+      "en": {
+        "word": "save",
+        "opposite": "spend"
+      },
+      "fr": {
+        "word": "économiser",
+        "opposite": "dépenser"
+      },
+      "ar": {
+        "word": "وفّر",
+        "opposite": "أنفق"
+      }
+    },
+    {
+      "de": {
+        "word": "verdienen",
+        "opposite": "verlieren"
+      },
+      "en": {
+        "word": "earn",
+        "opposite": "lose"
+      },
+      "fr": {
+        "word": "gagner",
+        "opposite": "perdre"
+      },
+      "ar": {
+        "word": "كسب",
+        "opposite": "خسر"
+      }
+    },
+    {
+      "de": {
+        "word": "behalten",
+        "opposite": "wegwerfen"
+      },
+      "en": {
+        "word": "keep",
+        "opposite": "throw away"
+      },
+      "fr": {
+        "word": "garder",
+        "opposite": "jeter"
+      },
+      "ar": {
+        "word": "احتفظ",
+        "opposite": "رمى"
+      }
+    },
+    {
+      "de": {
+        "word": "finden",
+        "opposite": "verlieren"
+      },
+      "en": {
+        "word": "find",
+        "opposite": "lose"
+      },
+      "fr": {
+        "word": "trouver",
+        "opposite": "perdre"
+      },
+      "ar": {
+        "word": "وجد",
+        "opposite": "فقد"
+      }
+    },
+    {
+      "de": {
+        "word": "suchen",
+        "opposite": "finden"
+      },
+      "en": {
+        "word": "search",
+        "opposite": "find"
+      },
+      "fr": {
+        "word": "chercher",
+        "opposite": "trouver"
+      },
+      "ar": {
+        "word": "يبحث عن",
+        "opposite": "وجد"
+      }
+    },
+    {
+      "de": {
+        "word": "merken",
+        "opposite": "vergessen"
+      },
+      "en": {
+        "word": "remember",
+        "opposite": "forget"
+      },
+      "fr": {
+        "word": "se souvenir",
+        "opposite": "oublier"
+      },
+      "ar": {
+        "word": "تذكر",
+        "opposite": "نسي"
+      }
+    },
+    {
+      "de": {
+        "word": "sich erinnern",
+        "opposite": "vergessen"
+      },
+      "en": {
+        "word": "remember",
+        "opposite": "forget"
+      },
+      "fr": {
+        "word": "se rappeler",
+        "opposite": "oublier"
+      },
+      "ar": {
+        "word": "تذكر",
+        "opposite": "نسي"
+      }
+    },
+    {
+      "de": {
+        "word": "sich nähern",
+        "opposite": "sich entfernen"
+      },
+      "en": {
+        "word": "approach",
+        "opposite": "move away"
+      },
+      "fr": {
+        "word": "s'approcher",
+        "opposite": "s'éloigner"
+      },
+      "ar": {
+        "word": "اقترب",
+        "opposite": "ابتعد"
+      }
+    },
+    {
+      "de": {
+        "word": "bleiben",
+        "opposite": "gehen"
+      },
+      "en": {
+        "word": "stay",
+        "opposite": "leave"
+      },
+      "fr": {
+        "word": "rester",
+        "opposite": "partir"
+      },
+      "ar": {
+        "word": "بقي",
+        "opposite": "غادر"
+      }
+    },
+    {
+      "de": {
+        "word": "zurückkommen",
+        "opposite": "weggehen"
+      },
+      "en": {
+        "word": "come back",
+        "opposite": "go away"
+      },
+      "fr": {
+        "word": "revenir",
+        "opposite": "s'en aller"
+      },
+      "ar": {
+        "word": "عاد",
+        "opposite": "يذهب بعيدًا"
+      }
+    },
+    {
+      "de": {
+        "word": "warten",
+        "opposite": "losgehen"
+      },
+      "en": {
+        "word": "wait",
+        "opposite": "leave"
+      },
+      "fr": {
+        "word": "attendre",
+        "opposite": "partir"
+      },
+      "ar": {
+        "word": "انتظر",
+        "opposite": "غادر"
+      }
+    },
+    {
+      "de": {
+        "word": "folgen",
+        "opposite": "führen"
+      },
+      "en": {
+        "word": "follow",
+        "opposite": "lead"
+      },
+      "fr": {
+        "word": "suivre",
+        "opposite": "diriger"
+      },
+      "ar": {
+        "word": "تبع",
+        "opposite": "قاد"
+      }
+    },
+    {
+      "de": {
+        "word": "führen",
+        "opposite": "folgen"
+      },
+      "en": {
+        "word": "lead",
+        "opposite": "follow"
+      },
+      "fr": {
+        "word": "conduire",
+        "opposite": "suivre"
+      },
+      "ar": {
+        "word": "قاد",
+        "opposite": "تبع"
+      }
+    },
+    {
+      "de": {
+        "word": "helfen",
+        "opposite": "hindern"
+      },
+      "en": {
+        "word": "help",
+        "opposite": "prevent"
+      },
+      "fr": {
+        "word": "aider",
+        "opposite": "empêcher"
+      },
+      "ar": {
+        "word": "ساعد",
+        "opposite": "منع"
+      }
+    },
+    {
+      "de": {
+        "word": "erlauben",
+        "opposite": "verbieten"
+      },
+      "en": {
+        "word": "allow",
+        "opposite": "forbid"
+      },
+      "fr": {
+        "word": "permettre",
+        "opposite": "interdire"
+      },
+      "ar": {
+        "word": "سمح",
+        "opposite": "منع"
+      }
+    },
+    {
+      "de": {
+        "word": "akzeptieren",
+        "opposite": "ablehnen"
+      },
+      "en": {
+        "word": "accept",
+        "opposite": "refuse"
+      },
+      "fr": {
+        "word": "accepter",
+        "opposite": "refuser"
+      },
+      "ar": {
+        "word": "قبل",
+        "opposite": "رفض"
+      }
+    },
+    {
+      "de": {
+        "word": "zustimmen",
+        "opposite": "widersprechen"
+      },
+      "en": {
+        "word": "agree",
+        "opposite": "disagree"
+      },
+      "fr": {
+        "word": "être d'accord",
+        "opposite": "s'opposer"
+      },
+      "ar": {
+        "word": "وافق",
+        "opposite": "عارض"
+      }
+    },
+    {
+      "de": {
+        "word": "glauben",
+        "opposite": "bezweifeln"
+      },
+      "en": {
+        "word": "believe",
+        "opposite": "doubt"
+      },
+      "fr": {
+        "word": "croire",
+        "opposite": "douter"
+      },
+      "ar": {
+        "word": "آمن",
+        "opposite": "شك"
+      }
+    },
+    {
+      "de": {
+        "word": "vertrauen",
+        "opposite": "misstrauen"
+      },
+      "en": {
+        "word": "trust",
+        "opposite": "distrust"
+      },
+      "fr": {
+        "word": "faire confiance",
+        "opposite": "se méfier"
+      },
+      "ar": {
+        "word": "وثق",
+        "opposite": "لم يثق"
+      }
+    },
+    {
+      "de": {
+        "word": "lieben",
+        "opposite": "hassen"
+      },
+      "en": {
+        "word": "love",
+        "opposite": "hate"
+      },
+      "fr": {
+        "word": "aimer",
+        "opposite": "détester"
+      },
+      "ar": {
+        "word": "أحب",
+        "opposite": "كره"
+      }
+    },
+    {
+      "de": {
+        "word": "mögen",
+        "opposite": "nicht mögen"
+      },
+      "en": {
+        "word": "like",
+        "opposite": "dislike"
+      },
+      "fr": {
+        "word": "aimer",
+        "opposite": "ne pas aimer"
+      },
+      "ar": {
+        "word": "أحب",
+        "opposite": "لم يحب"
+      }
+    },
+    {
+      "de": {
+        "word": "lachen",
+        "opposite": "weinen"
+      },
+      "en": {
+        "word": "laugh",
+        "opposite": "cry"
+      },
+      "fr": {
+        "word": "rire",
+        "opposite": "pleurer"
+      },
+      "ar": {
+        "word": "ضحك",
+        "opposite": "بكى"
+      }
+    },
+    {
+      "de": {
+        "word": "lächeln",
+        "opposite": "weinen"
+      },
+      "en": {
+        "word": "smile",
+        "opposite": "cry"
+      },
+      "fr": {
+        "word": "sourire",
+        "opposite": "pleurer"
+      },
+      "ar": {
+        "word": "ابتسم",
+        "opposite": "بكى"
+      }
+    },
+    {
+      "de": {
+        "word": "reden",
+        "opposite": "schweigen"
+      },
+      "en": {
+        "word": "speak",
+        "opposite": "be silent"
+      },
+      "fr": {
+        "word": "parler",
+        "opposite": "se taire"
+      },
+      "ar": {
+        "word": "تحدث",
+        "opposite": "صمت"
+      }
+    },
+    {
+      "de": {
+        "word": "fragen",
+        "opposite": "antworten"
+      },
+      "en": {
+        "word": "ask",
+        "opposite": "answer"
+      },
+      "fr": {
+        "word": "demander",
+        "opposite": "répondre"
+      },
+      "ar": {
+        "word": "سأل",
+        "opposite": "أجاب"
+      }
+    },
+    {
+      "de": {
+        "word": "erklären",
+        "opposite": "verwirren"
+      },
+      "en": {
+        "word": "explain",
+        "opposite": "confuse"
+      },
+      "fr": {
+        "word": "expliquer",
+        "opposite": "embrouiller"
+      },
+      "ar": {
+        "word": "شرح",
+        "opposite": "أربك"
+      }
+    },
+    {
+      "de": {
+        "word": "verstehen",
+        "opposite": "missverstehen"
+      },
+      "en": {
+        "word": "understand",
+        "opposite": "misunderstand"
+      },
+      "fr": {
+        "word": "comprendre",
+        "opposite": "mal comprendre"
+      },
+      "ar": {
+        "word": "فهم",
+        "opposite": "أساء الفهم"
+      }
+    },
+    {
+      "de": {
+        "word": "kennen",
+        "opposite": "ignorieren"
+      },
+      "en": {
+        "word": "know",
+        "opposite": "ignore"
+      },
+      "fr": {
+        "word": "connaître",
+        "opposite": "ignorer"
+      },
+      "ar": {
+        "word": "عرف",
+        "opposite": "تجاهل"
+      }
+    },
+    {
+      "de": {
+        "word": "lernen",
+        "opposite": "vergessen"
+      },
+      "en": {
+        "word": "learn",
+        "opposite": "forget"
+      },
+      "fr": {
+        "word": "apprendre",
+        "opposite": "oublier"
+      },
+      "ar": {
+        "word": "تعلم",
+        "opposite": "نسي"
+      }
+    },
+    {
+      "de": {
+        "word": "lehren",
+        "opposite": "lernen"
+      },
+      "en": {
+        "word": "teach",
+        "opposite": "learn"
+      },
+      "fr": {
+        "word": "enseigner",
+        "opposite": "apprendre"
+      },
+      "ar": {
+        "word": "علّم",
+        "opposite": "تعلم"
+      }
+    },
+    {
+      "de": {
+        "word": "zeigen",
+        "opposite": "verbergen"
+      },
+      "en": {
+        "word": "show",
+        "opposite": "hide"
+      },
+      "fr": {
+        "word": "montrer",
+        "opposite": "cacher"
+      },
+      "ar": {
+        "word": "أظهر",
+        "opposite": "أخفى"
+      }
+    },
+    {
+      "de": {
+        "word": "verstecken",
+        "opposite": "zeigen"
+      },
+      "en": {
+        "word": "hide",
+        "opposite": "show"
+      },
+      "fr": {
+        "word": "cacher",
+        "opposite": "montrer"
+      },
+      "ar": {
+        "word": "أخفى",
+        "opposite": "أظهر"
+      }
+    },
+    {
+      "de": {
+        "word": "senden",
+        "opposite": "empfangen"
+      },
+      "en": {
+        "word": "send",
+        "opposite": "receive"
+      },
+      "fr": {
+        "word": "envoyer",
+        "opposite": "recevoir"
+      },
+      "ar": {
+        "word": "أرسل",
+        "opposite": "استقبل"
+      }
+    },
+    {
+      "de": {
+        "word": "schicken",
+        "opposite": "bekommen"
+      },
+      "en": {
+        "word": "send",
+        "opposite": "receive"
+      },
+      "fr": {
+        "word": "envoyer",
+        "opposite": "recevoir"
+      },
+      "ar": {
+        "word": "أرسل",
+        "opposite": "تلقى"
+      }
+    },
+    {
+      "de": {
+        "word": "bringen",
+        "opposite": "mitnehmen"
+      },
+      "en": {
+        "word": "bring",
+        "opposite": "take away"
+      },
+      "fr": {
+        "word": "apporter",
+        "opposite": "emporter"
+      },
+      "ar": {
+        "word": "جلب",
+        "opposite": "يأخذ بعيدًا"
+      }
+    },
+    {
+      "de": {
+        "word": "holen",
+        "opposite": "wegbringen"
+      },
+      "en": {
+        "word": "fetch",
+        "opposite": "take away"
+      },
+      "fr": {
+        "word": "aller chercher",
+        "opposite": "emporter"
+      },
+      "ar": {
+        "word": "يذهب لإحضار",
+        "opposite": "يأخذ بعيدًا"
+      }
+    },
+    {
+      "de": {
+        "word": "anziehen",
+        "opposite": "ausziehen"
+      },
+      "en": {
+        "word": "put on",
+        "opposite": "take off"
+      },
+      "fr": {
+        "word": "mettre",
+        "opposite": "enlever"
+      },
+      "ar": {
+        "word": "ارتدى",
+        "opposite": "خلع"
+      }
+    },
+    {
+      "de": {
+        "word": "ausziehen",
+        "opposite": "anziehen"
+      },
+      "en": {
+        "word": "take off",
+        "opposite": "put on"
+      },
+      "fr": {
+        "word": "enlever",
+        "opposite": "mettre"
+      },
+      "ar": {
+        "word": "خلع",
+        "opposite": "ارتدى"
+      }
+    },
+    {
+      "de": {
+        "word": "waschen",
+        "opposite": "verschmutzen"
+      },
+      "en": {
+        "word": "wash",
+        "opposite": "dirty"
+      },
+      "fr": {
+        "word": "laver",
+        "opposite": "salir"
+      },
+      "ar": {
+        "word": "غسل",
+        "opposite": "وسّخ"
+      }
+    },
+    {
+      "de": {
+        "word": "reinigen",
+        "opposite": "verschmutzen"
+      },
+      "en": {
+        "word": "clean",
+        "opposite": "dirty"
+      },
+      "fr": {
+        "word": "nettoyer",
+        "opposite": "salir"
+      },
+      "ar": {
+        "word": "نظّف",
+        "opposite": "وسّخ"
+      }
+    },
+    {
+      "de": {
+        "word": "trocknen",
+        "opposite": "befeuchten"
+      },
+      "en": {
+        "word": "dry",
+        "opposite": "wet"
+      },
+      "fr": {
+        "word": "sécher",
+        "opposite": "mouiller"
+      },
+      "ar": {
+        "word": "جفف",
+        "opposite": "بلّل"
+      }
+    },
+    {
+      "de": {
+        "word": "füllen",
+        "opposite": "leeren"
+      },
+      "en": {
+        "word": "fill",
+        "opposite": "empty"
+      },
+      "fr": {
+        "word": "remplir",
+        "opposite": "vider"
+      },
+      "ar": {
+        "word": "ملأ",
+        "opposite": "أفرغ"
+      }
+    },
+    {
+      "de": {
+        "word": "einschenken",
+        "opposite": "ausschenken"
+      },
+      "en": {
+        "word": "pour",
+        "opposite": "empty"
+      },
+      "fr": {
+        "word": "verser",
+        "opposite": "vider"
+      },
+      "ar": {
+        "word": "صب",
+        "opposite": "أفرغ"
+      }
+    },
+    {
+      "de": {
+        "word": "bauen",
+        "opposite": "zerstören"
+      },
+      "en": {
+        "word": "build",
+        "opposite": "destroy"
+      },
+      "fr": {
+        "word": "construire",
+        "opposite": "détruire"
+      },
+      "ar": {
+        "word": "بنى",
+        "opposite": "دمّر"
+      }
+    },
+    {
+      "de": {
+        "word": "reparieren",
+        "opposite": "beschädigen"
+      },
+      "en": {
+        "word": "repair",
+        "opposite": "damage"
+      },
+      "fr": {
+        "word": "réparer",
+        "opposite": "abîmer"
+      },
+      "ar": {
+        "word": "أصلح",
+        "opposite": "أتلف"
+      }
+    },
+    {
+      "de": {
+        "word": "beschädigen",
+        "opposite": "reparieren"
+      },
+      "en": {
+        "word": "damage",
+        "opposite": "repair"
+      },
+      "fr": {
+        "word": "abîmer",
+        "opposite": "réparer"
+      },
+      "ar": {
+        "word": "أتلف",
+        "opposite": "أصلح"
+      }
+    },
+    {
+      "de": {
+        "word": "machen",
+        "opposite": "kaputtmachen"
+      },
+      "en": {
+        "word": "do/make",
+        "opposite": "break"
+      },
+      "fr": {
+        "word": "faire",
+        "opposite": "casser"
+      },
+      "ar": {
+        "word": "فعل",
+        "opposite": "كسر"
+      }
+    },
+    {
+      "de": {
+        "word": "zerbrechen",
+        "opposite": "reparieren"
+      },
+      "en": {
+        "word": "break",
+        "opposite": "repair"
+      },
+      "fr": {
+        "word": "casser",
+        "opposite": "réparer"
+      },
+      "ar": {
+        "word": "كسر",
+        "opposite": "أصلح"
+      }
+    },
+    {
+      "de": {
+        "word": "binden",
+        "opposite": "lösen"
+      },
+      "en": {
+        "word": "tie",
+        "opposite": "untie"
+      },
+      "fr": {
+        "word": "attacher",
+        "opposite": "détacher"
+      },
+      "ar": {
+        "word": "ربط",
+        "opposite": "فك"
+      }
+    },
+    {
+      "de": {
+        "word": "festmachen",
+        "opposite": "losmachen"
+      },
+      "en": {
+        "word": "fasten",
+        "opposite": "unfasten"
+      },
+      "fr": {
+        "word": "attacher",
+        "opposite": "détacher"
+      },
+      "ar": {
+        "word": "ثبّت",
+        "opposite": "فك"
+      }
+    },
+    {
+      "de": {
+        "word": "anziehen",
+        "opposite": "lockern"
+      },
+      "en": {
+        "word": "tighten",
+        "opposite": "loosen"
+      },
+      "fr": {
+        "word": "serrer",
+        "opposite": "desserrer"
+      },
+      "ar": {
+        "word": "شدّ",
+        "opposite": "أرخى"
+      }
+    },
+    {
+      "de": {
+        "word": "schieben",
+        "opposite": "ziehen"
+      },
+      "en": {
+        "word": "push",
+        "opposite": "pull"
+      },
+      "fr": {
+        "word": "pousser",
+        "opposite": "tirer"
+      },
+      "ar": {
+        "word": "دفع",
+        "opposite": "سحب"
+      }
+    },
+    {
+      "de": {
+        "word": "drücken",
+        "opposite": "ziehen"
+      },
+      "en": {
+        "word": "push",
+        "opposite": "pull"
+      },
+      "fr": {
+        "word": "pousser",
+        "opposite": "tirer"
+      },
+      "ar": {
+        "word": "دفع",
+        "opposite": "سحب"
+      }
+    },
+    {
+      "de": {
+        "word": "werfen",
+        "opposite": "fangen"
+      },
+      "en": {
+        "word": "throw",
+        "opposite": "catch"
+      },
+      "fr": {
+        "word": "jeter",
+        "opposite": "attraper"
+      },
+      "ar": {
+        "word": "رمى",
+        "opposite": "أمسك"
+      }
+    },
+    {
+      "de": {
+        "word": "geben",
+        "opposite": "fangen"
+      },
+      "en": {
+        "word": "throw",
+        "opposite": "catch"
+      },
+      "fr": {
+        "word": "lancer",
+        "opposite": "attraper"
+      },
+      "ar": {
+        "word": "رمى",
+        "opposite": "أمسك"
+      }
+    },
+    {
+      "de": {
+        "word": "fangen",
+        "opposite": "freilassen"
+      },
+      "en": {
+        "word": "catch",
+        "opposite": "release"
+      },
+      "fr": {
+        "word": "attraper",
+        "opposite": "libérer"
+      },
+      "ar": {
+        "word": "أمسك",
+        "opposite": "أطلق سراح"
+      }
+    },
+    {
+      "de": {
+        "word": "festhalten",
+        "opposite": "loslassen"
+      },
+      "en": {
+        "word": "hold",
+        "opposite": "let go"
+      },
+      "fr": {
+        "word": "tenir",
+        "opposite": "lâcher"
+      },
+      "ar": {
+        "word": "أمسك",
+        "opposite": "ترك"
+      }
+    },
+    {
+      "de": {
+        "word": "tragen",
+        "opposite": "ablegen"
+      },
+      "en": {
+        "word": "carry",
+        "opposite": "put down"
+      },
+      "fr": {
+        "word": "porter",
+        "opposite": "poser"
+      },
+      "ar": {
+        "word": "حمل",
+        "opposite": "وضع"
+      }
+    },
+    {
+      "de": {
+        "word": "aufheben",
+        "opposite": "hinlegen"
+      },
+      "en": {
+        "word": "pick up",
+        "opposite": "put down"
+      },
+      "fr": {
+        "word": "ramasser",
+        "opposite": "poser"
+      },
+      "ar": {
+        "word": "التقط",
+        "opposite": "وضع"
+      }
+    },
+    {
+      "de": {
+        "word": "hineinlegen",
+        "opposite": "herausnehmen"
+      },
+      "en": {
+        "word": "put in",
+        "opposite": "take out"
+      },
+      "fr": {
+        "word": "mettre dedans",
+        "opposite": "sortir"
+      },
+      "ar": {
+        "word": "يضع في الداخل",
+        "opposite": "خرج"
+      }
+    },
+    {
+      "de": {
+        "word": "einpacken",
+        "opposite": "auspacken"
+      },
+      "en": {
+        "word": "pack",
+        "opposite": "unpack"
+      },
+      "fr": {
+        "word": "emballer",
+        "opposite": "déballer"
+      },
+      "ar": {
+        "word": "حزم",
+        "opposite": "يفرغ الأمتعة"
+      }
+    },
+    {
+      "de": {
+        "word": "einschließen",
+        "opposite": "aufschließen"
+      },
+      "en": {
+        "word": "lock",
+        "opposite": "unlock"
+      },
+      "fr": {
+        "word": "fermer à clé",
+        "opposite": "ouvrir à clé"
+      },
+      "ar": {
+        "word": "يقفل بالمفتاح",
+        "opposite": "يفتح بالمفتاح"
+      }
+    },
+    {
+      "de": {
+        "word": "abschließen",
+        "opposite": "aufschließen"
+      },
+      "en": {
+        "word": "lock",
+        "opposite": "unlock"
+      },
+      "fr": {
+        "word": "verrouiller",
+        "opposite": "déverrouiller"
+      },
+      "ar": {
+        "word": "أقفل",
+        "opposite": "يفتح القفل"
+      }
+    },
+    {
+      "de": {
+        "word": "schlafen",
+        "opposite": "aufwachen"
+      },
+      "en": {
+        "word": "sleep",
+        "opposite": "wake up"
+      },
+      "fr": {
+        "word": "dormir",
+        "opposite": "se réveiller"
+      },
+      "ar": {
+        "word": "نام",
+        "opposite": "استيقظ"
+      }
+    },
+    {
+      "de": {
+        "word": "aufwachen",
+        "opposite": "einschlafen"
+      },
+      "en": {
+        "word": "wake up",
+        "opposite": "fall asleep"
+      },
+      "fr": {
+        "word": "se réveiller",
+        "opposite": "s'endormir"
+      },
+      "ar": {
+        "word": "استيقظ",
+        "opposite": "غفا"
+      }
+    },
+    {
+      "de": {
+        "word": "einschlafen",
+        "opposite": "aufwachen"
+      },
+      "en": {
+        "word": "fall asleep",
+        "opposite": "wake up"
+      },
+      "fr": {
+        "word": "s'endormir",
+        "opposite": "se réveiller"
+      },
+      "ar": {
+        "word": "غفا",
+        "opposite": "استيقظ"
+      }
+    },
+    {
+      "de": {
+        "word": "aufwecken",
+        "opposite": "einschläfern"
+      },
+      "en": {
+        "word": "wake",
+        "opposite": "put to sleep"
+      },
+      "fr": {
+        "word": "réveiller",
+        "opposite": "endormir"
+      },
+      "ar": {
+        "word": "أيقظ",
+        "opposite": "ينوّم"
+      }
+    },
+    {
+      "de": {
+        "word": "arbeiten",
+        "opposite": "ruhen"
+      },
+      "en": {
+        "word": "work",
+        "opposite": "rest"
+      },
+      "fr": {
+        "word": "travailler",
+        "opposite": "se reposer"
+      },
+      "ar": {
+        "word": "عمل",
+        "opposite": "ارتاح"
+      }
+    },
+    {
+      "de": {
+        "word": "sich ausruhen",
+        "opposite": "arbeiten"
+      },
+      "en": {
+        "word": "rest",
+        "opposite": "work"
+      },
+      "fr": {
+        "word": "se reposer",
+        "opposite": "travailler"
+      },
+      "ar": {
+        "word": "ارتاح",
+        "opposite": "عمل"
+      }
+    },
+    {
+      "de": {
+        "word": "sitzen",
+        "opposite": "stehen"
+      },
+      "en": {
+        "word": "sit",
+        "opposite": "stand"
+      },
+      "fr": {
+        "word": "être assis",
+        "opposite": "être debout"
+      },
+      "ar": {
+        "word": "يجلس",
+        "opposite": "وقف"
+      }
+    },
+    {
+      "de": {
+        "word": "stehen",
+        "opposite": "liegen"
+      },
+      "en": {
+        "word": "stand",
+        "opposite": "lie down"
+      },
+      "fr": {
+        "word": "être debout",
+        "opposite": "être couché"
+      },
+      "ar": {
+        "word": "وقف",
+        "opposite": "استلقى"
+      }
+    },
+    {
+      "de": {
+        "word": "liegen",
+        "opposite": "stehen"
+      },
+      "en": {
+        "word": "lie",
+        "opposite": "stand"
+      },
+      "fr": {
+        "word": "être couché",
+        "opposite": "être debout"
+      },
+      "ar": {
+        "word": "استلقى",
+        "opposite": "وقف"
+      }
+    },
+    {
+      "de": {
+        "word": "leben",
+        "opposite": "sterben"
+      },
+      "en": {
+        "word": "live",
+        "opposite": "die"
+      },
+      "fr": {
+        "word": "vivre",
+        "opposite": "mourir"
+      },
+      "ar": {
+        "word": "عاش",
+        "opposite": "مات"
+      }
+    },
+    {
+      "de": {
+        "word": "heiraten",
+        "opposite": "sich scheiden lassen"
+      },
+      "en": {
+        "word": "marry",
+        "opposite": "divorce"
+      },
+      "fr": {
+        "word": "se marier",
+        "opposite": "divorcer"
+      },
+      "ar": {
+        "word": "تزوج",
+        "opposite": "يطلّق"
+      }
+    },
+    {
+      "de": {
+        "word": "gebären",
+        "opposite": "sterben"
+      },
+      "en": {
+        "word": "give birth",
+        "opposite": "die"
+      },
+      "fr": {
+        "word": "accoucher",
+        "opposite": "mourir"
+      },
+      "ar": {
+        "word": "ولد",
+        "opposite": "مات"
+      }
+    },
+    {
+      "de": {
+        "word": "wachsen",
+        "opposite": "schrumpfen"
+      },
+      "en": {
+        "word": "grow",
+        "opposite": "shrink"
+      },
+      "fr": {
+        "word": "grandir",
+        "opposite": "rétrécir"
+      },
+      "ar": {
+        "word": "نما",
+        "opposite": "انكمش"
+      }
+    },
+    {
+      "de": {
+        "word": "zunehmen",
+        "opposite": "abnehmen"
+      },
+      "en": {
+        "word": "gain weight",
+        "opposite": "lose weight"
+      },
+      "fr": {
+        "word": "grossir",
+        "opposite": "maigrir"
+      },
+      "ar": {
+        "word": "يزداد وزنًا",
+        "opposite": "ينقص وزنه"
+      }
+    },
+    {
+      "de": {
+        "word": "steigen",
+        "opposite": "fallen"
+      },
+      "en": {
+        "word": "increase",
+        "opposite": "decrease"
+      },
+      "fr": {
+        "word": "augmenter",
+        "opposite": "baisser"
+      },
+      "ar": {
+        "word": "ازداد",
+        "opposite": "انخفض"
+      }
+    },
+    {
+      "de": {
+        "word": "erhöhen",
+        "opposite": "senken"
+      },
+      "en": {
+        "word": "increase",
+        "opposite": "reduce"
+      },
+      "fr": {
+        "word": "augmenter",
+        "opposite": "réduire"
+      },
+      "ar": {
+        "word": "رفع",
+        "opposite": "خفض"
+      }
+    },
+    {
+      "de": {
+        "word": "vergrößern",
+        "opposite": "verkleinern"
+      },
+      "en": {
+        "word": "enlarge",
+        "opposite": "shrink"
+      },
+      "fr": {
+        "word": "agrandir",
+        "opposite": "réduire"
+      },
+      "ar": {
+        "word": "يكبّر",
+        "opposite": "يصغّر"
+      }
+    },
+    {
+      "de": {
+        "word": "verbessern",
+        "opposite": "verschlechtern"
+      },
+      "en": {
+        "word": "improve",
+        "opposite": "worsen"
+      },
+      "fr": {
+        "word": "améliorer",
+        "opposite": "aggraver"
+      },
+      "ar": {
+        "word": "حسّن",
+        "opposite": "يسيء"
+      }
+    },
+    {
+      "de": {
+        "word": "beschleunigen",
+        "opposite": "verlangsamen"
+      },
+      "en": {
+        "word": "speed up",
+        "opposite": "slow down"
+      },
+      "fr": {
+        "word": "accélérer",
+        "opposite": "ralentir"
+      },
+      "ar": {
+        "word": "سرّع",
+        "opposite": "بطّأ"
+      }
+    },
+    {
+      "de": {
+        "word": "beschleunigen",
+        "opposite": "bremsen"
+      },
+      "en": {
+        "word": "accelerate",
+        "opposite": "brake"
+      },
+      "fr": {
+        "word": "accélérer",
+        "opposite": "freiner"
+      },
+      "ar": {
+        "word": "سرّع",
+        "opposite": "فرمل"
+      }
+    },
+    {
+      "de": {
+        "word": "bremsen",
+        "opposite": "beschleunigen"
+      },
+      "en": {
+        "word": "brake",
+        "opposite": "accelerate"
+      },
+      "fr": {
+        "word": "freiner",
+        "opposite": "accélérer"
+      },
+      "ar": {
+        "word": "فرمل",
+        "opposite": "سرّع"
+      }
+    },
+    {
+      "de": {
+        "word": "fahren",
+        "opposite": "anhalten"
+      },
+      "en": {
+        "word": "drive",
+        "opposite": "stop"
+      },
+      "fr": {
+        "word": "rouler",
+        "opposite": "s'arrêter"
+      },
+      "ar": {
+        "word": "قاد",
+        "opposite": "توقف"
+      }
+    },
+    {
+      "de": {
+        "word": "starten",
+        "opposite": "anhalten"
+      },
+      "en": {
+        "word": "start",
+        "opposite": "stop"
+      },
+      "fr": {
+        "word": "démarrer",
+        "opposite": "s'arrêter"
+      },
+      "ar": {
+        "word": "يبدأ التشغيل",
+        "opposite": "توقف"
+      }
+    },
+    {
+      "de": {
+        "word": "landen",
+        "opposite": "abheben"
+      },
+      "en": {
+        "word": "land",
+        "opposite": "take off"
+      },
+      "fr": {
+        "word": "atterrir",
+        "opposite": "décoller"
+      },
+      "ar": {
+        "word": "هبط",
+        "opposite": "أقلع"
+      }
+    },
+    {
+      "de": {
+        "word": "einsteigen",
+        "opposite": "aussteigen"
+      },
+      "en": {
+        "word": "get on",
+        "opposite": "get off"
+      },
+      "fr": {
+        "word": "monter",
+        "opposite": "descendre"
+      },
+      "ar": {
+        "word": "ركّب",
+        "opposite": "نزل"
+      }
+    },
+    {
+      "de": {
+        "word": "abholen",
+        "opposite": "zurücklassen"
+      },
+      "en": {
+        "word": "pick up",
+        "opposite": "leave behind"
+      },
+      "fr": {
+        "word": "venir chercher",
+        "opposite": "laisser"
+      },
+      "ar": {
+        "word": "يأتي ليأخذ",
+        "opposite": "ترك وراءه"
+      }
+    },
+    {
+      "de": {
+        "word": "einschlafen",
+        "opposite": "wach bleiben"
+      },
+      "en": {
+        "word": "fall asleep",
+        "opposite": "stay awake"
+      },
+      "fr": {
+        "word": "s'endormir",
+        "opposite": "rester éveillé"
+      },
+      "ar": {
+        "word": "غفا",
+        "opposite": "يبقى مستيقظًا"
+      }
+    },
+    {
+      "de": {
+        "word": "aufpassen",
+        "opposite": "ignorieren"
+      },
+      "en": {
+        "word": "pay attention",
+        "opposite": "ignore"
+      },
+      "fr": {
+        "word": "faire attention",
+        "opposite": "ignorer"
+      },
+      "ar": {
+        "word": "انتبه",
+        "opposite": "تجاهل"
+      }
+    },
+    {
+      "de": {
+        "word": "beachten",
+        "opposite": "missachten"
+      },
+      "en": {
+        "word": "observe",
+        "opposite": "disregard"
+      },
+      "fr": {
+        "word": "respecter",
+        "opposite": "négliger"
+      },
+      "ar": {
+        "word": "راعى",
+        "opposite": "تجاهل"
+      }
+    },
+    {
+      "de": {
+        "word": "respektieren",
+        "opposite": "beleidigen"
+      },
+      "en": {
+        "word": "respect",
+        "opposite": "insult"
+      },
+      "fr": {
+        "word": "respecter",
+        "opposite": "insulter"
+      },
+      "ar": {
+        "word": "احترم",
+        "opposite": "أهان"
+      }
+    },
+    {
+      "de": {
+        "word": "loben",
+        "opposite": "kritisieren"
+      },
+      "en": {
+        "word": "praise",
+        "opposite": "criticize"
+      },
+      "fr": {
+        "word": "féliciter",
+        "opposite": "critiquer"
+      },
+      "ar": {
+        "word": "مدح",
+        "opposite": "انتقد"
+      }
+    },
+    {
+      "de": {
+        "word": "kritisieren",
+        "opposite": "loben"
+      },
+      "en": {
+        "word": "criticize",
+        "opposite": "praise"
+      },
+      "fr": {
+        "word": "critiquer",
+        "opposite": "féliciter"
+      },
+      "ar": {
+        "word": "انتقد",
+        "opposite": "مدح"
+      }
+    },
+    {
+      "de": {
+        "word": "entschuldigen",
+        "opposite": "beschuldigen"
+      },
+      "en": {
+        "word": "excuse",
+        "opposite": "accuse"
+      },
+      "fr": {
+        "word": "excuser",
+        "opposite": "accuser"
+      },
+      "ar": {
+        "word": "عذر",
+        "opposite": "اتهم"
+      }
+    },
+    {
+      "de": {
+        "word": "beschuldigen",
+        "opposite": "verteidigen"
+      },
+      "en": {
+        "word": "accuse",
+        "opposite": "defend"
+      },
+      "fr": {
+        "word": "accuser",
+        "opposite": "défendre"
+      },
+      "ar": {
+        "word": "اتهم",
+        "opposite": "دافع"
+      }
+    },
+    {
+      "de": {
+        "word": "angreifen",
+        "opposite": "verteidigen"
+      },
+      "en": {
+        "word": "attack",
+        "opposite": "defend"
+      },
+      "fr": {
+        "word": "attaquer",
+        "opposite": "défendre"
+      },
+      "ar": {
+        "word": "هاجم",
+        "opposite": "دافع"
+      }
+    },
+    {
+      "de": {
+        "word": "kämpfen",
+        "opposite": "aufgeben"
+      },
+      "en": {
+        "word": "fight",
+        "opposite": "give up"
+      },
+      "fr": {
+        "word": "se battre",
+        "opposite": "abandonner"
+      },
+      "ar": {
+        "word": "كافح",
+        "opposite": "استسلم"
+      }
+    },
+    {
+      "de": {
+        "word": "aufgeben",
+        "opposite": "weitermachen"
+      },
+      "en": {
+        "word": "give up",
+        "opposite": "continue"
+      },
+      "fr": {
+        "word": "abandonner",
+        "opposite": "continuer"
+      },
+      "ar": {
+        "word": "استسلم",
+        "opposite": "واصل"
+      }
+    },
+    {
+      "de": {
+        "word": "gehorchen",
+        "opposite": "widersetzen"
+      },
+      "en": {
+        "word": "obey",
+        "opposite": "disobey"
+      },
+      "fr": {
+        "word": "obéir",
+        "opposite": "désobéir"
+      },
+      "ar": {
+        "word": "أطاع",
+        "opposite": "عصى"
+      }
+    },
+    {
+      "de": {
+        "word": "gehorchen",
+        "opposite": "befehlen"
+      },
+      "en": {
+        "word": "obey",
+        "opposite": "command"
+      },
+      "fr": {
+        "word": "obéir",
+        "opposite": "commander"
+      },
+      "ar": {
+        "word": "أطاع",
+        "opposite": "أمر"
+      }
+    },
+    {
+      "de": {
+        "word": "befehlen",
+        "opposite": "gehorchen"
+      },
+      "en": {
+        "word": "command",
+        "opposite": "obey"
+      },
+      "fr": {
+        "word": "commander",
+        "opposite": "obéir"
+      },
+      "ar": {
+        "word": "أمر",
+        "opposite": "أطاع"
+      }
+    },
+    {
+      "de": {
+        "word": "bitten",
+        "opposite": "verweigern"
+      },
+      "en": {
+        "word": "ask/request",
+        "opposite": "refuse"
+      },
+      "fr": {
+        "word": "demander",
+        "opposite": "refuser"
+      },
+      "ar": {
+        "word": "طلب",
+        "opposite": "رفض"
+      }
+    },
+    {
+      "de": {
+        "word": "versprechen",
+        "opposite": "brechen"
+      },
+      "en": {
+        "word": "promise",
+        "opposite": "break"
+      },
+      "fr": {
+        "word": "promettre",
+        "opposite": "rompre"
+      },
+      "ar": {
+        "word": "وعد",
+        "opposite": "نكث"
+      }
+    },
+    {
+      "de": {
+        "word": "halten",
+        "opposite": "brechen"
+      },
+      "en": {
+        "word": "keep",
+        "opposite": "break"
+      },
+      "fr": {
+        "word": "tenir",
+        "opposite": "rompre"
+      },
+      "ar": {
+        "word": "حافظ على",
+        "opposite": "كسر"
+      }
+    },
+    {
+      "de": {
+        "word": "vergessen",
+        "opposite": "sich erinnern"
+      },
+      "en": {
+        "word": "forget",
+        "opposite": "remember"
+      },
+      "fr": {
+        "word": "oublier",
+        "opposite": "se souvenir"
+      },
+      "ar": {
+        "word": "نسي",
+        "opposite": "تذكر"
+      }
+    },
+    {
+      "de": {
+        "word": "verlieren",
+        "opposite": "bewahren"
+      },
+      "en": {
+        "word": "lose",
+        "opposite": "preserve"
+      },
+      "fr": {
+        "word": "perdre",
+        "opposite": "conserver"
+      },
+      "ar": {
+        "word": "فقد",
+        "opposite": "حافظ على"
+      }
+    },
+    {
+      "de": {
+        "word": "verstecken",
+        "opposite": "entdecken"
+      },
+      "en": {
+        "word": "hide",
+        "opposite": "discover"
+      },
+      "fr": {
+        "word": "cacher",
+        "opposite": "découvrir"
+      },
+      "ar": {
+        "word": "أخفى",
+        "opposite": "اكتشف"
+      }
+    },
+    {
+      "de": {
+        "word": "entdecken",
+        "opposite": "verbergen"
+      },
+      "en": {
+        "word": "discover",
+        "opposite": "hide"
+      },
+      "fr": {
+        "word": "découvrir",
+        "opposite": "cacher"
+      },
+      "ar": {
+        "word": "اكتشف",
+        "opposite": "أخفى"
+      }
+    },
+    {
+      "de": {
+        "word": "zeigen",
+        "opposite": "verschweigen"
+      },
+      "en": {
+        "word": "reveal",
+        "opposite": "conceal"
+      },
+      "fr": {
+        "word": "révéler",
+        "opposite": "taire"
+      },
+      "ar": {
+        "word": "كشف",
+        "opposite": "أخفى"
+      }
+    },
+    {
+      "de": {
+        "word": "erzählen",
+        "opposite": "verschweigen"
+      },
+      "en": {
+        "word": "tell",
+        "opposite": "keep silent about"
+      },
+      "fr": {
+        "word": "raconter",
+        "opposite": "taire"
+      },
+      "ar": {
+        "word": "روى",
+        "opposite": "يسكت عن"
+      }
+    },
+    {
+      "de": {
+        "word": "reden",
+        "opposite": "schweigen"
+      },
+      "en": {
+        "word": "talk",
+        "opposite": "be silent"
+      },
+      "fr": {
+        "word": "parler",
+        "opposite": "se taire"
+      },
+      "ar": {
+        "word": "تكلم",
+        "opposite": "صمت"
+      }
+    },
+    {
+      "de": {
+        "word": "hören",
+        "opposite": "ignorieren"
+      },
+      "en": {
+        "word": "listen",
+        "opposite": "ignore"
+      },
+      "fr": {
+        "word": "écouter",
+        "opposite": "ignorer"
+      },
+      "ar": {
+        "word": "استمع",
+        "opposite": "تجاهل"
+      }
+    },
+    {
+      "de": {
+        "word": "anschauen",
+        "opposite": "wegschauen"
+      },
+      "en": {
+        "word": "look at",
+        "opposite": "look away"
+      },
+      "fr": {
+        "word": "regarder",
+        "opposite": "détourner le regard"
+      },
+      "ar": {
+        "word": "نظر إلى",
+        "opposite": "صرف النظر"
+      }
+    },
+    {
+      "de": {
+        "word": "sehen",
+        "opposite": "übersehen"
+      },
+      "en": {
+        "word": "see",
+        "opposite": "overlook"
+      },
+      "fr": {
+        "word": "voir",
+        "opposite": "ne pas voir"
+      },
+      "ar": {
+        "word": "رأى",
+        "opposite": "لم يلاحظ"
+      }
+    },
+    {
+      "de": {
+        "word": "riechen",
+        "opposite": "stinken"
+      },
+      "en": {
+        "word": "smell good",
+        "opposite": "stink"
+      },
+      "fr": {
+        "word": "sentir bon",
+        "opposite": "sentir mauvais"
+      },
+      "ar": {
+        "word": "تفوح منه رائحة طيبة",
+        "opposite": "تنبعث منه رائحة كريهة"
+      }
+    },
+    {
+      "de": {
+        "word": "essen",
+        "opposite": "fasten"
+      },
+      "en": {
+        "word": "eat",
+        "opposite": "fast"
+      },
+      "fr": {
+        "word": "manger",
+        "opposite": "jeûner"
+      },
+      "ar": {
+        "word": "أكل",
+        "opposite": "صام"
+      }
+    },
+    {
+      "de": {
+        "word": "trinken",
+        "opposite": "austrocknen"
+      },
+      "en": {
+        "word": "drink",
+        "opposite": "dehydrate"
+      },
+      "fr": {
+        "word": "boire",
+        "opposite": "se déshydrater"
+      },
+      "ar": {
+        "word": "يشرب",
+        "opposite": "يصاب بالجفاف"
+      }
+    },
+    {
+      "de": {
+        "word": "kochen",
+        "opposite": "bestellen"
+      },
+      "en": {
+        "word": "cook",
+        "opposite": "order"
+      },
+      "fr": {
+        "word": "cuisiner",
+        "opposite": "commander"
+      },
+      "ar": {
+        "word": "طبخ",
+        "opposite": "طلب"
+      }
+    },
+    {
+      "de": {
+        "word": "backen",
+        "opposite": "roh lassen"
+      },
+      "en": {
+        "word": "bake",
+        "opposite": "leave raw"
+      },
+      "fr": {
+        "word": "cuire au four",
+        "opposite": "laisser cru"
+      },
+      "ar": {
+        "word": "خبز",
+        "opposite": "يترك نيئًا"
+      }
+    },
+    {
+      "de": {
+        "word": "braten",
+        "opposite": "kochen"
+      },
+      "en": {
+        "word": "fry",
+        "opposite": "boil"
+      },
+      "fr": {
+        "word": "frire",
+        "opposite": "faire bouillir"
+      },
+      "ar": {
+        "word": "قلى",
+        "opposite": "غلى"
+      }
+    },
+    {
+      "de": {
+        "word": "schälen",
+        "opposite": "anlassen"
+      },
+      "en": {
+        "word": "peel",
+        "opposite": "leave unpeeled"
+      },
+      "fr": {
+        "word": "éplucher",
+        "opposite": "laisser avec la peau"
+      },
+      "ar": {
+        "word": "قشّر",
+        "opposite": "يترك بقشره"
+      }
+    },
+    {
+      "de": {
+        "word": "schneiden",
+        "opposite": "zusammenfügen"
+      },
+      "en": {
+        "word": "cut",
+        "opposite": "assemble"
+      },
+      "fr": {
+        "word": "couper",
+        "opposite": "assembler"
+      },
+      "ar": {
+        "word": "قطع",
+        "opposite": "جمع"
+      }
+    },
+    {
+      "de": {
+        "word": "teilen",
+        "opposite": "zusammenfügen"
+      },
+      "en": {
+        "word": "divide/share",
+        "opposite": "unite"
+      },
+      "fr": {
+        "word": "partager",
+        "opposite": "réunir"
+      },
+      "ar": {
+        "word": "قسم",
+        "opposite": "وحّد"
+      }
+    },
+    {
+      "de": {
+        "word": "verbinden",
+        "opposite": "trennen"
+      },
+      "en": {
+        "word": "connect",
+        "opposite": "disconnect"
+      },
+      "fr": {
+        "word": "connecter",
+        "opposite": "déconnecter"
+      },
+      "ar": {
+        "word": "وصل",
+        "opposite": "فصل"
+      }
+    },
+    {
+      "de": {
+        "word": "trennen",
+        "opposite": "verbinden"
+      },
+      "en": {
+        "word": "separate",
+        "opposite": "join"
+      },
+      "fr": {
+        "word": "séparer",
+        "opposite": "réunir"
+      },
+      "ar": {
+        "word": "فصل",
+        "opposite": "وصل"
+      }
+    },
+    {
+      "de": {
+        "word": "einstecken",
+        "opposite": "ausstecken"
+      },
+      "en": {
+        "word": "plug in",
+        "opposite": "unplug"
+      },
+      "fr": {
+        "word": "brancher",
+        "opposite": "débrancher"
+      },
+      "ar": {
+        "word": "يوصل بالكهرباء",
+        "opposite": "يفصل الكهرباء"
+      }
+    },
+    {
+      "de": {
+        "word": "installieren",
+        "opposite": "deinstallieren"
+      },
+      "en": {
+        "word": "install",
+        "opposite": "uninstall"
+      },
+      "fr": {
+        "word": "installer",
+        "opposite": "désinstaller"
+      },
+      "ar": {
+        "word": "ثبّت",
+        "opposite": "يزيل التثبيت"
+      }
+    },
+    {
+      "de": {
+        "word": "hochladen",
+        "opposite": "herunterladen"
+      },
+      "en": {
+        "word": "upload",
+        "opposite": "download"
+      },
+      "fr": {
+        "word": "télécharger",
+        "opposite": "télécharger"
+      },
+      "ar": {
+        "word": "رفع",
+        "opposite": "نزل"
+      }
+    },
+    {
+      "de": {
+        "word": "speichern",
+        "opposite": "löschen"
+      },
+      "en": {
+        "word": "save",
+        "opposite": "delete"
+      },
+      "fr": {
+        "word": "enregistrer",
+        "opposite": "supprimer"
+      },
+      "ar": {
+        "word": "حفظ",
+        "opposite": "حذف"
+      }
+    },
+    {
+      "de": {
+        "word": "löschen",
+        "opposite": "speichern"
+      },
+      "en": {
+        "word": "delete",
+        "opposite": "save"
+      },
+      "fr": {
+        "word": "supprimer",
+        "opposite": "enregistrer"
+      },
+      "ar": {
+        "word": "حذف",
+        "opposite": "حفظ"
+      }
+    },
+    {
+      "de": {
+        "word": "kopieren",
+        "opposite": "löschen"
+      },
+      "en": {
+        "word": "copy",
+        "opposite": "delete"
+      },
+      "fr": {
+        "word": "copier",
+        "opposite": "supprimer"
+      },
+      "ar": {
+        "word": "نسخ",
+        "opposite": "حذف"
+      }
+    },
+    {
+      "de": {
+        "word": "einfügen",
+        "opposite": "entfernen"
+      },
+      "en": {
+        "word": "paste",
+        "opposite": "remove"
+      },
+      "fr": {
+        "word": "coller",
+        "opposite": "enlever"
+      },
+      "ar": {
+        "word": "لصق",
+        "opposite": "أزال"
+      }
+    },
+    {
+      "de": {
+        "word": "annehmen",
+        "opposite": "ablehnen"
+      },
+      "en": {
+        "word": "accept",
+        "opposite": "reject"
+      },
+      "fr": {
+        "word": "accepter",
+        "opposite": "refuser"
+      },
+      "ar": {
+        "word": "قبل",
+        "opposite": "رفض"
+      }
+    },
+    {
+      "de": {
+        "word": "abonnieren",
+        "opposite": "abbestellen"
+      },
+      "en": {
+        "word": "subscribe",
+        "opposite": "unsubscribe"
+      },
+      "fr": {
+        "word": "s'abonner",
+        "opposite": "se désabonner"
+      },
+      "ar": {
+        "word": "اشترك",
+        "opposite": "ألغى الاشتراك"
+      }
+    },
+    {
+      "de": {
+        "word": "anmelden",
+        "opposite": "abmelden"
+      },
+      "en": {
+        "word": "log in",
+        "opposite": "log out"
+      },
+      "fr": {
+        "word": "se connecter",
+        "opposite": "se déconnecter"
+      },
+      "ar": {
+        "word": "سجّل الدخول",
+        "opposite": "سجّل الخروج"
+      }
+    },
+    {
+      "de": {
+        "word": "einloggen",
+        "opposite": "ausloggen"
+      },
+      "en": {
+        "word": "log in",
+        "opposite": "log out"
+      },
+      "fr": {
+        "word": "se connecter",
+        "opposite": "se déconnecter"
+      },
+      "ar": {
+        "word": "سجّل الدخول",
+        "opposite": "سجّل الخروج"
+      }
+    },
+    {
+      "de": {
+        "word": "aktivieren",
+        "opposite": "deaktivieren"
+      },
+      "en": {
+        "word": "activate",
+        "opposite": "deactivate"
+      },
+      "fr": {
+        "word": "activer",
+        "opposite": "désactiver"
+      },
+      "ar": {
+        "word": "فعّل",
+        "opposite": "عطّل"
+      }
+    },
+    {
+      "de": {
+        "word": "sperren",
+        "opposite": "entsperren"
+      },
+      "en": {
+        "word": "lock/block",
+        "opposite": "unlock/unblock"
+      },
+      "fr": {
+        "word": "bloquer",
+        "opposite": "débloquer"
+      },
+      "ar": {
+        "word": "أقفل/حظر",
+        "opposite": "فتح/فك الحظر"
+      }
+    },
+    {
+      "de": {
+        "word": "erlauben",
+        "opposite": "verhindern"
+      },
+      "en": {
+        "word": "allow",
+        "opposite": "prevent"
+      },
+      "fr": {
+        "word": "autoriser",
+        "opposite": "empêcher"
+      },
+      "ar": {
+        "word": "سمح",
+        "opposite": "منع"
+      }
+    },
+    {
+      "de": {
+        "word": "zulassen",
+        "opposite": "ausschließen"
+      },
+      "en": {
+        "word": "admit",
+        "opposite": "exclude"
+      },
+      "fr": {
+        "word": "admettre",
+        "opposite": "exclure"
+      },
+      "ar": {
+        "word": "سمح بالدخول",
+        "opposite": "استبعد"
+      }
+    },
+    {
+      "de": {
+        "word": "einschließen",
+        "opposite": "ausschließen"
+      },
+      "en": {
+        "word": "include",
+        "opposite": "exclude"
+      },
+      "fr": {
+        "word": "inclure",
+        "opposite": "exclure"
+      },
+      "ar": {
+        "word": "يشمل",
+        "opposite": "استبعد"
+      }
+    },
+    {
+      "de": {
+        "word": "einladen",
+        "opposite": "ausschließen"
+      },
+      "en": {
+        "word": "invite",
+        "opposite": "exclude"
+      },
+      "fr": {
+        "word": "inviter",
+        "opposite": "exclure"
+      },
+      "ar": {
+        "word": "دعا",
+        "opposite": "استبعد"
+      }
+    },
+    {
+      "de": {
+        "word": "begrüßen",
+        "opposite": "verabschieden"
+      },
+      "en": {
+        "word": "greet",
+        "opposite": "say goodbye"
+      },
+      "fr": {
+        "word": "saluer",
+        "opposite": "dire au revoir"
+      },
+      "ar": {
+        "word": "رحّب",
+        "opposite": "ودّع"
+      }
+    },
+    {
+      "de": {
+        "word": "begrüßen",
+        "opposite": "ignorieren"
+      },
+      "en": {
+        "word": "greet",
+        "opposite": "ignore"
+      },
+      "fr": {
+        "word": "saluer",
+        "opposite": "ignorer"
+      },
+      "ar": {
+        "word": "يحيّي",
+        "opposite": "تجاهل"
+      }
+    },
+    {
+      "de": {
+        "word": "verabschieden",
+        "opposite": "begrüßen"
+      },
+      "en": {
+        "word": "say goodbye",
+        "opposite": "welcome"
+      },
+      "fr": {
+        "word": "quitter",
+        "opposite": "accueillir"
+      },
+      "ar": {
+        "word": "ودّع",
+        "opposite": "رحّب"
+      }
+    },
+    {
+      "de": {
+        "word": "heiraten",
+        "opposite": "trennen"
+      },
+      "en": {
+        "word": "marry",
+        "opposite": "separate"
+      },
+      "fr": {
+        "word": "épouser",
+        "opposite": "séparer"
+      },
+      "ar": {
+        "word": "تزوج",
+        "opposite": "فصل"
+      }
+    },
+    {
+      "de": {
+        "word": "kennenlernen",
+        "opposite": "verlassen"
+      },
+      "en": {
+        "word": "meet/get to know",
+        "opposite": "leave"
+      },
+      "fr": {
+        "word": "rencontrer",
+        "opposite": "quitter"
+      },
+      "ar": {
+        "word": "تعرّف على",
+        "opposite": "ترك"
+      }
+    },
+    {
+      "de": {
+        "word": "treffen",
+        "opposite": "verfehlen"
+      },
+      "en": {
+        "word": "meet/hit",
+        "opposite": "miss"
+      },
+      "fr": {
+        "word": "rencontrer",
+        "opposite": "rater"
+      },
+      "ar": {
+        "word": "يلتقي",
+        "opposite": "فوّت"
+      }
+    },
+    {
+      "de": {
+        "word": "verpassen",
+        "opposite": "erwischen"
+      },
+      "en": {
+        "word": "miss",
+        "opposite": "catch"
+      },
+      "fr": {
+        "word": "rater",
+        "opposite": "attraper"
+      },
+      "ar": {
+        "word": "فوّت",
+        "opposite": "لحق"
+      }
+    },
+    {
+      "de": {
+        "word": "erreichen",
+        "opposite": "verfehlen"
+      },
+      "en": {
+        "word": "reach",
+        "opposite": "miss"
+      },
+      "fr": {
+        "word": "atteindre",
+        "opposite": "rater"
+      },
+      "ar": {
+        "word": "يصل إلى",
+        "opposite": "يفشل في الوصول"
+      }
+    },
+    {
+      "de": {
+        "word": "besteigen",
+        "opposite": "hinuntergehen"
+      },
+      "en": {
+        "word": "climb",
+        "opposite": "go down"
+      },
+      "fr": {
+        "word": "monter",
+        "opposite": "descendre"
+      },
+      "ar": {
+        "word": "صعد",
+        "opposite": "نزل"
+      }
+    },
+    {
+      "de": {
+        "word": "ankommen",
+        "opposite": "wegfahren"
+      },
+      "en": {
+        "word": "arrive",
+        "opposite": "leave again"
+      },
+      "fr": {
+        "word": "arriver",
+        "opposite": "repartir"
+      },
+      "ar": {
+        "word": "يصل",
+        "opposite": "يغادر مجددًا"
+      }
+    },
+    {
+      "de": {
+        "word": "hereinkommen",
+        "opposite": "hinausgehen"
+      },
+      "en": {
+        "word": "come in",
+        "opposite": "go out"
+      },
+      "fr": {
+        "word": "entrer",
+        "opposite": "sortir"
+      },
+      "ar": {
+        "word": "دخل",
+        "opposite": "خرج"
+      }
+    },
+    {
+      "de": {
+        "word": "hinausgehen",
+        "opposite": "hereinkommen"
+      },
+      "en": {
+        "word": "go out",
+        "opposite": "come in"
+      },
+      "fr": {
+        "word": "sortir",
+        "opposite": "entrer"
+      },
+      "ar": {
+        "word": "خرج",
+        "opposite": "دخل"
+      }
+    },
+    {
+      "de": {
+        "word": "zurückkehren",
+        "opposite": "wegbleiben"
+      },
+      "en": {
+        "word": "return",
+        "opposite": "stay away"
+      },
+      "fr": {
+        "word": "retourner",
+        "opposite": "s'absenter"
+      },
+      "ar": {
+        "word": "عاد",
+        "opposite": "يبقى بعيدًا"
+      }
+    },
+    {
+      "de": {
+        "word": "sich erinnern",
+        "opposite": "vergessen"
+      },
+      "en": {
+        "word": "recall",
+        "opposite": "forget"
+      },
+      "fr": {
+        "word": "se rappeler",
+        "opposite": "oublier"
+      },
+      "ar": {
+        "word": "تذكر",
+        "opposite": "نسي"
+      }
+    },
+    {
+      "de": {
+        "word": "behalten",
+        "opposite": "verlieren"
+      },
+      "en": {
+        "word": "keep",
+        "opposite": "lose"
+      },
+      "fr": {
+        "word": "garder",
+        "opposite": "perdre"
+      },
+      "ar": {
+        "word": "احتفظ",
+        "opposite": "فقد"
+      }
+    },
+    {
+      "de": {
+        "word": "bekommen",
+        "opposite": "verlieren"
+      },
+      "en": {
+        "word": "get/receive",
+        "opposite": "lose"
+      },
+      "fr": {
+        "word": "recevoir",
+        "opposite": "perdre"
+      },
+      "ar": {
+        "word": "يحصل على",
+        "opposite": "فقد"
+      }
+    },
+    {
+      "de": {
+        "word": "geben",
+        "opposite": "behalten"
+      },
+      "en": {
+        "word": "give",
+        "opposite": "keep"
+      },
+      "fr": {
+        "word": "donner",
+        "opposite": "garder"
+      },
+      "ar": {
+        "word": "أعطى",
+        "opposite": "احتفظ"
+      }
+    },
+    {
+      "de": {
+        "word": "bringen",
+        "opposite": "nehmen"
+      },
+      "en": {
+        "word": "bring",
+        "opposite": "take"
+      },
+      "fr": {
+        "word": "apporter",
+        "opposite": "prendre"
+      },
+      "ar": {
+        "word": "جلب",
+        "opposite": "أخذ"
+      }
+    },
+    {
+      "de": {
+        "word": "öffnen",
+        "opposite": "verriegeln"
+      },
+      "en": {
+        "word": "open",
+        "opposite": "lock"
+      },
+      "fr": {
+        "word": "ouvrir",
+        "opposite": "verrouiller"
+      },
+      "ar": {
+        "word": "فتح",
+        "opposite": "أقفل"
+      }
+    },
+    {
+      "de": {
+        "word": "schließen",
+        "opposite": "öffnen"
+      },
+      "en": {
+        "word": "close",
+        "opposite": "open"
+      },
+      "fr": {
+        "word": "fermer",
+        "opposite": "ouvrir"
+      },
+      "ar": {
+        "word": "أغلق",
+        "opposite": "فتح"
+      }
+    },
+    {
+      "de": {
+        "word": "einschalten",
+        "opposite": "abschalten"
+      },
+      "en": {
+        "word": "switch on",
+        "opposite": "switch off"
+      },
+      "fr": {
+        "word": "mettre en marche",
+        "opposite": "arrêter"
+      },
+      "ar": {
+        "word": "شغّل",
+        "opposite": "أطفأ"
+      }
+    },
+    {
+      "de": {
+        "word": "abschalten",
+        "opposite": "einschalten"
+      },
+      "en": {
+        "word": "switch off",
+        "opposite": "switch on"
+      },
+      "fr": {
+        "word": "arrêter",
+        "opposite": "mettre en marche"
+      },
+      "ar": {
+        "word": "أطفأ",
+        "opposite": "شغّل"
+      }
+    },
+    {
+      "de": {
+        "word": "anzünden",
+        "opposite": "löschen"
+      },
+      "en": {
+        "word": "light",
+        "opposite": "extinguish"
+      },
+      "fr": {
+        "word": "allumer",
+        "opposite": "éteindre"
+      },
+      "ar": {
+        "word": "يشعل",
+        "opposite": "أطفأ"
+      }
+    },
+    {
+      "de": {
+        "word": "brennen",
+        "opposite": "löschen"
+      },
+      "en": {
+        "word": "burn",
+        "opposite": "extinguish"
+      },
+      "fr": {
+        "word": "brûler",
+        "opposite": "éteindre"
+      },
+      "ar": {
+        "word": "يحترق",
+        "opposite": "أطفأ"
+      }
+    },
+    {
+      "de": {
+        "word": "frieren",
+        "opposite": "heizen"
+      },
+      "en": {
+        "word": "freeze",
+        "opposite": "heat"
+      },
+      "fr": {
+        "word": "geler",
+        "opposite": "chauffer"
+      },
+      "ar": {
+        "word": "يتجمد",
+        "opposite": "يدفئ"
+      }
+    },
+    {
+      "de": {
+        "word": "kühlen",
+        "opposite": "heizen"
+      },
+      "en": {
+        "word": "cool",
+        "opposite": "heat"
+      },
+      "fr": {
+        "word": "refroidir",
+        "opposite": "chauffer"
+      },
+      "ar": {
+        "word": "يبرد",
+        "opposite": "يسخّن"
+      }
+    },
+    {
+      "de": {
+        "word": "heizen",
+        "opposite": "kühlen"
+      },
+      "en": {
+        "word": "heat",
+        "opposite": "cool"
+      },
+      "fr": {
+        "word": "chauffer",
+        "opposite": "refroidir"
+      },
+      "ar": {
+        "word": "يسخّن",
+        "opposite": "يبرد"
+      }
+    },
+    {
+      "de": {
+        "word": "nass werden",
+        "opposite": "trocknen"
+      },
+      "en": {
+        "word": "get wet",
+        "opposite": "dry"
+      },
+      "fr": {
+        "word": "se mouiller",
+        "opposite": "sécher"
+      },
+      "ar": {
+        "word": "يبتل",
+        "opposite": "يجف"
+      }
+    },
+    {
+      "de": {
+        "word": "anziehen",
+        "opposite": "ausziehen"
+      },
+      "en": {
+        "word": "get dressed",
+        "opposite": "get undressed"
+      },
+      "fr": {
+        "word": "s'habiller",
+        "opposite": "se déshabiller"
+      },
+      "ar": {
+        "word": "يرتدي ملابسه",
+        "opposite": "يخلع ملابسه"
+      }
+    },
+    {
+      "de": {
+        "word": "sich waschen",
+        "opposite": "sich beschmutzen"
+      },
+      "en": {
+        "word": "wash oneself",
+        "opposite": "get dirty"
+      },
+      "fr": {
+        "word": "se laver",
+        "opposite": "se salir"
+      },
+      "ar": {
+        "word": "يغتسل",
+        "opposite": "يتسخ"
+      }
+    },
+    {
+      "de": {
+        "word": "sauber machen",
+        "opposite": "schmutzig machen"
+      },
+      "en": {
+        "word": "clean",
+        "opposite": "dirty"
+      },
+      "fr": {
+        "word": "nettoyer",
+        "opposite": "salir"
+      },
+      "ar": {
+        "word": "نظّف",
+        "opposite": "وسّخ"
+      }
+    },
+    {
+      "de": {
+        "word": "ordnen",
+        "opposite": "durcheinanderbringen"
+      },
+      "en": {
+        "word": "arrange",
+        "opposite": "mess up"
+      },
+      "fr": {
+        "word": "ranger",
+        "opposite": "déranger"
+      },
+      "ar": {
+        "word": "يرتب",
+        "opposite": "يُحدث فوضى"
+      }
+    },
+    {
+      "de": {
+        "word": "aufbauen",
+        "opposite": "abbauen"
+      },
+      "en": {
+        "word": "assemble",
+        "opposite": "disassemble"
+      },
+      "fr": {
+        "word": "monter",
+        "opposite": "démonter"
+      },
+      "ar": {
+        "word": "ركّب",
+        "opposite": "فكك"
+      }
+    },
+    {
+      "de": {
+        "word": "anmachen",
+        "opposite": "löschen"
+      },
+      "en": {
+        "word": "turn on",
+        "opposite": "turn off"
+      },
+      "fr": {
+        "word": "allumer",
+        "opposite": "éteindre"
+      },
+      "ar": {
+        "word": "شغّل",
+        "opposite": "أطفأ"
+      }
+    },
+    {
+      "de": {
+        "word": "einsetzen",
+        "opposite": "herausnehmen"
+      },
+      "en": {
+        "word": "insert",
+        "opposite": "remove"
+      },
+      "fr": {
+        "word": "insérer",
+        "opposite": "retirer"
+      },
+      "ar": {
+        "word": "يُدخل",
+        "opposite": "يُخرج"
+      }
+    },
+    {
+      "de": {
+        "word": "hineinschieben",
+        "opposite": "herausziehen"
+      },
+      "en": {
+        "word": "push in",
+        "opposite": "pull out"
+      },
+      "fr": {
+        "word": "pousser dedans",
+        "opposite": "tirer dehors"
+      },
+      "ar": {
+        "word": "يدفع إلى الداخل",
+        "opposite": "يسحب إلى الخارج"
+      }
+    },
+    {
+      "de": {
+        "word": "einfüllen",
+        "opposite": "ausgießen"
+      },
+      "en": {
+        "word": "fill",
+        "opposite": "pour out"
+      },
+      "fr": {
+        "word": "remplir",
+        "opposite": "verser"
+      },
+      "ar": {
+        "word": "ملأ",
+        "opposite": "أفرغ"
+      }
+    },
+    {
+      "de": {
+        "word": "aufmachen",
+        "opposite": "zumachen"
+      },
+      "en": {
+        "word": "open",
+        "opposite": "close"
+      },
+      "fr": {
+        "word": "ouvrir",
+        "opposite": "fermer"
+      },
+      "ar": {
+        "word": "فتح",
+        "opposite": "أغلق"
+      }
+    },
+    {
+      "de": {
+        "word": "anmieten",
+        "opposite": "kündigen"
+      },
+      "en": {
+        "word": "rent",
+        "opposite": "terminate"
+      },
+      "fr": {
+        "word": "louer",
+        "opposite": "résilier"
+      },
+      "ar": {
+        "word": "استأجر",
+        "opposite": "ألغى"
+      }
+    },
+    {
+      "de": {
+        "word": "mieten",
+        "opposite": "vermieten"
+      },
+      "en": {
+        "word": "rent",
+        "opposite": "rent out"
+      },
+      "fr": {
+        "word": "louer",
+        "opposite": "donner en location"
+      },
+      "ar": {
+        "word": "استأجر",
+        "opposite": "أجّر"
+      }
+    },
+    {
+      "de": {
+        "word": "vermieten",
+        "opposite": "mieten"
+      },
+      "en": {
+        "word": "rent out",
+        "opposite": "rent"
+      },
+      "fr": {
+        "word": "louer",
+        "opposite": "louer"
+      },
+      "ar": {
+        "word": "أجّر",
+        "opposite": "استأجر"
+      }
+    },
+    {
+      "de": {
+        "word": "bestellen",
+        "opposite": "stornieren"
+      },
+      "en": {
+        "word": "order",
+        "opposite": "cancel"
+      },
+      "fr": {
+        "word": "commander",
+        "opposite": "annuler"
+      },
+      "ar": {
+        "word": "طلب",
+        "opposite": "ألغى"
+      }
+    },
+    {
+      "de": {
+        "word": "reservieren",
+        "opposite": "stornieren"
+      },
+      "en": {
+        "word": "reserve",
+        "opposite": "cancel"
+      },
+      "fr": {
+        "word": "réserver",
+        "opposite": "annuler"
+      },
+      "ar": {
+        "word": "حجز",
+        "opposite": "ألغى"
+      }
+    },
+    {
+      "de": {
+        "word": "buchen",
+        "opposite": "stornieren"
+      },
+      "en": {
+        "word": "book",
+        "opposite": "cancel"
+      },
+      "fr": {
+        "word": "réserver",
+        "opposite": "annuler"
+      },
+      "ar": {
+        "word": "حجز",
+        "opposite": "ألغى"
+      }
+    },
+    {
+      "de": {
+        "word": "bezahlen",
+        "opposite": "zurückerstatten"
+      },
+      "en": {
+        "word": "pay",
+        "opposite": "refund"
+      },
+      "fr": {
+        "word": "payer",
+        "opposite": "rembourser"
+      },
+      "ar": {
+        "word": "دفع",
+        "opposite": "ردّ المال"
+      }
+    },
+    {
+      "de": {
+        "word": "zurückgeben",
+        "opposite": "behalten"
+      },
+      "en": {
+        "word": "return",
+        "opposite": "keep"
+      },
+      "fr": {
+        "word": "rendre",
+        "opposite": "garder"
+      },
+      "ar": {
+        "word": "أعاد",
+        "opposite": "احتفظ"
+      }
+    },
+    {
+      "de": {
+        "word": "ersetzen",
+        "opposite": "behalten"
+      },
+      "en": {
+        "word": "replace",
+        "opposite": "keep"
+      },
+      "fr": {
+        "word": "remplacer",
+        "opposite": "garder"
+      },
+      "ar": {
+        "word": "استبدل",
+        "opposite": "احتفظ"
+      }
+    },
+    {
+      "de": {
+        "word": "reparieren",
+        "opposite": "wegwerfen"
+      },
+      "en": {
+        "word": "repair",
+        "opposite": "throw away"
+      },
+      "fr": {
+        "word": "réparer",
+        "opposite": "jeter"
+      },
+      "ar": {
+        "word": "أصلح",
+        "opposite": "رمى"
+      }
+    },
+    {
+      "de": {
+        "word": "wegwerfen",
+        "opposite": "behalten"
+      },
+      "en": {
+        "word": "throw away",
+        "opposite": "keep"
+      },
+      "fr": {
+        "word": "jeter",
+        "opposite": "garder"
+      },
+      "ar": {
+        "word": "رمى",
+        "opposite": "احتفظ"
+      }
+    },
+    {
+      "de": {
+        "word": "aufbauen",
+        "opposite": "zerlegen"
+      },
+      "en": {
+        "word": "build",
+        "opposite": "dismantle"
+      },
+      "fr": {
+        "word": "construire",
+        "opposite": "démonter"
+      },
+      "ar": {
+        "word": "بنى",
+        "opposite": "فكك"
+      }
+    },
+    {
+      "de": {
+        "word": "zerlegen",
+        "opposite": "aufbauen"
+      },
+      "en": {
+        "word": "dismantle",
+        "opposite": "assemble"
+      },
+      "fr": {
+        "word": "démonter",
+        "opposite": "monter"
+      },
+      "ar": {
+        "word": "فكك",
+        "opposite": "ركّب"
+      }
+    },
+    {
+      "de": {
+        "word": "verbinden",
+        "opposite": "trennen"
+      },
+      "en": {
+        "word": "connect",
+        "opposite": "separate"
+      },
+      "fr": {
+        "word": "relier",
+        "opposite": "séparer"
+      },
+      "ar": {
+        "word": "ربط",
+        "opposite": "فصل"
+      }
+    },
+    {
+      "de": {
+        "word": "vereinigen",
+        "opposite": "trennen"
+      },
+      "en": {
+        "word": "unite",
+        "opposite": "separate"
+      },
+      "fr": {
+        "word": "unir",
+        "opposite": "séparer"
+      },
+      "ar": {
+        "word": "يوحد",
+        "opposite": "فصل"
+      }
+    },
+    {
+      "de": {
+        "word": "sich treffen",
+        "opposite": "sich trennen"
+      },
+      "en": {
+        "word": "meet up",
+        "opposite": "separate"
+      },
+      "fr": {
+        "word": "se retrouver",
+        "opposite": "se séparer"
+      },
+      "ar": {
+        "word": "يلتقي",
+        "opposite": "يفترق"
+      }
+    },
+    {
+      "de": {
+        "word": "bleiben",
+        "opposite": "gehen"
+      },
+      "en": {
+        "word": "stay",
+        "opposite": "go"
+      },
+      "fr": {
+        "word": "rester",
+        "opposite": "aller"
+      },
+      "ar": {
+        "word": "بقي",
+        "opposite": "يذهب"
+      }
+    },
+    {
+      "de": {
+        "word": "warten",
+        "opposite": "beschleunigen"
+      },
+      "en": {
+        "word": "wait",
+        "opposite": "speed up"
+      },
+      "fr": {
+        "word": "attendre",
+        "opposite": "accélérer"
+      },
+      "ar": {
+        "word": "انتظر",
+        "opposite": "سرّع"
+      }
+    },
+    {
+      "de": {
+        "word": "verzögern",
+        "opposite": "beschleunigen"
+      },
+      "en": {
+        "word": "delay",
+        "opposite": "speed up"
+      },
+      "fr": {
+        "word": "retarder",
+        "opposite": "accélérer"
+      },
+      "ar": {
+        "word": "يؤخر",
+        "opposite": "سرّع"
+      }
+    },
+    {
+      "de": {
+        "word": "beschleunigen",
+        "opposite": "verzögern"
+      },
+      "en": {
+        "word": "speed up",
+        "opposite": "delay"
+      },
+      "fr": {
+        "word": "accélérer",
+        "opposite": "retarder"
+      },
+      "ar": {
+        "word": "سرّع",
+        "opposite": "يؤخر"
+      }
+    },
+    {
+      "de": {
+        "word": "halten",
+        "opposite": "losfahren"
+      },
+      "en": {
+        "word": "stop",
+        "opposite": "start driving"
+      },
+      "fr": {
+        "word": "s'arrêter",
+        "opposite": "démarrer"
+      },
+      "ar": {
+        "word": "توقف",
+        "opposite": "انطلق"
+      }
+    },
+    {
+      "de": {
+        "word": "anhalten",
+        "opposite": "losfahren"
+      },
+      "en": {
+        "word": "stop",
+        "opposite": "set off"
+      },
+      "fr": {
+        "word": "s'arrêter",
+        "opposite": "partir"
+      },
+      "ar": {
+        "word": "توقف",
+        "opposite": "انطلق"
+      }
+    },
+    {
+      "de": {
+        "word": "einparken",
+        "opposite": "ausparken"
+      },
+      "en": {
+        "word": "park",
+        "opposite": "pull out"
+      },
+      "fr": {
+        "word": "se garer",
+        "opposite": "sortir d'une place"
+      },
+      "ar": {
+        "word": "يركن",
+        "opposite": "يخرج من الموقف"
+      }
+    },
+    {
+      "de": {
+        "word": "aussteigen",
+        "opposite": "einsteigen"
+      },
+      "en": {
+        "word": "get off",
+        "opposite": "get on"
+      },
+      "fr": {
+        "word": "descendre",
+        "opposite": "monter"
+      },
+      "ar": {
+        "word": "نزل",
+        "opposite": "ركّب"
+      }
+    },
+    {
+      "de": {
+        "word": "hochheben",
+        "opposite": "herunterlassen"
+      },
+      "en": {
+        "word": "lift up",
+        "opposite": "lower"
+      },
+      "fr": {
+        "word": "soulever",
+        "opposite": "abaisser"
+      },
+      "ar": {
+        "word": "رفع",
+        "opposite": "خفض"
+      }
+    },
+    {
+      "de": {
+        "word": "aufsteigen",
+        "opposite": "absteigen"
+      },
+      "en": {
+        "word": "go up",
+        "opposite": "go down"
+      },
+      "fr": {
+        "word": "monter",
+        "opposite": "descendre"
+      },
+      "ar": {
+        "word": "صعد",
+        "opposite": "نزل"
+      }
+    },
+    {
+      "de": {
+        "word": "vorbereiten",
+        "opposite": "improvisieren"
+      },
+      "en": {
+        "word": "prepare",
+        "opposite": "improvise"
+      },
+      "fr": {
+        "word": "préparer",
+        "opposite": "improviser"
+      },
+      "ar": {
+        "word": "يحضّر",
+        "opposite": "ارتجل"
+      }
+    },
+    {
+      "de": {
+        "word": "planen",
+        "opposite": "improvisieren"
+      },
+      "en": {
+        "word": "plan",
+        "opposite": "improvise"
+      },
+      "fr": {
+        "word": "planifier",
+        "opposite": "improviser"
+      },
+      "ar": {
+        "word": "خطط",
+        "opposite": "ارتجل"
+      }
+    },
+    {
+      "de": {
+        "word": "organisieren",
+        "opposite": "chaotisieren"
+      },
+      "en": {
+        "word": "organize",
+        "opposite": "disorganize"
+      },
+      "fr": {
+        "word": "organiser",
+        "opposite": "désorganiser"
+      },
+      "ar": {
+        "word": "نظّم",
+        "opposite": "يفوضى"
+      }
+    },
+    {
+      "de": {
+        "word": "sortieren",
+        "opposite": "mischen"
+      },
+      "en": {
+        "word": "sort",
+        "opposite": "mix"
+      },
+      "fr": {
+        "word": "trier",
+        "opposite": "mélanger"
+      },
+      "ar": {
+        "word": "يفرز",
+        "opposite": "خلط"
+      }
+    },
+    {
+      "de": {
+        "word": "mischen",
+        "opposite": "trennen"
+      },
+      "en": {
+        "word": "mix",
+        "opposite": "separate"
+      },
+      "fr": {
+        "word": "mélanger",
+        "opposite": "séparer"
+      },
+      "ar": {
+        "word": "خلط",
+        "opposite": "فصل"
+      }
+    },
+    {
+      "de": {
+        "word": "zusammenfügen",
+        "opposite": "trennen"
+      },
+      "en": {
+        "word": "join",
+        "opposite": "separate"
+      },
+      "fr": {
+        "word": "assembler",
+        "opposite": "séparer"
+      },
+      "ar": {
+        "word": "جمع",
+        "opposite": "فصل"
+      }
+    },
+    {
+      "de": {
+        "word": "behalten",
+        "opposite": "weggeben"
+      },
+      "en": {
+        "word": "keep",
+        "opposite": "give away"
+      },
+      "fr": {
+        "word": "garder",
+        "opposite": "donner"
+      },
+      "ar": {
+        "word": "احتفظ",
+        "opposite": "يعطي بعيدًا"
+      }
+    },
+    {
+      "de": {
+        "word": "weggeben",
+        "opposite": "behalten"
+      },
+      "en": {
+        "word": "give away",
+        "opposite": "keep"
+      },
+      "fr": {
+        "word": "donner",
+        "opposite": "garder"
+      },
+      "ar": {
+        "word": "أعطى",
+        "opposite": "احتفظ"
+      }
+    },
+    {
+      "de": {
+        "word": "stehlen",
+        "opposite": "zurückgeben"
+      },
+      "en": {
+        "word": "steal",
+        "opposite": "return"
+      },
+      "fr": {
+        "word": "voler",
+        "opposite": "rendre"
+      },
+      "ar": {
+        "word": "يسرق",
+        "opposite": "أعاد"
+      }
+    },
+    {
+      "de": {
+        "word": "zurückholen",
+        "opposite": "wegschicken"
+      },
+      "en": {
+        "word": "retrieve",
+        "opposite": "send away"
+      },
+      "fr": {
+        "word": "récupérer",
+        "opposite": "renvoyer"
+      },
+      "ar": {
+        "word": "استعاد",
+        "opposite": "يرسل بعيدًا"
+      }
+    },
+    {
+      "de": {
+        "word": "einstellen",
+        "opposite": "entlassen"
+      },
+      "en": {
+        "word": "hire",
+        "opposite": "fire"
+      },
+      "fr": {
+        "word": "embaucher",
+        "opposite": "licencier"
+      },
+      "ar": {
+        "word": "وظّف",
+        "opposite": "فصل من العمل"
+      }
+    },
+    {
+      "de": {
+        "word": "entlassen",
+        "opposite": "einstellen"
+      },
+      "en": {
+        "word": "fire",
+        "opposite": "hire"
+      },
+      "fr": {
+        "word": "licencier",
+        "opposite": "embaucher"
+      },
+      "ar": {
+        "word": "فصل من العمل",
+        "opposite": "وظّف"
+      }
+    },
+    {
+      "de": {
+        "word": "befördern",
+        "opposite": "degradieren"
+      },
+      "en": {
+        "word": "promote",
+        "opposite": "demote"
+      },
+      "fr": {
+        "word": "promouvoir",
+        "opposite": "rétrograder"
+      },
+      "ar": {
+        "word": "رقّى",
+        "opposite": "يخفض الرتبة"
+      }
+    },
+    {
+      "de": {
+        "word": "aufsteigen",
+        "opposite": "zurücktreten"
+      },
+      "en": {
+        "word": "get promoted",
+        "opposite": "resign"
+      },
+      "fr": {
+        "word": "être promu",
+        "opposite": "démissionner"
+      },
+      "ar": {
+        "word": "يترقى",
+        "opposite": "استقال"
+      }
+    },
+    {
+      "de": {
+        "word": "einstellen",
+        "opposite": "kündigen"
+      },
+      "en": {
+        "word": "hire",
+        "opposite": "resign"
+      },
+      "fr": {
+        "word": "embaucher",
+        "opposite": "démissionner"
+      },
+      "ar": {
+        "word": "وظّف",
+        "opposite": "استقال"
+      }
+    },
+    {
+      "de": {
+        "word": "kündigen",
+        "opposite": "verlängern"
+      },
+      "en": {
+        "word": "terminate",
+        "opposite": "extend"
+      },
+      "fr": {
+        "word": "résilier",
+        "opposite": "prolonger"
+      },
+      "ar": {
+        "word": "أنهى",
+        "opposite": "مدّد"
+      }
+    },
+    {
+      "de": {
+        "word": "verlängern",
+        "opposite": "verkürzen"
+      },
+      "en": {
+        "word": "extend",
+        "opposite": "shorten"
+      },
+      "fr": {
+        "word": "prolonger",
+        "opposite": "raccourcir"
+      },
+      "ar": {
+        "word": "مدّد",
+        "opposite": "قصّر"
+      }
+    },
+    {
+      "de": {
+        "word": "verkürzen",
+        "opposite": "verlängern"
+      },
+      "en": {
+        "word": "shorten",
+        "opposite": "extend"
+      },
+      "fr": {
+        "word": "raccourcir",
+        "opposite": "prolonger"
+      },
+      "ar": {
+        "word": "قصّر",
+        "opposite": "مدّد"
+      }
+    },
+    {
+      "de": {
+        "word": "vergrößern",
+        "opposite": "verkleinern"
+      },
+      "en": {
+        "word": "enlarge",
+        "opposite": "shrink"
+      },
+      "fr": {
+        "word": "agrandir",
+        "opposite": "rétrécir"
+      },
+      "ar": {
+        "word": "يكبر",
+        "opposite": "يصغر"
+      }
+    },
+    {
+      "de": {
+        "word": "reduzieren",
+        "opposite": "erhöhen"
+      },
+      "en": {
+        "word": "reduce",
+        "opposite": "increase"
+      },
+      "fr": {
+        "word": "réduire",
+        "opposite": "augmenter"
+      },
+      "ar": {
+        "word": "خفض",
+        "opposite": "رفع"
+      }
+    },
+    {
+      "de": {
+        "word": "erhöhen",
+        "opposite": "reduzieren"
+      },
+      "en": {
+        "word": "increase",
+        "opposite": "reduce"
+      },
+      "fr": {
+        "word": "augmenter",
+        "opposite": "réduire"
+      },
+      "ar": {
+        "word": "رفع",
+        "opposite": "خفض"
+      }
+    },
+    {
+      "de": {
+        "word": "senken",
+        "opposite": "heben"
+      },
+      "en": {
+        "word": "lower",
+        "opposite": "raise"
+      },
+      "fr": {
+        "word": "abaisser",
+        "opposite": "lever"
+      },
+      "ar": {
+        "word": "خفض",
+        "opposite": "رفع"
+      }
+    },
+    {
+      "de": {
+        "word": "verbrauchen",
+        "opposite": "sparen"
+      },
+      "en": {
+        "word": "consume",
+        "opposite": "save"
+      },
+      "fr": {
+        "word": "consommer",
+        "opposite": "économiser"
+      },
+      "ar": {
+        "word": "استهلك",
+        "opposite": "يوفر"
+      }
+    },
+    {
+      "de": {
+        "word": "verschwenden",
+        "opposite": "sparen"
+      },
+      "en": {
+        "word": "waste",
+        "opposite": "save"
+      },
+      "fr": {
+        "word": "gaspiller",
+        "opposite": "économiser"
+      },
+      "ar": {
+        "word": "هدر",
+        "opposite": "يوفر"
+      }
+    },
+    {
+      "de": {
+        "word": "teilen",
+        "opposite": "sammeln"
+      },
+      "en": {
+        "word": "share",
+        "opposite": "gather"
+      },
+      "fr": {
+        "word": "partager",
+        "opposite": "rassembler"
+      },
+      "ar": {
+        "word": "شارك",
+        "opposite": "جمع"
+      }
+    },
+    {
+      "de": {
+        "word": "sammeln",
+        "opposite": "verteilen"
+      },
+      "en": {
+        "word": "collect",
+        "opposite": "distribute"
+      },
+      "fr": {
+        "word": "rassembler",
+        "opposite": "distribuer"
+      },
+      "ar": {
+        "word": "جمع",
+        "opposite": "وزّع"
+      }
+    },
+    {
+      "de": {
+        "word": "verteilen",
+        "opposite": "sammeln"
+      },
+      "en": {
+        "word": "distribute",
+        "opposite": "collect"
+      },
+      "fr": {
+        "word": "distribuer",
+        "opposite": "rassembler"
+      },
+      "ar": {
+        "word": "وزّع",
+        "opposite": "جمع"
+      }
+    },
+    {
+      "de": {
+        "word": "geben",
+        "opposite": "nehmen"
+      },
+      "en": {
+        "word": "give",
+        "opposite": "take"
+      },
+      "fr": {
+        "word": "donner",
+        "opposite": "prendre"
+      },
+      "ar": {
+        "word": "أعطى",
+        "opposite": "أخذ"
+      }
+    },
+    {
+      "de": {
+        "word": "leihen",
+        "opposite": "zurückgeben"
+      },
+      "en": {
+        "word": "lend",
+        "opposite": "return"
+      },
+      "fr": {
+        "word": "prêter",
+        "opposite": "rendre"
+      },
+      "ar": {
+        "word": "يعير",
+        "opposite": "أعاد"
+      }
+    },
+    {
+      "de": {
+        "word": "zurückzahlen",
+        "opposite": "aufnehmen"
+      },
+      "en": {
+        "word": "repay",
+        "opposite": "borrow"
+      },
+      "fr": {
+        "word": "rembourser",
+        "opposite": "emprunter"
+      },
+      "ar": {
+        "word": "سدّد",
+        "opposite": "استعار"
+      }
+    },
+    {
+      "de": {
+        "word": "sich nähern",
+        "opposite": "weggehen"
+      },
+      "en": {
+        "word": "approach",
+        "opposite": "move away"
+      },
+      "fr": {
+        "word": "s'approcher",
+        "opposite": "s'éloigner"
+      },
+      "ar": {
+        "word": "اقترب",
+        "opposite": "ابتعد"
+      }
+    },
+    {
+      "de": {
+        "word": "weggehen",
+        "opposite": "sich nähern"
+      },
+      "en": {
+        "word": "move away",
+        "opposite": "approach"
+      },
+      "fr": {
+        "word": "s'éloigner",
+        "opposite": "s'approcher"
+      },
+      "ar": {
+        "word": "ابتعد",
+        "opposite": "اقترب"
+      }
+    },
+    {
+      "de": {
+        "word": "betreten",
+        "opposite": "verlassen"
+      },
+      "en": {
+        "word": "enter",
+        "opposite": "leave"
+      },
+      "fr": {
+        "word": "entrer dans",
+        "opposite": "quitter"
+      },
+      "ar": {
+        "word": "دخل",
+        "opposite": "غادر"
+      }
+    },
+    {
+      "de": {
+        "word": "verlassen",
+        "opposite": "betreten"
+      },
+      "en": {
+        "word": "leave",
+        "opposite": "enter"
+      },
+      "fr": {
+        "word": "quitter",
+        "opposite": "entrer dans"
+      },
+      "ar": {
+        "word": "غادر",
+        "opposite": "دخل"
+      }
+    },
+    {
+      "de": {
+        "word": "erreichen",
+        "opposite": "verlassen"
+      },
+      "en": {
+        "word": "reach",
+        "opposite": "leave"
+      },
+      "fr": {
+        "word": "atteindre",
+        "opposite": "quitter"
+      },
+      "ar": {
+        "word": "يصل إلى",
+        "opposite": "غادر"
+      }
+    },
+    {
+      "de": {
+        "word": "zurückkommen",
+        "opposite": "weitergehen"
+      },
+      "en": {
+        "word": "come back",
+        "opposite": "continue"
+      },
+      "fr": {
+        "word": "revenir",
+        "opposite": "continuer"
+      },
+      "ar": {
+        "word": "عاد",
+        "opposite": "واصل"
+      }
+    },
+    {
+      "de": {
+        "word": "umdrehen",
+        "opposite": "geradeausgehen"
+      },
+      "en": {
+        "word": "turn around",
+        "opposite": "go straight"
+      },
+      "fr": {
+        "word": "se retourner",
+        "opposite": "aller tout droit"
+      },
+      "ar": {
+        "word": "يستدير",
+        "opposite": "يذهب مباشرة"
+      }
+    },
+    {
+      "de": {
+        "word": "abbiegen",
+        "opposite": "geradeausgehen"
+      },
+      "en": {
+        "word": "turn",
+        "opposite": "go straight"
+      },
+      "fr": {
+        "word": "tourner",
+        "opposite": "aller tout droit"
+      },
+      "ar": {
+        "word": "انعطف",
+        "opposite": "يذهب مباشرة"
+      }
+    },
+    {
+      "de": {
+        "word": "herunterkommen",
+        "opposite": "hochgehen"
+      },
+      "en": {
+        "word": "come down",
+        "opposite": "go up"
+      },
+      "fr": {
+        "word": "descendre",
+        "opposite": "monter"
+      },
+      "ar": {
+        "word": "نزل",
+        "opposite": "صعد"
+      }
+    },
+    {
+      "de": {
+        "word": "aufsteigen",
+        "opposite": "absteigen"
+      },
+      "en": {
+        "word": "climb",
+        "opposite": "descend"
+      },
+      "fr": {
+        "word": "grimper",
+        "opposite": "descendre"
+      },
+      "ar": {
+        "word": "صعد",
+        "opposite": "نزل"
+      }
+    },
+    {
+      "de": {
+        "word": "einschlafen",
+        "opposite": "aufbleiben"
+      },
+      "en": {
+        "word": "fall asleep",
+        "opposite": "stay up"
+      },
+      "fr": {
+        "word": "s'endormir",
+        "opposite": "rester éveillé"
+      },
+      "ar": {
+        "word": "غفا",
+        "opposite": "يبقى مستيقظًا"
+      }
+    },
+    {
+      "de": {
+        "word": "aufbleiben",
+        "opposite": "schlafen gehen"
+      },
+      "en": {
+        "word": "stay up",
+        "opposite": "go to sleep"
+      },
+      "fr": {
+        "word": "rester éveillé",
+        "opposite": "aller dormir"
+      },
+      "ar": {
+        "word": "يبقى مستيقظًا",
+        "opposite": "يذهب للنوم"
+      }
+    },
+    {
+      "de": {
+        "word": "wachen",
+        "opposite": "schlafen"
+      },
+      "en": {
+        "word": "stay awake",
+        "opposite": "sleep"
+      },
+      "fr": {
+        "word": "veiller",
+        "opposite": "dormir"
+      },
+      "ar": {
+        "word": "سهر",
+        "opposite": "نام"
+      }
+    },
+    {
+      "de": {
+        "word": "aufwachen",
+        "opposite": "weiterschlafen"
+      },
+      "en": {
+        "word": "wake up",
+        "opposite": "keep sleeping"
+      },
+      "fr": {
+        "word": "se réveiller",
+        "opposite": "continuer à dormir"
+      },
+      "ar": {
+        "word": "استيقظ",
+        "opposite": "يواصل النوم"
+      }
+    },
+    {
+      "de": {
+        "word": "heiraten",
+        "opposite": "Single bleiben"
+      },
+      "en": {
+        "word": "marry",
+        "opposite": "stay single"
+      },
+      "fr": {
+        "word": "se marier",
+        "opposite": "rester célibataire"
+      },
+      "ar": {
+        "word": "تزوج",
+        "opposite": "يبقى أعزب"
+      }
+    },
+    {
+      "de": {
+        "word": "sich nähern",
+        "opposite": "fliehen"
+      },
+      "en": {
+        "word": "approach",
+        "opposite": "flee"
+      },
+      "fr": {
+        "word": "s'approcher",
+        "opposite": "fuir"
+      },
+      "ar": {
+        "word": "اقترب",
+        "opposite": "يهرب"
+      }
+    },
+    {
+      "de": {
+        "word": "bleiben",
+        "opposite": "fliehen"
+      },
+      "en": {
+        "word": "stay",
+        "opposite": "flee"
+      },
+      "fr": {
+        "word": "rester",
+        "opposite": "fuir"
+      },
+      "ar": {
+        "word": "بقي",
+        "opposite": "يهرب"
+      }
+    },
+    {
+      "de": {
+        "word": "fangen",
+        "opposite": "entkommen"
+      },
+      "en": {
+        "word": "catch",
+        "opposite": "escape"
+      },
+      "fr": {
+        "word": "attraper",
+        "opposite": "s'échapper"
+      },
+      "ar": {
+        "word": "أمسك",
+        "opposite": "يهرب"
+      }
+    },
+    {
+      "de": {
+        "word": "entkommen",
+        "opposite": "fangen"
+      },
+      "en": {
+        "word": "escape",
+        "opposite": "catch"
+      },
+      "fr": {
+        "word": "s'échapper",
+        "opposite": "attraper"
+      },
+      "ar": {
+        "word": "يهرب",
+        "opposite": "أمسك"
+      }
+    },
+    {
+      "de": {
+        "word": "befreien",
+        "opposite": "einsperren"
+      },
+      "en": {
+        "word": "free",
+        "opposite": "imprison"
+      },
+      "fr": {
+        "word": "libérer",
+        "opposite": "emprisonner"
+      },
+      "ar": {
+        "word": "يحرر",
+        "opposite": "يسجن"
+      }
+    },
+    {
+      "de": {
+        "word": "einsperren",
+        "opposite": "befreien"
+      },
+      "en": {
+        "word": "imprison",
+        "opposite": "free"
+      },
+      "fr": {
+        "word": "emprisonner",
+        "opposite": "libérer"
+      },
+      "ar": {
+        "word": "يسجن",
+        "opposite": "يحرر"
+      }
+    },
+    {
+      "de": {
+        "word": "retten",
+        "opposite": "gefährden"
+      },
+      "en": {
+        "word": "save",
+        "opposite": "endanger"
+      },
+      "fr": {
+        "word": "sauver",
+        "opposite": "mettre en danger"
+      },
+      "ar": {
+        "word": "أنقذ",
+        "opposite": "عرّض للخطر"
+      }
+    },
+    {
+      "de": {
+        "word": "gefährden",
+        "opposite": "retten"
+      },
+      "en": {
+        "word": "endanger",
+        "opposite": "save"
+      },
+      "fr": {
+        "word": "mettre en danger",
+        "opposite": "sauver"
+      },
+      "ar": {
+        "word": "عرّض للخطر",
+        "opposite": "أنقذ"
+      }
+    },
+    {
+      "de": {
+        "word": "schützen",
+        "opposite": "angreifen"
+      },
+      "en": {
+        "word": "protect",
+        "opposite": "attack"
+      },
+      "fr": {
+        "word": "protéger",
+        "opposite": "attaquer"
+      },
+      "ar": {
+        "word": "حمى",
+        "opposite": "هاجم"
+      }
+    },
+    {
+      "de": {
+        "word": "verletzen",
+        "opposite": "heilen"
+      },
+      "en": {
+        "word": "injure",
+        "opposite": "heal"
+      },
+      "fr": {
+        "word": "blesser",
+        "opposite": "guérir"
+      },
+      "ar": {
+        "word": "جرح",
+        "opposite": "شفى"
+      }
+    },
+    {
+      "de": {
+        "word": "heilen",
+        "opposite": "verletzen"
+      },
+      "en": {
+        "word": "heal",
+        "opposite": "injure"
+      },
+      "fr": {
+        "word": "guérir",
+        "opposite": "blesser"
+      },
+      "ar": {
+        "word": "شفى",
+        "opposite": "جرح"
+      }
+    },
+    {
+      "de": {
+        "word": "krank werden",
+        "opposite": "gesund werden"
+      },
+      "en": {
+        "word": "get sick",
+        "opposite": "get better"
+      },
+      "fr": {
+        "word": "tomber malade",
+        "opposite": "guérir"
+      },
+      "ar": {
+        "word": "مرض",
+        "opposite": "تعافى"
+      }
+    },
+    {
+      "de": {
+        "word": "atmen",
+        "opposite": "den Atem anhalten"
+      },
+      "en": {
+        "word": "breathe",
+        "opposite": "hold one's breath"
+      },
+      "fr": {
+        "word": "respirer",
+        "opposite": "retenir son souffle"
+      },
+      "ar": {
+        "word": "تنفس",
+        "opposite": "يحبس أنفاسه"
+      }
+    },
+    {
+      "de": {
+        "word": "einatmen",
+        "opposite": "ausatmen"
+      },
+      "en": {
+        "word": "inhale",
+        "opposite": "exhale"
+      },
+      "fr": {
+        "word": "inspirer",
+        "opposite": "expirer"
+      },
+      "ar": {
+        "word": "استنشق",
+        "opposite": "زفر"
+      }
+    },
+    {
+      "de": {
+        "word": "ausatmen",
+        "opposite": "einatmen"
+      },
+      "en": {
+        "word": "exhale",
+        "opposite": "inhale"
+      },
+      "fr": {
+        "word": "expirer",
+        "opposite": "inspirer"
+      },
+      "ar": {
+        "word": "زفر",
+        "opposite": "استنشق"
+      }
+    },
+    {
+      "de": {
+        "word": "sprechen",
+        "opposite": "schweigen"
+      },
+      "en": {
+        "word": "speak",
+        "opposite": "keep silent"
+      },
+      "fr": {
+        "word": "parler",
+        "opposite": "se taire"
+      },
+      "ar": {
+        "word": "تحدث",
+        "opposite": "صمت"
+      }
+    },
+    {
+      "de": {
+        "word": "fragen",
+        "opposite": "sagen"
+      },
+      "en": {
+        "word": "ask",
+        "opposite": "answer"
+      },
+      "fr": {
+        "word": "interroger",
+        "opposite": "répondre"
+      },
+      "ar": {
+        "word": "سأل",
+        "opposite": "أجاب"
+      }
+    },
+    {
+      "de": {
+        "word": "antworten",
+        "opposite": "fragen"
+      },
+      "en": {
+        "word": "answer",
+        "opposite": "ask"
+      },
+      "fr": {
+        "word": "répondre",
+        "opposite": "demander"
+      },
+      "ar": {
+        "word": "أجاب",
+        "opposite": "سأل"
+      }
+    },
+    {
+      "de": {
+        "word": "accepter",
+        "opposite": "refuser"
+      },
+      "en": {
+        "word": "accept",
+        "opposite": "refuse"
+      },
+      "fr": {
+        "word": "accepter",
+        "opposite": "refuser"
+      },
+      "ar": {
+        "word": "قبل",
+        "opposite": "رفض"
+      }
+    },
+    {
+      "de": {
+        "word": "refuser",
+        "opposite": "accepter"
+      },
+      "en": {
+        "word": "refuse",
+        "opposite": "accept"
+      },
+      "fr": {
+        "word": "refuser",
+        "opposite": "accepter"
+      },
+      "ar": {
+        "word": "رفض",
+        "opposite": "قبل"
+      }
+    },
+    {
+      "de": {
+        "word": "approuver",
+        "opposite": "désapprouver"
+      },
+      "en": {
+        "word": "approve",
+        "opposite": "disapprove"
+      },
+      "fr": {
+        "word": "approuver",
+        "opposite": "désapprouver"
+      },
+      "ar": {
+        "word": "وافق",
+        "opposite": "لا يوافق"
+      }
+    },
+    {
+      "de": {
+        "word": "conseiller",
+        "opposite": "déconseiller"
+      },
+      "en": {
+        "word": "advise",
+        "opposite": "advise against"
+      },
+      "fr": {
+        "word": "conseiller",
+        "opposite": "déconseiller"
+      },
+      "ar": {
+        "word": "نصح",
+        "opposite": "حذّر من"
+      }
+    },
+    {
+      "de": {
+        "word": "encourager",
+        "opposite": "décourager"
+      },
+      "en": {
+        "word": "encourage",
+        "opposite": "discourage"
+      },
+      "fr": {
+        "word": "encourager",
+        "opposite": "décourager"
+      },
+      "ar": {
+        "word": "شجّع",
+        "opposite": "ثبّط"
+      }
+    },
+    {
+      "de": {
+        "word": "motiver",
+        "opposite": "démotiver"
+      },
+      "en": {
+        "word": "motivate",
+        "opposite": "demotivate"
+      },
+      "fr": {
+        "word": "motiver",
+        "opposite": "démotiver"
+      },
+      "ar": {
+        "word": "حفّز",
+        "opposite": "ثبّط"
+      }
+    },
+    {
+      "de": {
+        "word": "rassembler",
+        "opposite": "disperser"
+      },
+      "en": {
+        "word": "gather",
+        "opposite": "disperse"
+      },
+      "fr": {
+        "word": "rassembler",
+        "opposite": "disperser"
+      },
+      "ar": {
+        "word": "جمع",
+        "opposite": "فرّق"
+      }
+    },
+    {
+      "de": {
+        "word": "rassembler",
+        "opposite": "séparer"
+      },
+      "en": {
+        "word": "bring together",
+        "opposite": "separate"
+      },
+      "fr": {
+        "word": "réunir",
+        "opposite": "séparer"
+      },
+      "ar": {
+        "word": "جمع",
+        "opposite": "فصل"
+      }
+    },
+    {
+      "de": {
+        "word": "joindre",
+        "opposite": "séparer"
+      },
+      "en": {
+        "word": "join",
+        "opposite": "separate"
+      },
+      "fr": {
+        "word": "joindre",
+        "opposite": "séparer"
+      },
+      "ar": {
+        "word": "ضم",
+        "opposite": "فصل"
+      }
+    },
+    {
+      "de": {
+        "word": "unir",
+        "opposite": "diviser"
+      },
+      "en": {
+        "word": "unite",
+        "opposite": "divide"
+      },
+      "fr": {
+        "word": "unir",
+        "opposite": "diviser"
+      },
+      "ar": {
+        "word": "وحّد",
+        "opposite": "يقسّم"
+      }
+    },
+    {
+      "de": {
+        "word": "diviser",
+        "opposite": "multiplier"
+      },
+      "en": {
+        "word": "divide",
+        "opposite": "multiply"
+      },
+      "fr": {
+        "word": "diviser",
+        "opposite": "multiplier"
+      },
+      "ar": {
+        "word": "قسم",
+        "opposite": "ضرب"
+      }
+    },
+    {
+      "de": {
+        "word": "multiplier",
+        "opposite": "diviser"
+      },
+      "en": {
+        "word": "multiply",
+        "opposite": "divide"
+      },
+      "fr": {
+        "word": "multiplier",
+        "opposite": "diviser"
+      },
+      "ar": {
+        "word": "ضرب",
+        "opposite": "قسم"
+      }
+    },
+    {
+      "de": {
+        "word": "additionner",
+        "opposite": "soustraire"
+      },
+      "en": {
+        "word": "add",
+        "opposite": "subtract"
+      },
+      "fr": {
+        "word": "additionner",
+        "opposite": "soustraire"
+      },
+      "ar": {
+        "word": "جمع",
+        "opposite": "طرح"
+      }
+    },
+    {
+      "de": {
+        "word": "soustraire",
+        "opposite": "additionner"
+      },
+      "en": {
+        "word": "subtract",
+        "opposite": "add"
+      },
+      "fr": {
+        "word": "soustraire",
+        "opposite": "additionner"
+      },
+      "ar": {
+        "word": "طرح",
+        "opposite": "جمع"
+      }
+    },
+    {
+      "de": {
+        "word": "gagner",
+        "opposite": "dépenser"
+      },
+      "en": {
+        "word": "earn",
+        "opposite": "spend"
+      },
+      "fr": {
+        "word": "gagner",
+        "opposite": "dépenser"
+      },
+      "ar": {
+        "word": "كسب",
+        "opposite": "أنفق"
+      }
+    },
+    {
+      "de": {
+        "word": "dépenser",
+        "opposite": "économiser"
+      },
+      "en": {
+        "word": "spend",
+        "opposite": "save"
+      },
+      "fr": {
+        "word": "dépenser",
+        "opposite": "économiser"
+      },
+      "ar": {
+        "word": "أنفق",
+        "opposite": "يوفر"
+      }
+    },
+    {
+      "de": {
+        "word": "rich werden",
+        "opposite": "arm werden"
+      },
+      "en": {
+        "word": "become rich",
+        "opposite": "become poor"
+      },
+      "fr": {
+        "word": "s'enrichir",
+        "opposite": "s'appauvrir"
+      },
+      "ar": {
+        "word": "يصبح غنيًا",
+        "opposite": "يصبح فقيرًا"
+      }
+    },
+    {
+      "de": {
+        "word": "verbilligen",
+        "opposite": "verteuern"
+      },
+      "en": {
+        "word": "make cheaper",
+        "opposite": "make more expensive"
+      },
+      "fr": {
+        "word": "rabaisser",
+        "opposite": "renchérir"
+      },
+      "ar": {
+        "word": "يرخّص",
+        "opposite": "يجعل أغلى"
+      }
+    },
+    {
+      "de": {
+        "word": "verteuern",
+        "opposite": "verbilligen"
+      },
+      "en": {
+        "word": "make more expensive",
+        "opposite": "make cheaper"
+      },
+      "fr": {
+        "word": "renchérir",
+        "opposite": "rabaisser"
+      },
+      "ar": {
+        "word": "يجعل أغلى",
+        "opposite": "يرخّص"
+      }
+    },
+    {
+      "de": {
+        "word": "zahlen",
+        "opposite": "schulden"
+      },
+      "en": {
+        "word": "pay",
+        "opposite": "owe"
+      },
+      "fr": {
+        "word": "payer",
+        "opposite": "devoir"
+      },
+      "ar": {
+        "word": "دفع",
+        "opposite": "دان"
+      }
+    },
+    {
+      "de": {
+        "word": "schulden",
+        "opposite": "zahlen"
+      },
+      "en": {
+        "word": "owe",
+        "opposite": "pay"
+      },
+      "fr": {
+        "word": "devoir",
+        "opposite": "payer"
+      },
+      "ar": {
+        "word": "دان",
+        "opposite": "دفع"
+      }
+    },
+    {
+      "de": {
+        "word": "verdienen",
+        "opposite": "ausgeben"
+      },
+      "en": {
+        "word": "earn",
+        "opposite": "spend"
+      },
+      "fr": {
+        "word": "gagner",
+        "opposite": "dépenser"
+      },
+      "ar": {
+        "word": "كسب",
+        "opposite": "أنفق"
+      }
+    },
+    {
+      "de": {
+        "word": "bekommen",
+        "opposite": "zurückgeben"
+      },
+      "en": {
+        "word": "receive",
+        "opposite": "return"
+      },
+      "fr": {
+        "word": "recevoir",
+        "opposite": "rendre"
+      },
+      "ar": {
+        "word": "تلقى",
+        "opposite": "أعاد"
+      }
+    },
+    {
+      "de": {
+        "word": "verlieren",
+        "opposite": "gewinnen"
+      },
+      "en": {
+        "word": "lose",
+        "opposite": "win"
+      },
+      "fr": {
+        "word": "perdre",
+        "opposite": "gagner"
+      },
+      "ar": {
+        "word": "خسر",
+        "opposite": "فاز"
+      }
+    },
+    {
+      "de": {
+        "word": "fallen",
+        "opposite": "aufstehen"
+      },
+      "en": {
+        "word": "fall",
+        "opposite": "get back up"
+      },
+      "fr": {
+        "word": "tomber",
+        "opposite": "se relever"
+      },
+      "ar": {
+        "word": "يسقط",
+        "opposite": "ينهض"
+      }
+    },
+    {
+      "de": {
+        "word": "stolpern",
+        "opposite": "stabilisieren"
+      },
+      "en": {
+        "word": "stumble",
+        "opposite": "stabilize"
+      },
+      "fr": {
+        "word": "trébucher",
+        "opposite": "stabiliser"
+      },
+      "ar": {
+        "word": "يتعثر",
+        "opposite": "يثبّت"
+      }
+    },
+    {
+      "de": {
+        "word": "sinken",
+        "opposite": "steigen"
+      },
+      "en": {
+        "word": "fall/decrease",
+        "opposite": "rise"
+      },
+      "fr": {
+        "word": "baisser",
+        "opposite": "monter"
+      },
+      "ar": {
+        "word": "انخفض",
+        "opposite": "ارتفع"
+      }
+    },
+    {
+      "de": {
+        "word": "schrumpfen",
+        "opposite": "wachsen"
+      },
+      "en": {
+        "word": "shrink",
+        "opposite": "grow"
+      },
+      "fr": {
+        "word": "rétrécir",
+        "opposite": "grandir"
+      },
+      "ar": {
+        "word": "انكمش",
+        "opposite": "نما"
+      }
+    },
+    {
+      "de": {
+        "word": "kürzen",
+        "opposite": "verlängern"
+      },
+      "en": {
+        "word": "shorten/reduce",
+        "opposite": "extend"
+      },
+      "fr": {
+        "word": "réduire",
+        "opposite": "prolonger"
+      },
+      "ar": {
+        "word": "يقلّص",
+        "opposite": "مدّد"
+      }
+    },
+    {
+      "de": {
+        "word": "einsparen",
+        "opposite": "verschwenden"
+      },
+      "en": {
+        "word": "save",
+        "opposite": "waste"
+      },
+      "fr": {
+        "word": "économiser",
+        "opposite": "gaspiller"
+      },
+      "ar": {
+        "word": "يوفر",
+        "opposite": "هدر"
+      }
+    },
+    {
+      "de": {
+        "word": "benutzen",
+        "opposite": "stilllegen"
+      },
+      "en": {
+        "word": "use",
+        "opposite": "disable"
+      },
+      "fr": {
+        "word": "utiliser",
+        "opposite": "mettre hors service"
+      },
+      "ar": {
+        "word": "يستخدم",
+        "opposite": "عطّل"
+      }
+    },
+    {
+      "de": {
+        "word": "einschalten",
+        "opposite": "stilllegen"
+      },
+      "en": {
+        "word": "turn on",
+        "opposite": "disable"
+      },
+      "fr": {
+        "word": "allumer",
+        "opposite": "mettre hors service"
+      },
+      "ar": {
+        "word": "شغّل",
+        "opposite": "عطّل"
+      }
+    },
+    {
+      "de": {
+        "word": "funktionieren",
+        "opposite": "ausfallen"
+      },
+      "en": {
+        "word": "work/function",
+        "opposite": "break down"
+      },
+      "fr": {
+        "word": "fonctionner",
+        "opposite": "tomber en panne"
+      },
+      "ar": {
+        "word": "عمل",
+        "opposite": "يتعطل"
+      }
+    },
+    {
+      "de": {
+        "word": "starten",
+        "opposite": "stoppen"
+      },
+      "en": {
+        "word": "start",
+        "opposite": "stop"
+      },
+      "fr": {
+        "word": "démarrer",
+        "opposite": "arrêter"
+      },
+      "ar": {
+        "word": "بدأ",
+        "opposite": "أوقف"
+      }
+    },
+    {
+      "de": {
+        "word": "laufen",
+        "opposite": "stehen"
+      },
+      "en": {
+        "word": "run",
+        "opposite": "stop"
+      },
+      "fr": {
+        "word": "courir",
+        "opposite": "s'arrêter"
+      },
+      "ar": {
+        "word": "يركض",
+        "opposite": "توقف"
+      }
+    },
+    {
+      "de": {
+        "word": "rennen",
+        "opposite": "gehen"
+      },
+      "en": {
+        "word": "run",
+        "opposite": "walk"
+      },
+      "fr": {
+        "word": "courir",
+        "opposite": "marcher"
+      },
+      "ar": {
+        "word": "يركض",
+        "opposite": "يمشي"
+      }
+    },
+    {
+      "de": {
+        "word": "gehen",
+        "opposite": "rennen"
+      },
+      "en": {
+        "word": "walk",
+        "opposite": "run"
+      },
+      "fr": {
+        "word": "marcher",
+        "opposite": "courir"
+      },
+      "ar": {
+        "word": "يمشي",
+        "opposite": "يركض"
+      }
+    },
+    {
+      "de": {
+        "word": "fahren",
+        "opposite": "stehen"
+      },
+      "en": {
+        "word": "drive",
+        "opposite": "be stopped"
+      },
+      "fr": {
+        "word": "rouler",
+        "opposite": "être à l'arrêt"
+      },
+      "ar": {
+        "word": "قاد",
+        "opposite": "توقف"
+      }
+    },
+    {
+      "de": {
+        "word": "schwimmen",
+        "opposite": "sinken"
+      },
+      "en": {
+        "word": "swim",
+        "opposite": "sink"
+      },
+      "fr": {
+        "word": "nager",
+        "opposite": "couler"
+      },
+      "ar": {
+        "word": "يسبح",
+        "opposite": "غرق"
+      }
+    },
+    {
+      "de": {
+        "word": "schweben",
+        "opposite": "fallen"
+      },
+      "en": {
+        "word": "float",
+        "opposite": "fall"
+      },
+      "fr": {
+        "word": "flotter",
+        "opposite": "tomber"
+      },
+      "ar": {
+        "word": "طفا",
+        "opposite": "يسقط"
+      }
+    },
+    {
+      "de": {
+        "word": "steigen",
+        "opposite": "landen"
+      },
+      "en": {
+        "word": "take off",
+        "opposite": "land"
+      },
+      "fr": {
+        "word": "décoller",
+        "opposite": "atterrir"
+      },
+      "ar": {
+        "word": "أقلع",
+        "opposite": "هبط"
+      }
+    },
+    {
+      "de": {
+        "word": "abfahren",
+        "opposite": "ankommen"
+      },
+      "en": {
+        "word": "depart",
+        "opposite": "arrive"
+      },
+      "fr": {
+        "word": "partir",
+        "opposite": "arriver"
+      },
+      "ar": {
+        "word": "غادر",
+        "opposite": "يصل"
+      }
+    },
+    {
+      "de": {
+        "word": "losfahren",
+        "opposite": "ankommen"
+      },
+      "en": {
+        "word": "set off",
+        "opposite": "arrive"
+      },
+      "fr": {
+        "word": "partir",
+        "opposite": "arriver"
+      },
+      "ar": {
+        "word": "انطلق",
+        "opposite": "يصل"
+      }
+    },
+    {
+      "de": {
+        "word": "einchecken",
+        "opposite": "auschecken"
+      },
+      "en": {
+        "word": "check in",
+        "opposite": "check out"
+      },
+      "fr": {
+        "word": "s'enregistrer",
+        "opposite": "quitter l'hôtel"
+      },
+      "ar": {
+        "word": "يسجل الوصول",
+        "opposite": "يغادر الفندق"
+      }
+    },
+    {
+      "de": {
+        "word": "anmelden",
+        "opposite": "abmelden"
+      },
+      "en": {
+        "word": "register",
+        "opposite": "unregister"
+      },
+      "fr": {
+        "word": "inscrire",
+        "opposite": "désinscrire"
+      },
+      "ar": {
+        "word": "سجّل",
+        "opposite": "يلغي التسجيل"
+      }
+    },
+    {
+      "de": {
+        "word": "einschreiben",
+        "opposite": "austragen"
+      },
+      "en": {
+        "word": "enroll",
+        "opposite": "remove from a list"
+      },
+      "fr": {
+        "word": "inscrire",
+        "opposite": "radier"
+      },
+      "ar": {
+        "word": "سجّل",
+        "opposite": "شطب"
+      }
+    },
+    {
+      "de": {
+        "word": "bestätigen",
+        "opposite": "widerrufen"
+      },
+      "en": {
+        "word": "confirm",
+        "opposite": "revoke"
+      },
+      "fr": {
+        "word": "confirmer",
+        "opposite": "révoquer"
+      },
+      "ar": {
+        "word": "أكّد",
+        "opposite": "ألغى"
+      }
+    },
+    {
+      "de": {
+        "word": "widerrufen",
+        "opposite": "bestätigen"
+      },
+      "en": {
+        "word": "revoke",
+        "opposite": "confirm"
+      },
+      "fr": {
+        "word": "révoquer",
+        "opposite": "confirmer"
+      },
+      "ar": {
+        "word": "ألغى",
+        "opposite": "أكّد"
+      }
+    },
+    {
+      "de": {
+        "word": "unterschreiben",
+        "opposite": "widerrufen"
+      },
+      "en": {
+        "word": "sign",
+        "opposite": "withdraw"
+      },
+      "fr": {
+        "word": "signer",
+        "opposite": "rétracter"
+      },
+      "ar": {
+        "word": "يوقّع",
+        "opposite": "سحب"
+      }
+    },
+    {
+      "de": {
+        "word": "zustimmen",
+        "opposite": "ablehnen"
+      },
+      "en": {
+        "word": "agree",
+        "opposite": "reject"
+      },
+      "fr": {
+        "word": "accepter",
+        "opposite": "refuser"
+      },
+      "ar": {
+        "word": "وافق",
+        "opposite": "رفض"
+      }
+    },
+    {
+      "de": {
+        "word": "entscheiden",
+        "opposite": "zögern"
+      },
+      "en": {
+        "word": "decide",
+        "opposite": "hesitate"
+      },
+      "fr": {
+        "word": "décider",
+        "opposite": "hésiter"
+      },
+      "ar": {
+        "word": "يقرر",
+        "opposite": "تردد"
+      }
+    },
+    {
+      "de": {
+        "word": "zögern",
+        "opposite": "entscheiden"
+      },
+      "en": {
+        "word": "hesitate",
+        "opposite": "decide"
+      },
+      "fr": {
+        "word": "hésiter",
+        "opposite": "décider"
+      },
+      "ar": {
+        "word": "تردد",
+        "opposite": "يقرر"
+      }
+    },
+    {
+      "de": {
+        "word": "wählen",
+        "opposite": "ablehnen"
+      },
+      "en": {
+        "word": "choose",
+        "opposite": "refuse"
+      },
+      "fr": {
+        "word": "choisir",
+        "opposite": "refuser"
+      },
+      "ar": {
+        "word": "اختار",
+        "opposite": "رفض"
+      }
+    },
+    {
+      "de": {
+        "word": "wählen",
+        "opposite": "abwählen"
+      },
+      "en": {
+        "word": "elect",
+        "opposite": "remove"
+      },
+      "fr": {
+        "word": "élire",
+        "opposite": "révoquer"
+      },
+      "ar": {
+        "word": "انتخب",
+        "opposite": "عزل"
+      }
+    },
+    {
+      "de": {
+        "word": "behalten",
+        "opposite": "wechseln"
+      },
+      "en": {
+        "word": "keep",
+        "opposite": "change"
+      },
+      "fr": {
+        "word": "garder",
+        "opposite": "changer"
+      },
+      "ar": {
+        "word": "احتفظ",
+        "opposite": "غيّر"
+      }
+    },
+    {
+      "de": {
+        "word": "wechseln",
+        "opposite": "behalten"
+      },
+      "en": {
+        "word": "change",
+        "opposite": "keep"
+      },
+      "fr": {
+        "word": "changer",
+        "opposite": "garder"
+      },
+      "ar": {
+        "word": "غيّر",
+        "opposite": "احتفظ"
+      }
+    },
+    {
+      "de": {
+        "word": "tauschen",
+        "opposite": "behalten"
+      },
+      "en": {
+        "word": "exchange",
+        "opposite": "keep"
+      },
+      "fr": {
+        "word": "échanger",
+        "opposite": "garder"
+      },
+      "ar": {
+        "word": "بدّل",
+        "opposite": "احتفظ"
+      }
+    },
+    {
+      "de": {
+        "word": "ersetzen",
+        "opposite": "beibehalten"
+      },
+      "en": {
+        "word": "replace",
+        "opposite": "maintain"
+      },
+      "fr": {
+        "word": "remplacer",
+        "opposite": "maintenir"
+      },
+      "ar": {
+        "word": "استبدل",
+        "opposite": "حافظ على"
+      }
+    },
+    {
+      "de": {
+        "word": "fortsetzen",
+        "opposite": "beenden"
+      },
+      "en": {
+        "word": "continue",
+        "opposite": "end"
+      },
+      "fr": {
+        "word": "poursuivre",
+        "opposite": "terminer"
+      },
+      "ar": {
+        "word": "واصل",
+        "opposite": "أنهى"
+      }
+    },
+    {
+      "de": {
+        "word": "beenden",
+        "opposite": "fortsetzen"
+      },
+      "en": {
+        "word": "end",
+        "opposite": "continue"
+      },
+      "fr": {
+        "word": "terminer",
+        "opposite": "poursuivre"
+      },
+      "ar": {
+        "word": "أنهى",
+        "opposite": "واصل"
+      }
+    },
+    {
+      "de": {
+        "word": "unterbrechen",
+        "opposite": "fortsetzen"
+      },
+      "en": {
+        "word": "interrupt",
+        "opposite": "continue"
+      },
+      "fr": {
+        "word": "interrompre",
+        "opposite": "poursuivre"
+      },
+      "ar": {
+        "word": "قطع",
+        "opposite": "واصل"
+      }
+    },
+    {
+      "de": {
+        "word": "pausieren",
+        "opposite": "fortsetzen"
+      },
+      "en": {
+        "word": "pause",
+        "opposite": "continue"
+      },
+      "fr": {
+        "word": "faire une pause",
+        "opposite": "poursuivre"
+      },
+      "ar": {
+        "word": "يوقِف مؤقتًا",
+        "opposite": "واصل"
+      }
+    },
+    {
+      "de": {
+        "word": "stoppen",
+        "opposite": "starten"
+      },
+      "en": {
+        "word": "stop",
+        "opposite": "start"
+      },
+      "fr": {
+        "word": "arrêter",
+        "opposite": "démarrer"
+      },
+      "ar": {
+        "word": "أوقف",
+        "opposite": "بدأ"
+      }
+    },
+    {
+      "de": {
+        "word": "durchhalten",
+        "opposite": "aufgeben"
+      },
+      "en": {
+        "word": "persevere",
+        "opposite": "give up"
+      },
+      "fr": {
+        "word": "tenir bon",
+        "opposite": "abandonner"
+      },
+      "ar": {
+        "word": "ثابر",
+        "opposite": "استسلم"
+      }
+    },
+    {
+      "de": {
+        "word": "aufgeben",
+        "opposite": "durchhalten"
+      },
+      "en": {
+        "word": "give up",
+        "opposite": "persevere"
+      },
+      "fr": {
+        "word": "abandonner",
+        "opposite": "tenir bon"
+      },
+      "ar": {
+        "word": "استسلم",
+        "opposite": "ثابر"
+      }
+    },
+    {
+      "de": {
+        "word": "gewinnen",
+        "opposite": "aufgeben"
+      },
+      "en": {
+        "word": "win",
+        "opposite": "give up"
+      },
+      "fr": {
+        "word": "remporter",
+        "opposite": "abandonner"
+      },
+      "ar": {
+        "word": "فاز",
+        "opposite": "استسلم"
+      }
+    },
+    {
+      "de": {
+        "word": "akzeptieren",
+        "opposite": "protestieren"
+      },
+      "en": {
+        "word": "accept",
+        "opposite": "protest"
+      },
+      "fr": {
+        "word": "accepter",
+        "opposite": "protester"
+      },
+      "ar": {
+        "word": "قبل",
+        "opposite": "احتج"
+      }
+    },
+    {
+      "de": {
+        "word": "protestieren",
+        "opposite": "zustimmen"
+      },
+      "en": {
+        "word": "protest",
+        "opposite": "approve"
+      },
+      "fr": {
+        "word": "protester",
+        "opposite": "approuver"
+      },
+      "ar": {
+        "word": "احتج",
+        "opposite": "وافق"
+      }
+    },
+    {
+      "de": {
+        "word": "genehmigen",
+        "opposite": "verbieten"
+      },
+      "en": {
+        "word": "approve/authorize",
+        "opposite": "forbid"
+      },
+      "fr": {
+        "word": "autoriser",
+        "opposite": "interdire"
+      },
+      "ar": {
+        "word": "أجاز",
+        "opposite": "منع"
+      }
+    },
+    {
+      "de": {
+        "word": "verbieten",
+        "opposite": "erlauben"
+      },
+      "en": {
+        "word": "forbid",
+        "opposite": "allow"
+      },
+      "fr": {
+        "word": "interdire",
+        "opposite": "permettre"
+      },
+      "ar": {
+        "word": "منع",
+        "opposite": "سمح"
+      }
+    },
+    {
+      "de": {
+        "word": "verhindern",
+        "opposite": "zulassen"
+      },
+      "en": {
+        "word": "prevent",
+        "opposite": "allow"
+      },
+      "fr": {
+        "word": "empêcher",
+        "opposite": "permettre"
+      },
+      "ar": {
+        "word": "منع",
+        "opposite": "سمح"
+      }
+    },
+    {
+      "de": {
+        "word": "auslassen",
+        "opposite": "einschließen"
+      },
+      "en": {
+        "word": "leave out",
+        "opposite": "include"
+      },
+      "fr": {
+        "word": "exclure",
+        "opposite": "inclure"
+      },
+      "ar": {
+        "word": "استثنى",
+        "opposite": "يشمل"
+      }
+    },
+    {
+      "de": {
+        "word": "einschließen",
+        "opposite": "auslassen"
+      },
+      "en": {
+        "word": "include",
+        "opposite": "leave out"
+      },
+      "fr": {
+        "word": "inclure",
+        "opposite": "exclure"
+      },
+      "ar": {
+        "word": "يشمل",
+        "opposite": "استثنى"
+      }
+    },
+    {
+      "de": {
+        "word": "erweitern",
+        "opposite": "einschränken"
+      },
+      "en": {
+        "word": "expand",
+        "opposite": "limit"
+      },
+      "fr": {
+        "word": "étendre",
+        "opposite": "limiter"
+      },
+      "ar": {
+        "word": "وسّع",
+        "opposite": "قيّد"
+      }
+    },
+    {
+      "de": {
+        "word": "einschränken",
+        "opposite": "erweitern"
+      },
+      "en": {
+        "word": "limit",
+        "opposite": "expand"
+      },
+      "fr": {
+        "word": "limiter",
+        "opposite": "étendre"
+      },
+      "ar": {
+        "word": "قيّد",
+        "opposite": "وسّع"
+      }
+    },
+    {
+      "de": {
+        "word": "öffnen",
+        "opposite": "beschränken"
+      },
+      "en": {
+        "word": "open",
+        "opposite": "restrict"
+      },
+      "fr": {
+        "word": "ouvrir",
+        "opposite": "restreindre"
+      },
+      "ar": {
+        "word": "فتح",
+        "opposite": "قيّد"
+      }
+    },
+    {
+      "de": {
+        "word": "freigeben",
+        "opposite": "sperren"
+      },
+      "en": {
+        "word": "release",
+        "opposite": "block"
+      },
+      "fr": {
+        "word": "libérer",
+        "opposite": "bloquer"
+      },
+      "ar": {
+        "word": "فتح",
+        "opposite": "حظر"
+      }
+    },
+    {
+      "de": {
+        "word": "blockieren",
+        "opposite": "freigeben"
+      },
+      "en": {
+        "word": "block",
+        "opposite": "release"
+      },
+      "fr": {
+        "word": "bloquer",
+        "opposite": "libérer"
+      },
+      "ar": {
+        "word": "حظر",
+        "opposite": "فتح"
+      }
+    },
+    {
+      "de": {
+        "word": "entsperren",
+        "opposite": "sperren"
+      },
+      "en": {
+        "word": "unlock",
+        "opposite": "lock"
+      },
+      "fr": {
+        "word": "débloquer",
+        "opposite": "bloquer"
+      },
+      "ar": {
+        "word": "يفك الحظر",
+        "opposite": "حظر"
+      }
+    },
+    {
+      "de": {
+        "word": "folgen",
+        "opposite": "vorausgehen"
+      },
+      "en": {
+        "word": "follow",
+        "opposite": "precede"
+      },
+      "fr": {
+        "word": "suivre",
+        "opposite": "précéder"
+      },
+      "ar": {
+        "word": "تبع",
+        "opposite": "سبق"
+      }
+    },
+    {
+      "de": {
+        "word": "vorausgehen",
+        "opposite": "folgen"
+      },
+      "en": {
+        "word": "precede",
+        "opposite": "follow"
+      },
+      "fr": {
+        "word": "précéder",
+        "opposite": "suivre"
+      },
+      "ar": {
+        "word": "سبق",
+        "opposite": "تبع"
+      }
+    },
+    {
+      "de": {
+        "word": "zurückbleiben",
+        "opposite": "aufholen"
+      },
+      "en": {
+        "word": "fall behind",
+        "opposite": "catch up"
+      },
+      "fr": {
+        "word": "rester en arrière",
+        "opposite": "rattraper"
+      },
+      "ar": {
+        "word": "تخلف",
+        "opposite": "لحق"
+      }
+    },
+    {
+      "de": {
+        "word": "aufholen",
+        "opposite": "zurückbleiben"
+      },
+      "en": {
+        "word": "catch up",
+        "opposite": "fall behind"
+      },
+      "fr": {
+        "word": "rattraper",
+        "opposite": "prendre du retard"
+      },
+      "ar": {
+        "word": "لحق",
+        "opposite": "تخلف"
+      }
+    },
+    {
+      "de": {
+        "word": "überholen",
+        "opposite": "zurückfallen"
+      },
+      "en": {
+        "word": "overtake",
+        "opposite": "fall back"
+      },
+      "fr": {
+        "word": "dépasser",
+        "opposite": "reculer"
+      },
+      "ar": {
+        "word": "تجاوز",
+        "opposite": "تراجع"
+      }
+    },
+    {
+      "de": {
+        "word": "zurückweichen",
+        "opposite": "vorrücken"
+      },
+      "en": {
+        "word": "retreat",
+        "opposite": "advance"
+      },
+      "fr": {
+        "word": "reculer",
+        "opposite": "avancer"
+      },
+      "ar": {
+        "word": "تراجع",
+        "opposite": "تقدم"
+      }
+    },
+    {
+      "de": {
+        "word": "vorrücken",
+        "opposite": "zurückweichen"
+      },
+      "en": {
+        "word": "advance",
+        "opposite": "retreat"
+      },
+      "fr": {
+        "word": "avancer",
+        "opposite": "reculer"
+      },
+      "ar": {
+        "word": "تقدم",
+        "opposite": "تراجع"
+      }
+    },
+    {
+      "de": {
+        "word": "akzeptieren",
+        "opposite": "verweigern"
+      },
+      "en": {
+        "word": "accept",
+        "opposite": "deny/refuse"
+      },
+      "fr": {
+        "word": "accepter",
+        "opposite": "refuser"
+      },
+      "ar": {
+        "word": "قبل",
+        "opposite": "رفض"
+      }
+    },
+    {
+      "de": {
+        "word": "bestätigen",
+        "opposite": "verneinen"
+      },
+      "en": {
+        "word": "confirm",
+        "opposite": "deny"
+      },
+      "fr": {
+        "word": "confirmer",
+        "opposite": "nier"
+      },
+      "ar": {
+        "word": "أكّد",
+        "opposite": "أنكر"
+      }
+    },
+    {
+      "de": {
+        "word": "bejahen",
+        "opposite": "verneinen"
+      },
+      "en": {
+        "word": "say yes",
+        "opposite": "say no"
+      },
+      "fr": {
+        "word": "répondre oui",
+        "opposite": "répondre non"
+      },
+      "ar": {
+        "word": "أجاب بنعم",
+        "opposite": "أجاب بلا"
+      }
+    },
+    {
+      "de": {
+        "word": "verneinen",
+        "opposite": "bejahen"
+      },
+      "en": {
+        "word": "deny",
+        "opposite": "affirm"
+      },
+      "fr": {
+        "word": "nier",
+        "opposite": "affirmer"
+      },
+      "ar": {
+        "word": "أنكر",
+        "opposite": "ثبّت"
+      }
+    },
+    {
+      "de": {
+        "word": "sagen",
+        "opposite": "verschweigen"
+      },
+      "en": {
+        "word": "say",
+        "opposite": "keep silent"
+      },
+      "fr": {
+        "word": "dire",
+        "opposite": "taire"
+      },
+      "ar": {
+        "word": "قال",
+        "opposite": "يسكت"
+      }
+    },
+    {
+      "de": {
+        "word": "fragen",
+        "opposite": "informieren"
+      },
+      "en": {
+        "word": "ask",
+        "opposite": "inform"
+      },
+      "fr": {
+        "word": "demander",
+        "opposite": "informer"
+      },
+      "ar": {
+        "word": "سأل",
+        "opposite": "أعلم"
+      }
+    },
+    {
+      "de": {
+        "word": "informieren",
+        "opposite": "verschweigen"
+      },
+      "en": {
+        "word": "inform",
+        "opposite": "hide"
+      },
+      "fr": {
+        "word": "informer",
+        "opposite": "cacher"
+      },
+      "ar": {
+        "word": "أعلم",
+        "opposite": "أخفى"
+      }
+    },
+    {
+      "de": {
+        "word": "aufklären",
+        "opposite": "täuschen"
+      },
+      "en": {
+        "word": "clarify",
+        "opposite": "deceive"
+      },
+      "fr": {
+        "word": "éclairer",
+        "opposite": "tromper"
+      },
+      "ar": {
+        "word": "أوضح",
+        "opposite": "خدع"
+      }
+    },
+    {
+      "de": {
+        "word": "täuschen",
+        "opposite": "aufklären"
+      },
+      "en": {
+        "word": "deceive",
+        "opposite": "clarify"
+      },
+      "fr": {
+        "word": "tromper",
+        "opposite": "éclairer"
+      },
+      "ar": {
+        "word": "خدع",
+        "opposite": "أوضح"
+      }
+    },
+    {
+      "de": {
+        "word": "belügen",
+        "opposite": "die Wahrheit sagen"
+      },
+      "en": {
+        "word": "lie",
+        "opposite": "tell the truth"
+      },
+      "fr": {
+        "word": "mentir",
+        "opposite": "dire la vérité"
+      },
+      "ar": {
+        "word": "كذب",
+        "opposite": "قال الحقيقة"
+      }
+    },
+    {
+      "de": {
+        "word": "glauben",
+        "opposite": "lügen"
+      },
+      "en": {
+        "word": "believe",
+        "opposite": "lie"
+      },
+      "fr": {
+        "word": "croire",
+        "opposite": "mentir"
+      },
+      "ar": {
+        "word": "يصدق",
+        "opposite": "كذب"
+      }
+    },
+    {
+      "de": {
+        "word": "lügen",
+        "opposite": "die Wahrheit sagen"
+      },
+      "en": {
+        "word": "lie",
+        "opposite": "tell the truth"
+      },
+      "fr": {
+        "word": "mentir",
+        "opposite": "dire la vérité"
+      },
+      "ar": {
+        "word": "كذب",
+        "opposite": "قال الحقيقة"
+      }
+    },
+    {
+      "de": {
+        "word": "sich nähern",
+        "opposite": "sich zurückziehen"
+      },
+      "en": {
+        "word": "approach",
+        "opposite": "withdraw"
+      },
+      "fr": {
+        "word": "s'approcher",
+        "opposite": "se retirer"
+      },
+      "ar": {
+        "word": "اقترب",
+        "opposite": "انسحب"
+      }
+    },
+    {
+      "de": {
+        "word": "sich zurückziehen",
+        "opposite": "sich nähern"
+      },
+      "en": {
+        "word": "withdraw",
+        "opposite": "approach"
+      },
+      "fr": {
+        "word": "se retirer",
+        "opposite": "s'approcher"
+      },
+      "ar": {
+        "word": "انسحب",
+        "opposite": "اقترب"
+      }
+    },
+    {
+      "de": {
+        "word": "einschlafen",
+        "opposite": "aufstehen"
+      },
+      "en": {
+        "word": "fall asleep",
+        "opposite": "get up"
+      },
+      "fr": {
+        "word": "s'endormir",
+        "opposite": "se lever"
+      },
+      "ar": {
+        "word": "غفا",
+        "opposite": "ينهض"
+      }
+    },
+    {
+      "de": {
+        "word": "aufstehen",
+        "opposite": "sich hinlegen"
+      },
+      "en": {
+        "word": "get up",
+        "opposite": "lie down"
+      },
+      "fr": {
+        "word": "se lever",
+        "opposite": "s'allonger"
+      },
+      "ar": {
+        "word": "ينهض",
+        "opposite": "استلقى"
+      }
+    },
+    {
+      "de": {
+        "word": "sich hinlegen",
+        "opposite": "aufstehen"
+      },
+      "en": {
+        "word": "lie down",
+        "opposite": "get up"
+      },
+      "fr": {
+        "word": "s'allonger",
+        "opposite": "se lever"
+      },
+      "ar": {
+        "word": "استلقى",
+        "opposite": "ينهض"
+      }
+    },
+    {
+      "de": {
+        "word": "hinsetzen",
+        "opposite": "aufstehen"
+      },
+      "en": {
+        "word": "sit down",
+        "opposite": "stand up"
+      },
+      "fr": {
+        "word": "s'asseoir",
+        "opposite": "se lever"
+      },
+      "ar": {
+        "word": "يجلس",
+        "opposite": "ينهض"
+      }
+    },
+    {
+      "de": {
+        "word": "aufstehen",
+        "opposite": "hinsetzen"
+      },
+      "en": {
+        "word": "stand up",
+        "opposite": "sit down"
+      },
+      "fr": {
+        "word": "se lever",
+        "opposite": "s'asseoir"
+      },
+      "ar": {
+        "word": "ينهض",
+        "opposite": "يجلس"
+      }
+    },
+    {
+      "de": {
+        "word": "ausziehen",
+        "opposite": "umziehen"
+      },
+      "en": {
+        "word": "move out",
+        "opposite": "move in"
+      },
+      "fr": {
+        "word": "déménager",
+        "opposite": "emménager"
+      },
+      "ar": {
+        "word": "ينتقل إلى الخارج",
+        "opposite": "ينتقل إلى الداخل"
+      }
+    },
+    {
+      "de": {
+        "word": "einziehen",
+        "opposite": "ausziehen"
+      },
+      "en": {
+        "word": "move in",
+        "opposite": "move out"
+      },
+      "fr": {
+        "word": "emménager",
+        "opposite": "déménager"
+      },
+      "ar": {
+        "word": "ينتقل إلى الداخل",
+        "opposite": "ينتقل إلى الخارج"
+      }
+    },
+    {
+      "de": {
+        "word": "öffnen",
+        "opposite": "zumachen"
+      },
+      "en": {
+        "word": "open",
+        "opposite": "close"
+      },
+      "fr": {
+        "word": "ouvrir",
+        "opposite": "fermer"
+      },
+      "ar": {
+        "word": "فتح",
+        "opposite": "أغلق"
+      }
+    },
+    {
+      "de": {
+        "word": "zumachen",
+        "opposite": "aufmachen"
+      },
+      "en": {
+        "word": "close",
+        "opposite": "open"
+      },
+      "fr": {
+        "word": "fermer",
+        "opposite": "ouvrir"
+      },
+      "ar": {
+        "word": "أغلق",
+        "opposite": "فتح"
+      }
+    },
+    {
+      "de": {
+        "word": "aufdrehen",
+        "opposite": "zudrehen"
+      },
+      "en": {
+        "word": "turn/open",
+        "opposite": "turn/close"
+      },
+      "fr": {
+        "word": "ouvrir",
+        "opposite": "fermer"
+      },
+      "ar": {
+        "word": "فتح الصنبور",
+        "opposite": "أغلق الصنبور"
+      }
+    },
+    {
+      "de": {
+        "word": "zudrehen",
+        "opposite": "aufdrehen"
+      },
+      "en": {
+        "word": "turn off/close",
+        "opposite": "turn on/open"
+      },
+      "fr": {
+        "word": "fermer",
+        "opposite": "ouvrir"
+      },
+      "ar": {
+        "word": "أغلق",
+        "opposite": "فتح"
+      }
+    },
+    {
+      "de": {
+        "word": "lautstellen",
+        "opposite": "leiser stellen"
+      },
+      "en": {
+        "word": "turn up",
+        "opposite": "turn down"
+      },
+      "fr": {
+        "word": "augmenter le volume",
+        "opposite": "baisser le volume"
+      },
+      "ar": {
+        "word": "رفع الصوت",
+        "opposite": "خفض الصوت"
+      }
+    },
+    {
+      "de": {
+        "word": "leiser stellen",
+        "opposite": "lautstellen"
+      },
+      "en": {
+        "word": "turn down",
+        "opposite": "turn up"
+      },
+      "fr": {
+        "word": "baisser le volume",
+        "opposite": "augmenter le volume"
+      },
+      "ar": {
+        "word": "خفض الصوت",
+        "opposite": "رفع الصوت"
+      }
+    },
+    {
+      "de": {
+        "word": "beschreiben",
+        "opposite": "verschweigen"
+      },
+      "en": {
+        "word": "describe",
+        "opposite": "withhold"
+      },
+      "fr": {
+        "word": "décrire",
+        "opposite": "taire"
+      },
+      "ar": {
+        "word": "وصف",
+        "opposite": "كتم"
+      }
+    },
+    {
+      "de": {
+        "word": "fragen",
+        "opposite": "beantworten"
+      },
+      "en": {
+        "word": "question",
+        "opposite": "answer"
+      },
+      "fr": {
+        "word": "questionner",
+        "opposite": "répondre"
+      },
+      "ar": {
+        "word": "سأل",
+        "opposite": "أجاب"
+      }
+    },
+    {
+      "de": {
+        "word": "antworten",
+        "opposite": "ignorieren"
+      },
+      "en": {
+        "word": "answer",
+        "opposite": "ignore"
+      },
+      "fr": {
+        "word": "répondre",
+        "opposite": "ignorer"
+      },
+      "ar": {
+        "word": "أجاب",
+        "opposite": "تجاهل"
+      }
+    },
+    {
+      "de": {
+        "word": "beobachten",
+        "opposite": "übersehen"
+      },
+      "en": {
+        "word": "observe",
+        "opposite": "overlook"
+      },
+      "fr": {
+        "word": "observer",
+        "opposite": "négliger"
+      },
+      "ar": {
+        "word": "راقب",
+        "opposite": "تجاهل"
+      }
+    },
+    {
+      "de": {
+        "word": "überprüfen",
+        "opposite": "vernachlässigen"
+      },
+      "en": {
+        "word": "check",
+        "opposite": "neglect"
+      },
+      "fr": {
+        "word": "vérifier",
+        "opposite": "négliger"
+      },
+      "ar": {
+        "word": "تحقق",
+        "opposite": "أهمل"
+      }
+    },
+    {
+      "de": {
+        "word": "kontrollieren",
+        "opposite": "loslassen"
+      },
+      "en": {
+        "word": "control",
+        "opposite": "let go"
+      },
+      "fr": {
+        "word": "contrôler",
+        "opposite": "laisser aller"
+      },
+      "ar": {
+        "word": "سيطر",
+        "opposite": "ترك"
+      }
+    },
+    {
+      "de": {
+        "word": "regieren",
+        "opposite": "gehorchen"
+      },
+      "en": {
+        "word": "govern",
+        "opposite": "obey"
+      },
+      "fr": {
+        "word": "gouverner",
+        "opposite": "obéir"
+      },
+      "ar": {
+        "word": "حكم",
+        "opposite": "أطاع"
+      }
+    },
+    {
+      "de": {
+        "word": "dominieren",
+        "opposite": "unterliegen"
+      },
+      "en": {
+        "word": "dominate",
+        "opposite": "submit"
+      },
+      "fr": {
+        "word": "dominer",
+        "opposite": "succomber"
+      },
+      "ar": {
+        "word": "يهيمن",
+        "opposite": "خضع"
+      }
+    },
+    {
+      "de": {
+        "word": "gewinnen",
+        "opposite": "verlieren"
+      },
+      "en": {
+        "word": "win",
+        "opposite": "lose"
+      },
+      "fr": {
+        "word": "remporter",
+        "opposite": "perdre"
+      },
+      "ar": {
+        "word": "فاز",
+        "opposite": "خسر"
+      }
+    },
+    {
+      "de": {
+        "word": "bestehen",
+        "opposite": "scheitern"
+      },
+      "en": {
+        "word": "succeed",
+        "opposite": "fail"
+      },
+      "fr": {
+        "word": "réussir",
+        "opposite": "échouer"
+      },
+      "ar": {
+        "word": "نجح",
+        "opposite": "فشل"
+      }
+    },
+    {
+      "de": {
+        "word": "scheitern",
+        "opposite": "bestehen"
+      },
+      "en": {
+        "word": "fail",
+        "opposite": "succeed"
+      },
+      "fr": {
+        "word": "échouer",
+        "opposite": "réussir"
+      },
+      "ar": {
+        "word": "فشل",
+        "opposite": "نجح"
+      }
+    },
+    {
+      "de": {
+        "word": "probieren",
+        "opposite": "aufgeben"
+      },
+      "en": {
+        "word": "try",
+        "opposite": "give up"
+      },
+      "fr": {
+        "word": "essayer",
+        "opposite": "abandonner"
+      },
+      "ar": {
+        "word": "حاول",
+        "opposite": "استسلم"
+      }
+    },
+    {
+      "de": {
+        "word": "versuchen",
+        "opposite": "vermeiden"
+      },
+      "en": {
+        "word": "try",
+        "opposite": "avoid"
+      },
+      "fr": {
+        "word": "essayer",
+        "opposite": "éviter"
+      },
+      "ar": {
+        "word": "حاول",
+        "opposite": "تجنب"
+      }
+    },
+    {
+      "de": {
+        "word": "vermeiden",
+        "opposite": "suchen"
+      },
+      "en": {
+        "word": "avoid",
+        "opposite": "seek"
+      },
+      "fr": {
+        "word": "éviter",
+        "opposite": "chercher"
+      },
+      "ar": {
+        "word": "تجنب",
+        "opposite": "يبحث عن"
+      }
+    },
+    {
+      "de": {
+        "word": "riskieren",
+        "opposite": "vermeiden"
+      },
+      "en": {
+        "word": "risk",
+        "opposite": "avoid"
+      },
+      "fr": {
+        "word": "risquer",
+        "opposite": "éviter"
+      },
+      "ar": {
+        "word": "خاطر",
+        "opposite": "تجنب"
+      }
+    },
+    {
+      "de": {
+        "word": "schützen",
+        "opposite": "riskieren"
+      },
+      "en": {
+        "word": "protect",
+        "opposite": "risk"
+      },
+      "fr": {
+        "word": "protéger",
+        "opposite": "risquer"
+      },
+      "ar": {
+        "word": "حمى",
+        "opposite": "خاطر"
+      }
+    },
+    {
+      "de": {
+        "word": "vertrauen",
+        "opposite": "verdächtigen"
+      },
+      "en": {
+        "word": "trust",
+        "opposite": "suspect"
+      },
+      "fr": {
+        "word": "faire confiance",
+        "opposite": "suspecter"
+      },
+      "ar": {
+        "word": "وثق",
+        "opposite": "اشتبه"
+      }
+    },
+    {
+      "de": {
+        "word": "verdächtigen",
+        "opposite": "vertrauen"
+      },
+      "en": {
+        "word": "suspect",
+        "opposite": "trust"
+      },
+      "fr": {
+        "word": "suspecter",
+        "opposite": "faire confiance"
+      },
+      "ar": {
+        "word": "اشتبه",
+        "opposite": "وثق"
+      }
+    },
+    {
+      "de": {
+        "word": "verzeihen",
+        "opposite": "bestrafen"
+      },
+      "en": {
+        "word": "forgive",
+        "opposite": "punish"
+      },
+      "fr": {
+        "word": "pardonner",
+        "opposite": "punir"
+      },
+      "ar": {
+        "word": "يسامح",
+        "opposite": "يعاقب"
+      }
+    },
+    {
+      "de": {
+        "word": "bestrafen",
+        "opposite": "belohnen"
+      },
+      "en": {
+        "word": "punish",
+        "opposite": "reward"
+      },
+      "fr": {
+        "word": "punir",
+        "opposite": "récompenser"
+      },
+      "ar": {
+        "word": "يعاقب",
+        "opposite": "يكافئ"
+      }
+    },
+    {
+      "de": {
+        "word": "belohnen",
+        "opposite": "bestrafen"
+      },
+      "en": {
+        "word": "reward",
+        "opposite": "punish"
+      },
+      "fr": {
+        "word": "récompenser",
+        "opposite": "punir"
+      },
+      "ar": {
+        "word": "يكافئ",
+        "opposite": "يعاقب"
+      }
+    },
+    {
+      "de": {
+        "word": "loben",
+        "opposite": "tadeln"
+      },
+      "en": {
+        "word": "praise",
+        "opposite": "blame"
+      },
+      "fr": {
+        "word": "féliciter",
+        "opposite": "blâmer"
+      },
+      "ar": {
+        "word": "مدح",
+        "opposite": "لام"
+      }
+    },
+    {
+      "de": {
+        "word": "blamen",
+        "opposite": "loben"
+      },
+      "en": {
+        "word": "blame",
+        "opposite": "praise"
+      },
+      "fr": {
+        "word": "blâmer",
+        "opposite": "féliciter"
+      },
+      "ar": {
+        "word": "لام",
+        "opposite": "مدح"
+      }
+    },
+    {
+      "de": {
+        "word": "beschuldigen",
+        "opposite": "entschuldigen"
+      },
+      "en": {
+        "word": "accuse",
+        "opposite": "excuse"
+      },
+      "fr": {
+        "word": "accuser",
+        "opposite": "excuser"
+      },
+      "ar": {
+        "word": "اتهم",
+        "opposite": "عذر"
+      }
+    },
+    {
+      "de": {
+        "word": "rechtfertigen",
+        "opposite": "beschuldigen"
+      },
+      "en": {
+        "word": "justify",
+        "opposite": "accuse"
+      },
+      "fr": {
+        "word": "justifier",
+        "opposite": "accuser"
+      },
+      "ar": {
+        "word": "برّر",
+        "opposite": "اتهم"
+      }
+    },
+    {
+      "de": {
+        "word": "verteidigen",
+        "opposite": "anklagen"
+      },
+      "en": {
+        "word": "defend",
+        "opposite": "accuse"
+      },
+      "fr": {
+        "word": "défendre",
+        "opposite": "accuser"
+      },
+      "ar": {
+        "word": "دافع",
+        "opposite": "اتهم"
+      }
+    },
+    {
+      "de": {
+        "word": "klagen",
+        "opposite": "schweigen"
+      },
+      "en": {
+        "word": "complain",
+        "opposite": "be silent"
+      },
+      "fr": {
+        "word": "se plaindre",
+        "opposite": "se taire"
+      },
+      "ar": {
+        "word": "اشتكى",
+        "opposite": "صمت"
+      }
+    },
+    {
+      "de": {
+        "word": "sich beschweren",
+        "opposite": "zufrieden sein"
+      },
+      "en": {
+        "word": "complain",
+        "opposite": "be satisfied"
+      },
+      "fr": {
+        "word": "se plaindre",
+        "opposite": "être satisfait"
+      },
+      "ar": {
+        "word": "اشتكى",
+        "opposite": "كان راضيًا"
+      }
+    },
+    {
+      "de": {
+        "word": "danken",
+        "opposite": "beschuldigen"
+      },
+      "en": {
+        "word": "thank",
+        "opposite": "accuse"
+      },
+      "fr": {
+        "word": "remercier",
+        "opposite": "accuser"
+      },
+      "ar": {
+        "word": "شكر",
+        "opposite": "اتهم"
+      }
+    },
+    {
+      "de": {
+        "word": "bitten",
+        "opposite": "befehlen"
+      },
+      "en": {
+        "word": "ask",
+        "opposite": "order"
+      },
+      "fr": {
+        "word": "demander",
+        "opposite": "ordonner"
+      },
+      "ar": {
+        "word": "طلب",
+        "opposite": "أمر"
+      }
+    },
+    {
+      "de": {
+        "word": "fragen",
+        "opposite": "befehlen"
+      },
+      "en": {
+        "word": "ask",
+        "opposite": "order"
+      },
+      "fr": {
+        "word": "demander",
+        "opposite": "ordonner"
+      },
+      "ar": {
+        "word": "سأل",
+        "opposite": "أمر"
+      }
+    },
+    {
+      "de": {
+        "word": "helfen",
+        "opposite": "schaden"
+      },
+      "en": {
+        "word": "help",
+        "opposite": "harm"
+      },
+      "fr": {
+        "word": "aider",
+        "opposite": "nuire"
+      },
+      "ar": {
+        "word": "ساعد",
+        "opposite": "أضرّ"
+      }
+    },
+    {
+      "de": {
+        "word": "schaden",
+        "opposite": "helfen"
+      },
+      "en": {
+        "word": "harm",
+        "opposite": "help"
+      },
+      "fr": {
+        "word": "nuire",
+        "opposite": "aider"
+      },
+      "ar": {
+        "word": "أضرّ",
+        "opposite": "ساعد"
+      }
+    },
+    {
+      "de": {
+        "word": "retten",
+        "opposite": "aufgeben"
+      },
+      "en": {
+        "word": "save",
+        "opposite": "abandon"
+      },
+      "fr": {
+        "word": "sauver",
+        "opposite": "abandonner"
+      },
+      "ar": {
+        "word": "أنقذ",
+        "opposite": "يتخلى عن"
+      }
+    },
+    {
+      "de": {
+        "word": "aufgeben",
+        "opposite": "retten"
+      },
+      "en": {
+        "word": "abandon",
+        "opposite": "save"
+      },
+      "fr": {
+        "word": "abandonner",
+        "opposite": "sauver"
+      },
+      "ar": {
+        "word": "يتخلى عن",
+        "opposite": "أنقذ"
+      }
+    },
+    {
+      "de": {
+        "word": "behalten",
+        "opposite": "teilen"
+      },
+      "en": {
+        "word": "keep",
+        "opposite": "share"
+      },
+      "fr": {
+        "word": "garder",
+        "opposite": "partager"
+      },
+      "ar": {
+        "word": "احتفظ",
+        "opposite": "شارك"
+      }
+    },
+    {
+      "de": {
+        "word": "teilen",
+        "opposite": "behalten"
+      },
+      "en": {
+        "word": "share",
+        "opposite": "keep"
+      },
+      "fr": {
+        "word": "partager",
+        "opposite": "garder"
+      },
+      "ar": {
+        "word": "شارك",
+        "opposite": "احتفظ"
+      }
+    },
+    {
+      "de": {
+        "word": "sammeln",
+        "opposite": "wegwerfen"
+      },
+      "en": {
+        "word": "collect",
+        "opposite": "throw away"
+      },
+      "fr": {
+        "word": "ramasser",
+        "opposite": "jeter"
+      },
+      "ar": {
+        "word": "جمع",
+        "opposite": "رمى"
+      }
+    },
+    {
+      "de": {
+        "word": "wegwerfen",
+        "opposite": "sammeln"
+      },
+      "en": {
+        "word": "throw away",
+        "opposite": "collect"
+      },
+      "fr": {
+        "word": "jeter",
+        "opposite": "ramasser"
+      },
+      "ar": {
+        "word": "رمى",
+        "opposite": "جمع"
+      }
+    },
+    {
+      "de": {
+        "word": "schreiben",
+        "opposite": "löschen"
+      },
+      "en": {
+        "word": "write",
+        "opposite": "erase"
+      },
+      "fr": {
+        "word": "écrire",
+        "opposite": "effacer"
+      },
+      "ar": {
+        "word": "يكتب",
+        "opposite": "يمحو"
+      }
+    },
+    {
+      "de": {
+        "word": "löschen",
+        "opposite": "schreiben"
+      },
+      "en": {
+        "word": "erase",
+        "opposite": "write"
+      },
+      "fr": {
+        "word": "effacer",
+        "opposite": "écrire"
+      },
+      "ar": {
+        "word": "يمحو",
+        "opposite": "يكتب"
+      }
+    },
+    {
+      "de": {
+        "word": "lesen",
+        "opposite": "schreiben"
+      },
+      "en": {
+        "word": "read",
+        "opposite": "write"
+      },
+      "fr": {
+        "word": "lire",
+        "opposite": "écrire"
+      },
+      "ar": {
+        "word": "يقرأ",
+        "opposite": "يكتب"
+      }
+    },
+    {
+      "de": {
+        "word": "vorlesen",
+        "opposite": "zuhören"
+      },
+      "en": {
+        "word": "read aloud",
+        "opposite": "listen"
+      },
+      "fr": {
+        "word": "lire à voix haute",
+        "opposite": "écouter"
+      },
+      "ar": {
+        "word": "يقرأ بصوت عالٍ",
+        "opposite": "استمع"
+      }
+    },
+    {
+      "de": {
+        "word": "zuhören",
+        "opposite": "ignorieren"
+      },
+      "en": {
+        "word": "listen",
+        "opposite": "ignore"
+      },
+      "fr": {
+        "word": "écouter",
+        "opposite": "ignorer"
+      },
+      "ar": {
+        "word": "استمع",
+        "opposite": "تجاهل"
+      }
+    },
+    {
+      "de": {
+        "word": "singen",
+        "opposite": "schweigen"
+      },
+      "en": {
+        "word": "sing",
+        "opposite": "be silent"
+      },
+      "fr": {
+        "word": "chanter",
+        "opposite": "se taire"
+      },
+      "ar": {
+        "word": "يغني",
+        "opposite": "صمت"
+      }
+    },
+    {
+      "de": {
+        "word": "tanzen",
+        "opposite": "stillstehen"
+      },
+      "en": {
+        "word": "dance",
+        "opposite": "stand still"
+      },
+      "fr": {
+        "word": "danser",
+        "opposite": "rester immobile"
+      },
+      "ar": {
+        "word": "يرقص",
+        "opposite": "بقي ساكنًا"
+      }
+    },
+    {
+      "de": {
+        "word": "springen",
+        "opposite": "landen"
+      },
+      "en": {
+        "word": "jump",
+        "opposite": "land"
+      },
+      "fr": {
+        "word": "sauter",
+        "opposite": "atterrir"
+      },
+      "ar": {
+        "word": "قفز",
+        "opposite": "هبط"
+      }
+    },
+    {
+      "de": {
+        "word": "steigen",
+        "opposite": "fallen"
+      },
+      "en": {
+        "word": "rise",
+        "opposite": "fall"
+      },
+      "fr": {
+        "word": "monter",
+        "opposite": "tomber"
+      },
+      "ar": {
+        "word": "ارتفع",
+        "opposite": "يسقط"
+      }
+    },
+    {
+      "de": {
+        "word": "klettern",
+        "opposite": "herunterklettern"
+      },
+      "en": {
+        "word": "climb",
+        "opposite": "climb down"
+      },
+      "fr": {
+        "word": "grimper",
+        "opposite": "redescendre"
+      },
+      "ar": {
+        "word": "يتسلق",
+        "opposite": "نزل"
+      }
+    },
+    {
+      "de": {
+        "word": "schwimmen",
+        "opposite": "ertrinken"
+      },
+      "en": {
+        "word": "swim",
+        "opposite": "drown"
+      },
+      "fr": {
+        "word": "nager",
+        "opposite": "se noyer"
+      },
+      "ar": {
+        "word": "يسبح",
+        "opposite": "غرق"
+      }
+    },
+    {
+      "de": {
+        "word": "tauchen",
+        "opposite": "auftauchen"
+      },
+      "en": {
+        "word": "dive",
+        "opposite": "surface"
+      },
+      "fr": {
+        "word": "plonger",
+        "opposite": "remonter"
+      },
+      "ar": {
+        "word": "يغوص",
+        "opposite": "يطفو إلى السطح"
+      }
+    },
+    {
+      "de": {
+        "word": "fahren",
+        "opposite": "parken"
+      },
+      "en": {
+        "word": "drive",
+        "opposite": "park"
+      },
+      "fr": {
+        "word": "conduire",
+        "opposite": "garer"
+      },
+      "ar": {
+        "word": "قاد",
+        "opposite": "يركن"
+      }
+    },
+    {
+      "de": {
+        "word": "parken",
+        "opposite": "losfahren"
+      },
+      "en": {
+        "word": "park",
+        "opposite": "drive off"
+      },
+      "fr": {
+        "word": "garer",
+        "opposite": "partir"
+      },
+      "ar": {
+        "word": "يركن",
+        "opposite": "انطلق"
+      }
+    },
+    {
+      "de": {
+        "word": "ankommen",
+        "opposite": "verspäten"
+      },
+      "en": {
+        "word": "arrive",
+        "opposite": "be late"
+      },
+      "fr": {
+        "word": "arriver",
+        "opposite": "être en retard"
+      },
+      "ar": {
+        "word": "يصل",
+        "opposite": "تأخر"
+      }
+    },
+    {
+      "de": {
+        "word": "sich verspäten",
+        "opposite": "pünktlich sein"
+      },
+      "en": {
+        "word": "be late",
+        "opposite": "be on time"
+      },
+      "fr": {
+        "word": "être en retard",
+        "opposite": "être à l'heure"
+      },
+      "ar": {
+        "word": "تأخر",
+        "opposite": "يكون في الوقت"
+      }
+    },
+    {
+      "de": {
+        "word": "beschleunigen",
+        "opposite": "warten"
+      },
+      "en": {
+        "word": "speed up",
+        "opposite": "wait"
+      },
+      "fr": {
+        "word": "accélérer",
+        "opposite": "attendre"
+      },
+      "ar": {
+        "word": "سرّع",
+        "opposite": "انتظر"
+      }
+    },
+    {
+      "de": {
+        "word": "warten",
+        "opposite": "eilen"
+      },
+      "en": {
+        "word": "wait",
+        "opposite": "hurry"
+      },
+      "fr": {
+        "word": "attendre",
+        "opposite": "se dépêcher"
+      },
+      "ar": {
+        "word": "انتظر",
+        "opposite": "استعجل"
+      }
+    },
+    {
+      "de": {
+        "word": "eilen",
+        "opposite": "warten"
+      },
+      "en": {
+        "word": "hurry",
+        "opposite": "wait"
+      },
+      "fr": {
+        "word": "se dépêcher",
+        "opposite": "attendre"
+      },
+      "ar": {
+        "word": "استعجل",
+        "opposite": "انتظر"
+      }
+    },
+    {
+      "de": {
+        "word": "bleiben",
+        "opposite": "sich beeilen"
+      },
+      "en": {
+        "word": "stay",
+        "opposite": "hurry"
+      },
+      "fr": {
+        "word": "rester",
+        "opposite": "se dépêcher"
+      },
+      "ar": {
+        "word": "بقي",
+        "opposite": "استعجل"
+      }
+    },
+    {
+      "de": {
+        "word": "aufhören",
+        "opposite": "anfangen"
+      },
+      "en": {
+        "word": "stop",
+        "opposite": "start"
+      },
+      "fr": {
+        "word": "arrêter",
+        "opposite": "commencer"
+      },
+      "ar": {
+        "word": "توقف",
+        "opposite": "بدأ"
+      }
+    },
+    {
+      "de": {
+        "word": "beginnen",
+        "opposite": "abschließen"
+      },
+      "en": {
+        "word": "begin",
+        "opposite": "complete"
+      },
+      "fr": {
+        "word": "commencer",
+        "opposite": "achever"
+      },
+      "ar": {
+        "word": "بدأ",
+        "opposite": "يكمل"
+      }
+    },
+    {
+      "de": {
+        "word": "abschließen",
+        "opposite": "beginnen"
+      },
+      "en": {
+        "word": "complete",
+        "opposite": "begin"
+      },
+      "fr": {
+        "word": "achever",
+        "opposite": "commencer"
+      },
+      "ar": {
+        "word": "يكمل",
+        "opposite": "بدأ"
+      }
+    },
+    {
+      "de": {
+        "word": "fortsetzen",
+        "opposite": "unterbrechen"
+      },
+      "en": {
+        "word": "continue",
+        "opposite": "interrupt"
+      },
+      "fr": {
+        "word": "continuer",
+        "opposite": "interrompre"
+      },
+      "ar": {
+        "word": "واصل",
+        "opposite": "قاطع"
+      }
+    },
+    {
+      "de": {
+        "word": "unterbrechen",
+        "opposite": "fortsetzen"
+      },
+      "en": {
+        "word": "interrupt",
+        "opposite": "continue"
+      },
+      "fr": {
+        "word": "interrompre",
+        "opposite": "continuer"
+      },
+      "ar": {
+        "word": "قاطع",
+        "opposite": "واصل"
+      }
+    },
+    {
+      "de": {
+        "word": "beenden",
+        "opposite": "eröffnen"
+      },
+      "en": {
+        "word": "finish",
+        "opposite": "open"
+      },
+      "fr": {
+        "word": "terminer",
+        "opposite": "ouvrir"
+      },
+      "ar": {
+        "word": "أنهى",
+        "opposite": "فتح"
+      }
+    },
+    {
+      "de": {
+        "word": "eröffnen",
+        "opposite": "schließen"
+      },
+      "en": {
+        "word": "open",
+        "opposite": "close"
+      },
+      "fr": {
+        "word": "ouvrir",
+        "opposite": "fermer"
+      },
+      "ar": {
+        "word": "فتح",
+        "opposite": "أغلق"
+      }
+    },
+    {
+      "de": {
+        "word": "sich erinnern",
+        "opposite": "vergessen"
+      },
+      "en": {
+        "word": "remember",
+        "opposite": "forget"
+      },
+      "fr": {
+        "word": "se souvenir",
+        "opposite": "oublier"
+      },
+      "ar": {
+        "word": "تذكر",
+        "opposite": "نسي"
+      }
+    },
+    {
+      "de": {
+        "word": "merken",
+        "opposite": "übersehen"
+      },
+      "en": {
+        "word": "notice",
+        "opposite": "overlook"
+      },
+      "fr": {
+        "word": "remarquer",
+        "opposite": "ne pas remarquer"
+      },
+      "ar": {
+        "word": "لاحظ",
+        "opposite": "لم يلاحظ"
+      }
+    },
+    {
+      "de": {
+        "word": "erkennen",
+        "opposite": "übersehen"
+      },
+      "en": {
+        "word": "recognize",
+        "opposite": "overlook"
+      },
+      "fr": {
+        "word": "reconnaître",
+        "opposite": "ne pas reconnaître"
+      },
+      "ar": {
+        "word": "يتعرف",
+        "opposite": "لم يلاحظ"
+      }
+    },
+    {
+      "de": {
+        "word": "kennenlernen",
+        "opposite": "vergessen"
+      },
+      "en": {
+        "word": "get to know",
+        "opposite": "forget"
+      },
+      "fr": {
+        "word": "faire connaissance",
+        "opposite": "oublier"
+      },
+      "ar": {
+        "word": "تعرّف على",
+        "opposite": "نسي"
+      }
+    },
+    {
+      "de": {
+        "word": "lieben",
+        "opposite": "verlassen"
+      },
+      "en": {
+        "word": "love",
+        "opposite": "leave"
+      },
+      "fr": {
+        "word": "aimer",
+        "opposite": "quitter"
+      },
+      "ar": {
+        "word": "أحب",
+        "opposite": "ترك"
+      }
+    },
+    {
+      "de": {
+        "word": "hassen",
+        "opposite": "verzeihen"
+      },
+      "en": {
+        "word": "hate",
+        "opposite": "forgive"
+      },
+      "fr": {
+        "word": "détester",
+        "opposite": "pardonner"
+      },
+      "ar": {
+        "word": "كره",
+        "opposite": "يسامح"
+      }
+    },
+    {
+      "de": {
+        "word": "freuen",
+        "opposite": "traurig machen"
+      },
+      "en": {
+        "word": "please",
+        "opposite": "sadden"
+      },
+      "fr": {
+        "word": "réjouir",
+        "opposite": "attrister"
+      },
+      "ar": {
+        "word": "فرح",
+        "opposite": "حزن"
+      }
+    },
+    {
+      "de": {
+        "word": "lachen",
+        "opposite": "ernst bleiben"
+      },
+      "en": {
+        "word": "laugh",
+        "opposite": "stay serious"
+      },
+      "fr": {
+        "word": "rire",
+        "opposite": "rester sérieux"
+      },
+      "ar": {
+        "word": "ضحك",
+        "opposite": "يبقى جادًا"
+      }
+    },
+    {
+      "de": {
+        "word": "weinen",
+        "opposite": "lachen"
+      },
+      "en": {
+        "word": "cry",
+        "opposite": "laugh"
+      },
+      "fr": {
+        "word": "pleurer",
+        "opposite": "rire"
+      },
+      "ar": {
+        "word": "بكى",
+        "opposite": "ضحك"
+      }
+    },
+    {
+      "de": {
+        "word": "beruhigen",
+        "opposite": "aufregen"
+      },
+      "en": {
+        "word": "calm",
+        "opposite": "upset"
+      },
+      "fr": {
+        "word": "calmer",
+        "opposite": "énerver"
+      },
+      "ar": {
+        "word": "هدّأ",
+        "opposite": "أغضب"
+      }
+    },
+    {
+      "de": {
+        "word": "aufregen",
+        "opposite": "beruhigen"
+      },
+      "en": {
+        "word": "upset",
+        "opposite": "calm"
+      },
+      "fr": {
+        "word": "énerver",
+        "opposite": "calmer"
+      },
+      "ar": {
+        "word": "أغضب",
+        "opposite": "هدّأ"
+      }
+    },
+    {
+      "de": {
+        "word": "entspannen",
+        "opposite": "anspannen"
+      },
+      "en": {
+        "word": "relax",
+        "opposite": "tense"
+      },
+      "fr": {
+        "word": "se détendre",
+        "opposite": "tendre"
+      },
+      "ar": {
+        "word": "استرخى",
+        "opposite": "شدّ"
+      }
+    },
+    {
+      "de": {
+        "word": "genießen",
+        "opposite": "leiden"
+      },
+      "en": {
+        "word": "enjoy",
+        "opposite": "suffer"
+      },
+      "fr": {
+        "word": "profiter",
+        "opposite": "souffrir"
+      },
+      "ar": {
+        "word": "استمتع",
+        "opposite": "عانى"
+      }
+    },
+    {
+      "de": {
+        "word": "leiden",
+        "opposite": "genießen"
+      },
+      "en": {
+        "word": "suffer",
+        "opposite": "enjoy"
+      },
+      "fr": {
+        "word": "souffrir",
+        "opposite": "profiter"
+      },
+      "ar": {
+        "word": "عانى",
+        "opposite": "استمتع"
+      }
+    },
+    {
+      "de": {
+        "word": "hoffen",
+        "opposite": "verzweifeln"
+      },
+      "en": {
+        "word": "hope",
+        "opposite": "despair"
+      },
+      "fr": {
+        "word": "espérer",
+        "opposite": "désespérer"
+      },
+      "ar": {
+        "word": "أمل",
+        "opposite": "يئس"
+      }
+    },
+    {
+      "de": {
+        "word": "verzweifeln",
+        "opposite": "hoffen"
+      },
+      "en": {
+        "word": "despair",
+        "opposite": "hope"
+      },
+      "fr": {
+        "word": "désespérer",
+        "opposite": "espérer"
+      },
+      "ar": {
+        "word": "يئس",
+        "opposite": "أمل"
+      }
+    },
+    {
+      "de": {
+        "word": "fürchten",
+        "opposite": "vertrauen"
+      },
+      "en": {
+        "word": "fear",
+        "opposite": "trust"
+      },
+      "fr": {
+        "word": "craindre",
+        "opposite": "faire confiance"
+      },
+      "ar": {
+        "word": "خاف",
+        "opposite": "وثق"
+      }
+    },
+    {
+      "de": {
+        "word": "vertrauen",
+        "opposite": "fürchten"
+      },
+      "en": {
+        "word": "trust",
+        "opposite": "fear"
+      },
+      "fr": {
+        "word": "faire confiance",
+        "opposite": "craindre"
+      },
+      "ar": {
+        "word": "وثق",
+        "opposite": "خاف"
+      }
+    },
+    {
+      "de": {
+        "word": "wollen",
+        "opposite": "ablehnen"
+      },
+      "en": {
+        "word": "want",
+        "opposite": "refuse"
+      },
+      "fr": {
+        "word": "vouloir",
+        "opposite": "refuser"
+      },
+      "ar": {
+        "word": "أراد",
+        "opposite": "رفض"
+      }
+    },
+    {
+      "de": {
+        "word": "wünschen",
+        "opposite": "verbieten"
+      },
+      "en": {
+        "word": "wish",
+        "opposite": "forbid"
+      },
+      "fr": {
+        "word": "souhaiter",
+        "opposite": "interdire"
+      },
+      "ar": {
+        "word": "تمنى",
+        "opposite": "منع"
+      }
+    },
+    {
+      "de": {
+        "word": "brauchen",
+        "opposite": "verzichten"
+      },
+      "en": {
+        "word": "need",
+        "opposite": "do without"
+      },
+      "fr": {
+        "word": "avoir besoin de",
+        "opposite": "se passer de"
+      },
+      "ar": {
+        "word": "احتاج",
+        "opposite": "استغنى عن"
+      }
+    },
+    {
+      "de": {
+        "word": "verzichten",
+        "opposite": "brauchen"
+      },
+      "en": {
+        "word": "do without",
+        "opposite": "need"
+      },
+      "fr": {
+        "word": "se passer de",
+        "opposite": "avoir besoin de"
+      },
+      "ar": {
+        "word": "استغنى عن",
+        "opposite": "احتاج"
+      }
+    },
+    {
+      "de": {
+        "word": "suchen",
+        "opposite": "vermeiden"
+      },
+      "en": {
+        "word": "look for",
+        "opposite": "avoid"
+      },
+      "fr": {
+        "word": "chercher",
+        "opposite": "éviter"
+      },
+      "ar": {
+        "word": "بحث",
+        "opposite": "تجنب"
+      }
+    },
+    {
+      "de": {
+        "word": "finden",
+        "opposite": "verstecken"
+      },
+      "en": {
+        "word": "find",
+        "opposite": "hide"
+      },
+      "fr": {
+        "word": "trouver",
+        "opposite": "cacher"
+      },
+      "ar": {
+        "word": "وجد",
+        "opposite": "أخفى"
+      }
+    },
+    {
+      "de": {
+        "word": "erinnern",
+        "opposite": "vergessen"
+      },
+      "en": {
+        "word": "remind",
+        "opposite": "forget"
+      },
+      "fr": {
+        "word": "rappeler",
+        "opposite": "oublier"
+      },
+      "ar": {
+        "word": "ذكّر",
+        "opposite": "نسي"
+      }
+    },
+    {
+      "de": {
+        "word": "wecken",
+        "opposite": "beruhigen"
+      },
+      "en": {
+        "word": "wake",
+        "opposite": "calm"
+      },
+      "fr": {
+        "word": "réveiller",
+        "opposite": "calmer"
+      },
+      "ar": {
+        "word": "أيقظ",
+        "opposite": "هدّأ"
+      }
+    },
+    {
+      "de": {
+        "word": "stören",
+        "opposite": "beruhigen"
+      },
+      "en": {
+        "word": "disturb",
+        "opposite": "calm"
+      },
+      "fr": {
+        "word": "déranger",
+        "opposite": "calmer"
+      },
+      "ar": {
+        "word": "أزعج",
+        "opposite": "هدّأ"
+      }
+    },
+    {
+      "de": {
+        "word": "beruhigen",
+        "opposite": "stören"
+      },
+      "en": {
+        "word": "calm",
+        "opposite": "disturb"
+      },
+      "fr": {
+        "word": "calmer",
+        "opposite": "déranger"
+      },
+      "ar": {
+        "word": "هدّأ",
+        "opposite": "أزعج"
+      }
+    },
+    {
+      "de": {
+        "word": "akzeptieren",
+        "opposite": "kämpfen"
+      },
+      "en": {
+        "word": "accept",
+        "opposite": "fight against"
+      },
+      "fr": {
+        "word": "accepter",
+        "opposite": "lutter contre"
+      },
+      "ar": {
+        "word": "قبل",
+        "opposite": "يقاوم"
+      }
+    }
+  ]
+}

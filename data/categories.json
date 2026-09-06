@@ -1,6 +1,7 @@
 {
   "files": [
     "adjectives.json",
+    "verbs.json",
     "describing_people.json",
     "feelings.json",
     "positions_and_directions.json"
