@@ -196,7 +196,22 @@ button {
   color: var(--text);
 }
 [data-theme="dark"] .primary-button {
-  color: #10202c;
+  background: #2d789f;
+  color: #ffffff;
+}
+[data-theme="dark"] .exercise-actions .secondary-button {
+  background: #29465a;
+  border-color: #6d8da1;
+  color: #ffffff;
+}
+[data-theme="dark"] .exercise-actions .primary-button:hover {
+  background: #3a8eb8;
+}
+[data-theme="dark"] .exercise-actions button:disabled {
+  background: #1c2d3c;
+  border-color: #4b6578;
+  color: #a9bac7;
+  opacity: 1;
 }
 [data-theme="dark"] .score-circle {
   background: radial-gradient(
