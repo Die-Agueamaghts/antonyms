@@ -8,346 +8,5782 @@
   },
   "items": [
     {
-      "de": {"word":"aktiv","opposite":"faul"},
-      "en": {"word":"active","opposite":"lazy"},
-      "fr": {"word":"actif","opposite":"paresseux"},
-      "ar": {"word":"نشيط","opposite":"كسول"}
+      "de": {
+        "word": "faul",
+        "opposite": "fleißig"
+      },
+      "en": {
+        "word": "lazy",
+        "opposite": "hardworking"
+      },
+      "fr": {
+        "word": "paresseux",
+        "opposite": "travailleur"
+      },
+      "ar": {
+        "word": "كسول",
+        "opposite": "مجتهد"
+      }
     },
     {
-      "de": {"word":"schön","opposite":"hässlich"},
-      "en": {"word":"beautiful","opposite":"ugly"},
-      "fr": {"word":"beau","opposite":"laid"},
-      "ar": {"word":"جميل","opposite":"قبيح"}
+      "de": {
+        "word": "aktiv",
+        "opposite": "inaktiv"
+      },
+      "en": {
+        "word": "active",
+        "opposite": "inactive"
+      },
+      "fr": {
+        "word": "actif",
+        "opposite": "inactif"
+      },
+      "ar": {
+        "word": "نشيط",
+        "opposite": "غير نشط"
+      }
     },
     {
-      "de": {"word":"gut","opposite":"schlecht"},
-      "en": {"word":"good","opposite":"bad"},
-      "fr": {"word":"bon","opposite":"mauvais"},
-      "ar": {"word":"جيد","opposite":"سيء"}
+      "de": {
+        "word": "schön",
+        "opposite": "hässlich"
+      },
+      "en": {
+        "word": "beautiful",
+        "opposite": "ugly"
+      },
+      "fr": {
+        "word": "beau",
+        "opposite": "laid"
+      },
+      "ar": {
+        "word": "جميل",
+        "opposite": "قبيح"
+      }
     },
     {
-      "de": {"word":"glänzend","opposite":"matt"},
-      "en": {"word":"bright","opposite":"dull"},
-      "fr": {"word":"brillant","opposite":"terne"},
-      "ar": {"word":"لامع","opposite":"باهت"}
+      "de": {
+        "word": "groß",
+        "opposite": "klein"
+      },
+      "en": {
+        "word": "big",
+        "opposite": "small"
+      },
+      "fr": {
+        "word": "grand",
+        "opposite": "petit"
+      },
+      "ar": {
+        "word": "كبير",
+        "opposite": "صغير"
+      }
     },
     {
-      "de": {"word":"laut","opposite":"leise"},
-      "en": {"word":"noisy","opposite":"silent"},
-      "fr": {"word":"bruyant","opposite":"silencieux"},
-      "ar": {"word":"صاخب","opposite":"هادئ"}
+      "de": {
+        "word": "lang",
+        "opposite": "kurz"
+      },
+      "en": {
+        "word": "long",
+        "opposite": "short"
+      },
+      "fr": {
+        "word": "long",
+        "opposite": "court"
+      },
+      "ar": {
+        "word": "طويل",
+        "opposite": "قصير"
+      }
     },
     {
-      "de": {"word":"ruhig","opposite":"nervös"},
-      "en": {"word":"calm","opposite":"nervous"},
-      "fr": {"word":"calme","opposite":"nerveux"},
-      "ar": {"word":"هادئ","opposite":"عصبي"}
+      "de": {
+        "word": "hoch",
+        "opposite": "niedrig"
+      },
+      "en": {
+        "word": "high",
+        "opposite": "low"
+      },
+      "fr": {
+        "word": "haut",
+        "opposite": "bas"
+      },
+      "ar": {
+        "word": "عال",
+        "opposite": "منخفض"
+      }
     },
     {
-      "de": {"word":"berühmt","opposite":"unbekannt"},
-      "en": {"word":"famous","opposite":"unknown"},
-      "fr": {"word":"célèbre","opposite":"inconnu"},
-      "ar": {"word":"مشهور","opposite":"مجهول"}
+      "de": {
+        "word": "breit",
+        "opposite": "eng"
+      },
+      "en": {
+        "word": "wide",
+        "opposite": "narrow"
+      },
+      "fr": {
+        "word": "large",
+        "opposite": "étroit"
+      },
+      "ar": {
+        "word": "واسع",
+        "opposite": "ضيق"
+      }
     },
     {
-      "de": {"word":"heiß","opposite":"kalt"},
-      "en": {"word":"hot","opposite":"cold"},
-      "fr": {"word":"chaud","opposite":"froid"},
-      "ar": {"word":"ساخن","opposite":"بارد"}
+      "de": {
+        "word": "dick",
+        "opposite": "dünn"
+      },
+      "en": {
+        "word": "thick",
+        "opposite": "thin"
+      },
+      "fr": {
+        "word": "épais",
+        "opposite": "mince"
+      },
+      "ar": {
+        "word": "سميك",
+        "opposite": "رقيق"
+      }
     },
     {
-      "de": {"word":"teuer","opposite":"billig"},
-      "en": {"word":"expensive","opposite":"cheap"},
-      "fr": {"word":"cher","opposite":"bon marché"},
-      "ar": {"word":"غال","opposite":"رخيص"}
+      "de": {
+        "word": "schwer",
+        "opposite": "leicht"
+      },
+      "en": {
+        "word": "heavy",
+        "opposite": "light"
+      },
+      "fr": {
+        "word": "lourd",
+        "opposite": "léger"
+      },
+      "ar": {
+        "word": "ثقيل",
+        "opposite": "خفيف"
+      }
     },
     {
-      "de": {"word":"hell","opposite":"dunkel"},
-      "en": {"word":"light","opposite":"dark"},
-      "fr": {"word":"clair","opposite":"sombre"},
-      "ar": {"word":"مضيء","opposite":"مظلم"}
+      "de": {
+        "word": "alt",
+        "opposite": "jung"
+      },
+      "en": {
+        "word": "old",
+        "opposite": "young"
+      },
+      "fr": {
+        "word": "vieux",
+        "opposite": "jeune"
+      },
+      "ar": {
+        "word": "قديم",
+        "opposite": "جديد"
+      }
     },
     {
-      "de": {"word":"froh","opposite":"unzufrieden"},
-      "en": {"word":"happy","opposite":"discontented"},
-      "fr": {"word":"content","opposite":"mécontent"},
-      "ar": {"word":"مسرور","opposite":"غير راض"}
+      "de": {
+        "word": "neu",
+        "opposite": "alt"
+      },
+      "en": {
+        "word": "new",
+        "opposite": "old"
+      },
+      "fr": {
+        "word": "nouveau",
+        "opposite": "ancien"
+      },
+      "ar": {
+        "word": "جديد",
+        "opposite": "قديم"
+      }
     },
     {
-      "de": {"word":"mutig","opposite":"feige"},
-      "en": {"word":"courageous","opposite":"cowardly"},
-      "fr": {"word":"courageux","opposite":"lâche"},
-      "ar": {"word":"شجاع","opposite":"جبان"}
+      "de": {
+        "word": "gut",
+        "opposite": "schlecht"
+      },
+      "en": {
+        "word": "good",
+        "opposite": "bad"
+      },
+      "fr": {
+        "word": "bon",
+        "opposite": "mauvais"
+      },
+      "ar": {
+        "word": "جيد",
+        "opposite": "سيئ"
+      }
     },
     {
-      "de": {"word":"ausgeben","opposite":"sparen"},
-      "en": {"word":"to spend","opposite":"to save"},
-      "fr": {"word":"dépenser","opposite":"économiser"},
-      "ar": {"word":"أنفق","opposite":"وفر"}
+      "de": {
+        "word": "einfach",
+        "opposite": "schwierig"
+      },
+      "en": {
+        "word": "easy",
+        "opposite": "difficult"
+      },
+      "fr": {
+        "word": "facile",
+        "opposite": "difficile"
+      },
+      "ar": {
+        "word": "سهل",
+        "opposite": "صعب"
+      }
     },
     {
-      "de": {"word":"Teufel","opposite":"Engel"},
-      "en": {"word":"devil","opposite":"angel"},
-      "fr": {"word":"diable","opposite":"ange"},
-      "ar": {"word":"شيطان","opposite":"ملاك"}
+      "de": {
+        "word": "schwierig",
+        "opposite": "einfach"
+      },
+      "en": {
+        "word": "difficult",
+        "opposite": "easy"
+      },
+      "fr": {
+        "word": "difficile",
+        "opposite": "facile"
+      },
+      "ar": {
+        "word": "صعب",
+        "opposite": "سهل"
+      }
     },
     {
-      "de": {"word":"weich","opposite":"hart"},
-      "en": {"word":"soft","opposite":"hard"},
-      "fr": {"word":"doux","opposite":"dur"},
-      "ar": {"word":"ناعم","opposite":"صلب"}
+      "de": {
+        "word": "sauber",
+        "opposite": "schmutzig"
+      },
+      "en": {
+        "word": "clean",
+        "opposite": "dirty"
+      },
+      "fr": {
+        "word": "propre",
+        "opposite": "sale"
+      },
+      "ar": {
+        "word": "نظيف",
+        "opposite": "متسخ"
+      }
     },
     {
-      "de": {"word":"dick","opposite":"dünn"},
-      "en": {"word":"thick","opposite":"thin"},
-      "fr": {"word":"épais","opposite":"fin"},
-      "ar": {"word":"سميك","opposite":"رقيق"}
+      "de": {
+        "word": "voll",
+        "opposite": "leer"
+      },
+      "en": {
+        "word": "full",
+        "opposite": "empty"
+      },
+      "fr": {
+        "word": "plein",
+        "opposite": "vide"
+      },
+      "ar": {
+        "word": "ممتلئ",
+        "opposite": "فارغ"
+      }
     },
     {
-      "de": {"word":"eng","opposite":"breit"},
-      "en": {"word":"narrow","opposite":"wide"},
-      "fr": {"word":"étroit","opposite":"large"},
-      "ar": {"word":"ضيق","opposite":"واسع"}
+      "de": {
+        "word": "heiß",
+        "opposite": "kalt"
+      },
+      "en": {
+        "word": "hot",
+        "opposite": "cold"
+      },
+      "fr": {
+        "word": "chaud",
+        "opposite": "froid"
+      },
+      "ar": {
+        "word": "حار",
+        "opposite": "بارد"
+      }
     },
     {
-      "de": {"word":"leicht","opposite":"schwierig"},
-      "en": {"word":"easy","opposite":"difficult"},
-      "fr": {"word":"facile","opposite":"difficile"},
-      "ar": {"word":"سهل","opposite":"صعب"}
+      "de": {
+        "word": "hell",
+        "opposite": "dunkel"
+      },
+      "en": {
+        "word": "bright",
+        "opposite": "dark"
+      },
+      "fr": {
+        "word": "clair",
+        "opposite": "sombre"
+      },
+      "ar": {
+        "word": "مضيء",
+        "opposite": "مظلم"
+      }
     },
     {
-      "de": {"word":"stark","opposite":"schwach"},
-      "en": {"word":"strong","opposite":"weak"},
-      "fr": {"word":"fort","opposite":"faible"},
-      "ar": {"word":"قوي","opposite":"ضعيف"}
+      "de": {
+        "word": "offen",
+        "opposite": "geschlossen"
+      },
+      "en": {
+        "word": "open",
+        "opposite": "closed"
+      },
+      "fr": {
+        "word": "ouvert",
+        "opposite": "fermé"
+      },
+      "ar": {
+        "word": "مفتوح",
+        "opposite": "مغلق"
+      }
     },
     {
-      "de": {"word":"großzügig","opposite":"geizig"},
-      "en": {"word":"generous","opposite":"stingy"},
-      "fr": {"word":"généreux","opposite":"avare"},
-      "ar": {"word":"كريم","opposite":"بخيل"}
+      "de": {
+        "word": "schnell",
+        "opposite": "langsam"
+      },
+      "en": {
+        "word": "fast",
+        "opposite": "slow"
+      },
+      "fr": {
+        "word": "rapide",
+        "opposite": "lent"
+      },
+      "ar": {
+        "word": "سريع",
+        "opposite": "بطيء"
+      }
     },
     {
-      "de": {"word":"nett","opposite":"böse"},
-      "en": {"word":"kind","opposite":"mean"},
-      "fr": {"word":"gentil","opposite":"méchant"},
-      "ar": {"word":"لطيف","opposite":"شرير"}
+      "de": {
+        "word": "stark",
+        "opposite": "schwach"
+      },
+      "en": {
+        "word": "strong",
+        "opposite": "weak"
+      },
+      "fr": {
+        "word": "fort",
+        "opposite": "faible"
+      },
+      "ar": {
+        "word": "قوي",
+        "opposite": "ضعيف"
+      }
     },
     {
-      "de": {"word":"groß","opposite":"klein"},
-      "en": {"word":"big","opposite":"small"},
-      "fr": {"word":"grand","opposite":"petit"},
-      "ar": {"word":"كبير","opposite":"صغير"}
+      "de": {
+        "word": "reich",
+        "opposite": "arm"
+      },
+      "en": {
+        "word": "rich",
+        "opposite": "poor"
+      },
+      "fr": {
+        "word": "riche",
+        "opposite": "pauvre"
+      },
+      "ar": {
+        "word": "غني",
+        "opposite": "فقير"
+      }
     },
     {
-      "de": {"word":"dick","opposite":"dünn"},
-      "en": {"word":"fat","opposite":"thin"},
-      "fr": {"word":"gros","opposite":"mince"},
-      "ar": {"word":"سمين","opposite":"نحيف"}
+      "de": {
+        "word": "glücklich",
+        "opposite": "traurig"
+      },
+      "en": {
+        "word": "happy",
+        "opposite": "sad"
+      },
+      "fr": {
+        "word": "heureux",
+        "opposite": "triste"
+      },
+      "ar": {
+        "word": "سعيد",
+        "opposite": "حزين"
+      }
     },
     {
-      "de": {"word":"hoch","opposite":"niedrig"},
-      "en": {"word":"high","opposite":"low"},
-      "fr": {"word":"haut","opposite":"bas"},
-      "ar": {"word":"مرتفع","opposite":"منخفض"}
+      "de": {
+        "word": "zufrieden",
+        "opposite": "unzufrieden"
+      },
+      "en": {
+        "word": "satisfied",
+        "opposite": "dissatisfied"
+      },
+      "fr": {
+        "word": "satisfait",
+        "opposite": "insatisfait"
+      },
+      "ar": {
+        "word": "راض",
+        "opposite": "غير راض"
+      }
     },
     {
-      "de": {"word":"glücklich","opposite":"unglücklich"},
-      "en": {"word":"happy","opposite":"unhappy"},
-      "fr": {"word":"heureux","opposite":"malheureux"},
-      "ar": {"word":"سعيد","opposite":"حزين"}
+      "de": {
+        "word": "freundlich",
+        "opposite": "unfreundlich"
+      },
+      "en": {
+        "word": "friendly",
+        "opposite": "unfriendly"
+      },
+      "fr": {
+        "word": "amical",
+        "opposite": "inamical"
+      },
+      "ar": {
+        "word": "ودود",
+        "opposite": "غير ودود"
+      }
     },
     {
-      "de": {"word":"ehrlich","opposite":"unehrlich"},
-      "en": {"word":"honest","opposite":"dishonest"},
-      "fr": {"word":"honnête","opposite":"malhonnête"},
-      "ar": {"word":"صادق","opposite":"غير صادق"}
+      "de": {
+        "word": "höflich",
+        "opposite": "unhöflich"
+      },
+      "en": {
+        "word": "polite",
+        "opposite": "impolite"
+      },
+      "fr": {
+        "word": "poli",
+        "opposite": "impoli"
+      },
+      "ar": {
+        "word": "مؤدب",
+        "opposite": "وقح"
+      }
     },
     {
-      "de": {"word":"intelligent","opposite":"dumm"},
-      "en": {"word":"intelligent","opposite":"stupid"},
-      "fr": {"word":"intelligent","opposite":"stupide"},
-      "ar": {"word":"ذكي","opposite":"غبي"}
+      "de": {
+        "word": "ruhig",
+        "opposite": "nervös"
+      },
+      "en": {
+        "word": "calm",
+        "opposite": "nervous"
+      },
+      "fr": {
+        "word": "calme",
+        "opposite": "nerveux"
+      },
+      "ar": {
+        "word": "هادئ",
+        "opposite": "عصبي"
+      }
     },
     {
-      "de": {"word":"interessant","opposite":"langweilig"},
-      "en": {"word":"interesting","opposite":"boring"},
-      "fr": {"word":"intéressant","opposite":"ennuyeux"},
-      "ar": {"word":"ممتع","opposite":"ممل"}
+      "de": {
+        "word": "geduldig",
+        "opposite": "ungeduldig"
+      },
+      "en": {
+        "word": "patient",
+        "opposite": "impatient"
+      },
+      "fr": {
+        "word": "patient",
+        "opposite": "impatient"
+      },
+      "ar": {
+        "word": "صبور",
+        "opposite": "غير صبور"
+      }
     },
     {
-      "de": {"word":"jung","opposite":"alt"},
-      "en": {"word":"young","opposite":"old"},
-      "fr": {"word":"jeune","opposite":"vieux"},
-      "ar": {"word":"شاب","opposite":"عجوز"}
+      "de": {
+        "word": "mutig",
+        "opposite": "ängstlich"
+      },
+      "en": {
+        "word": "brave",
+        "opposite": "fearful"
+      },
+      "fr": {
+        "word": "courageux",
+        "opposite": "peureux"
+      },
+      "ar": {
+        "word": "شجاع",
+        "opposite": "خائف"
+      }
     },
     {
-      "de": {"word":"fröhlich","opposite":"traurig"},
-      "en": {"word":"joyful","opposite":"sad"},
-      "fr": {"word":"joyeux","opposite":"triste"},
-      "ar": {"word":"فرح","opposite":"حزين"}
+      "de": {
+        "word": "großzügig",
+        "opposite": "geizig"
+      },
+      "en": {
+        "word": "generous",
+        "opposite": "stingy"
+      },
+      "fr": {
+        "word": "généreux",
+        "opposite": "avare"
+      },
+      "ar": {
+        "word": "كريم",
+        "opposite": "بخيل"
+      }
     },
     {
-      "de": {"word":"gerecht","opposite":"falsch"},
-      "en": {"word":"just","opposite":"wrong"},
-      "fr": {"word":"juste","opposite":"faux"},
-      "ar": {"word":"عادل","opposite":"خاطئ"}
+      "de": {
+        "word": "ehrlich",
+        "opposite": "unehrlich"
+      },
+      "en": {
+        "word": "honest",
+        "opposite": "dishonest"
+      },
+      "fr": {
+        "word": "honnête",
+        "opposite": "malhonnête"
+      },
+      "ar": {
+        "word": "صادق",
+        "opposite": "كاذب"
+      }
     },
     {
-      "de": {"word":"frei","opposite":"beschäftigt"},
-      "en": {"word":"free","opposite":"busy"},
-      "fr": {"word":"libre","opposite":"occupé"},
-      "ar": {"word":"حر","opposite":"مشغول"}
+      "de": {
+        "word": "klug",
+        "opposite": "dumm"
+      },
+      "en": {
+        "word": "clever",
+        "opposite": "stupid"
+      },
+      "fr": {
+        "word": "intelligent",
+        "opposite": "stupide"
+      },
+      "ar": {
+        "word": "ذكي",
+        "opposite": "غبي"
+      }
     },
     {
-      "de": {"word":"lang","opposite":"kurz"},
-      "en": {"word":"long","opposite":"short"},
-      "fr": {"word":"long","opposite":"court"},
-      "ar": {"word":"طويل","opposite":"قصير"}
+      "de": {
+        "word": "interessant",
+        "opposite": "langweilig"
+      },
+      "en": {
+        "word": "interesting",
+        "opposite": "boring"
+      },
+      "fr": {
+        "word": "intéressant",
+        "opposite": "ennuyeux"
+      },
+      "ar": {
+        "word": "ممتع",
+        "opposite": "ممل"
+      }
     },
     {
-      "de": {"word":"schwer","opposite":"leicht"},
-      "en": {"word":"heavy","opposite":"light"},
-      "fr": {"word":"lourd","opposite":"léger"},
-      "ar": {"word":"ثقيل","opposite":"خفيف"}
+      "de": {
+        "word": "nützlich",
+        "opposite": "nutzlos"
+      },
+      "en": {
+        "word": "useful",
+        "opposite": "useless"
+      },
+      "fr": {
+        "word": "utile",
+        "opposite": "inutile"
+      },
+      "ar": {
+        "word": "مفيد",
+        "opposite": "عديم الفائدة"
+      }
     },
     {
-      "de": {"word":"nass","opposite":"trocken"},
-      "en": {"word":"wet","opposite":"dry"},
-      "fr": {"word":"mouillé","opposite":"sec"},
-      "ar": {"word":"رطب","opposite":"جاف"}
+      "de": {
+        "word": "möglich",
+        "opposite": "unmöglich"
+      },
+      "en": {
+        "word": "possible",
+        "opposite": "impossible"
+      },
+      "fr": {
+        "word": "possible",
+        "opposite": "impossible"
+      },
+      "ar": {
+        "word": "ممكن",
+        "opposite": "مستحيل"
+      }
     },
     {
-      "de": {"word":"neu","opposite":"alt"},
-      "en": {"word":"new","opposite":"old"},
-      "fr": {"word":"neuf","opposite":"vieux"},
-      "ar": {"word":"جديد","opposite":"قديم"}
+      "de": {
+        "word": "wahr",
+        "opposite": "falsch"
+      },
+      "en": {
+        "word": "true",
+        "opposite": "false"
+      },
+      "fr": {
+        "word": "vrai",
+        "opposite": "faux"
+      },
+      "ar": {
+        "word": "صحيح",
+        "opposite": "خاطئ"
+      }
     },
     {
-      "de": {"word":"neu","opposite":"alt"},
-      "en": {"word":"new","opposite":"ancient"},
-      "fr": {"word":"nouveau","opposite":"ancien"},
-      "ar": {"word":"جديد","opposite":"قديم"}
+      "de": {
+        "word": "sicher",
+        "opposite": "gefährlich"
+      },
+      "en": {
+        "word": "safe",
+        "opposite": "dangerous"
+      },
+      "fr": {
+        "word": "sûr",
+        "opposite": "dangereux"
+      },
+      "ar": {
+        "word": "آمن",
+        "opposite": "خطير"
+      }
     },
     {
-      "de": {"word":"optimistisch","opposite":"pessimistisch"},
-      "en": {"word":"optimistic","opposite":"pessimistic"},
-      "fr": {"word":"optimiste","opposite":"pessimiste"},
-      "ar": {"word":"متفائل","opposite":"متشائم"}
+      "de": {
+        "word": "lebendig",
+        "opposite": "tot"
+      },
+      "en": {
+        "word": "alive",
+        "opposite": "dead"
+      },
+      "fr": {
+        "word": "vivant",
+        "opposite": "mort"
+      },
+      "ar": {
+        "word": "حي",
+        "opposite": "ميت"
+      }
     },
     {
-      "de": {"word":"offen","opposite":"geschlossen"},
-      "en": {"word":"open","opposite":"closed"},
-      "fr": {"word":"ouvert","opposite":"fermé"},
-      "ar": {"word":"مفتوح","opposite":"مغلق"}
+      "de": {
+        "word": "gesund",
+        "opposite": "krank"
+      },
+      "en": {
+        "word": "healthy",
+        "opposite": "sick"
+      },
+      "fr": {
+        "word": "sain",
+        "opposite": "malade"
+      },
+      "ar": {
+        "word": "صحي",
+        "opposite": "مريض"
+      }
     },
     {
-      "de": {"word":"perfekt","opposite":"unzufrieden"},
-      "en": {"word":"perfect","opposite":"dissatisfied"},
-      "fr": {"word":"parfait","opposite":"insatisfait"},
-      "ar": {"word":"كامل","opposite":"غير راض"}
+      "de": {
+        "word": "trocken",
+        "opposite": "nass"
+      },
+      "en": {
+        "word": "dry",
+        "opposite": "wet"
+      },
+      "fr": {
+        "word": "sec",
+        "opposite": "mouillé"
+      },
+      "ar": {
+        "word": "جاف",
+        "opposite": "مبلل"
+      }
     },
     {
-      "de": {"word":"geduldig","opposite":"ungeduldig"},
-      "en": {"word":"patient","opposite":"impatient"},
-      "fr": {"word":"patient","opposite":"impatient"},
-      "ar": {"word":"صبور","opposite":"نفور"}
+      "de": {
+        "word": "hart",
+        "opposite": "weich"
+      },
+      "en": {
+        "word": "hard",
+        "opposite": "soft"
+      },
+      "fr": {
+        "word": "dur",
+        "opposite": "mou"
+      },
+      "ar": {
+        "word": "صلب",
+        "opposite": "ناعم"
+      }
     },
     {
-      "de": {"word":"ängstlich","opposite":"mutig"},
-      "en": {"word":"fearful","opposite":"courageous"},
-      "fr": {"word":"peureux","opposite":"courageux"},
-      "ar": {"word":"خائف","opposite":"شجاع"}
+      "de": {
+        "word": "süß",
+        "opposite": "bitter"
+      },
+      "en": {
+        "word": "sweet",
+        "opposite": "bitter"
+      },
+      "fr": {
+        "word": "sucré",
+        "opposite": "amer"
+      },
+      "ar": {
+        "word": "حلو",
+        "opposite": "مر"
+      }
     },
     {
-      "de": {"word":"voll","opposite":"leer"},
-      "en": {"word":"full","opposite":"empty"},
-      "fr": {"word":"plein","opposite":"vide"},
-      "ar": {"word":"ممتلئ","opposite":"فارغ"}
+      "de": {
+        "word": "salzig",
+        "opposite": "süß"
+      },
+      "en": {
+        "word": "salty",
+        "opposite": "sweet"
+      },
+      "fr": {
+        "word": "salé",
+        "opposite": "sucré"
+      },
+      "ar": {
+        "word": "مالح",
+        "opposite": "حلو"
+      }
     },
     {
-      "de": {"word":"höflich","opposite":"unhöflich"},
-      "en": {"word":"polite","opposite":"impolite"},
-      "fr": {"word":"poli","opposite":"impoli"},
-      "ar": {"word":"مهذب","opposite":"وقح"}
+      "de": {
+        "word": "leise",
+        "opposite": "laut"
+      },
+      "en": {
+        "word": "quiet",
+        "opposite": "loud"
+      },
+      "fr": {
+        "word": "silencieux",
+        "opposite": "bruyant"
+      },
+      "ar": {
+        "word": "هادئ",
+        "opposite": "صاخب"
+      }
     },
     {
-      "de": {"word":"positiv","opposite":"negativ"},
-      "en": {"word":"positive","opposite":"negative"},
-      "fr": {"word":"positif","opposite":"négatif"},
-      "ar": {"word":"إيجابي","opposite":"سلبي"}
+      "de": {
+        "word": "früh",
+        "opposite": "spät"
+      },
+      "en": {
+        "word": "early",
+        "opposite": "late"
+      },
+      "fr": {
+        "word": "matinal",
+        "opposite": "tardif"
+      },
+      "ar": {
+        "word": "مبكر",
+        "opposite": "متأخر"
+      }
     },
     {
-      "de": {"word":"möglich","opposite":"unmöglich"},
-      "en": {"word":"possible","opposite":"impossible"},
-      "fr": {"word":"possible","opposite":"impossible"},
-      "ar": {"word":"ممكن","opposite":"مستحيل"}
+      "de": {
+        "word": "nah",
+        "opposite": "fern"
+      },
+      "en": {
+        "word": "near",
+        "opposite": "far"
+      },
+      "fr": {
+        "word": "proche",
+        "opposite": "lointain"
+      },
+      "ar": {
+        "word": "قريب",
+        "opposite": "بعيد"
+      }
     },
     {
-      "de": {"word":"nah","opposite":"weit"},
-      "en": {"word":"near","opposite":"far"},
-      "fr": {"word":"proche","opposite":"loin"},
-      "ar": {"word":"قريب","opposite":"بعيد"}
+      "de": {
+        "word": "innen",
+        "opposite": "außen"
+      },
+      "en": {
+        "word": "inside",
+        "opposite": "outside"
+      },
+      "fr": {
+        "word": "intérieur",
+        "opposite": "extérieur"
+      },
+      "ar": {
+        "word": "داخلي",
+        "opposite": "خارجي"
+      }
     },
     {
-      "de": {"word":"sauber","opposite":"schmutzig"},
-      "en": {"word":"clean","opposite":"dirty"},
-      "fr": {"word":"propre","opposite":"sale"},
-      "ar": {"word":"نظيف","opposite":"متسخ"}
+      "de": {
+        "word": "oben",
+        "opposite": "unten"
+      },
+      "en": {
+        "word": "upper",
+        "opposite": "lower"
+      },
+      "fr": {
+        "word": "supérieur",
+        "opposite": "inférieur"
+      },
+      "ar": {
+        "word": "علوي",
+        "opposite": "سفلي"
+      }
     },
     {
-      "de": {"word":"vorsichtig","opposite":"unvorsichtig"},
-      "en": {"word":"cautious","opposite":"careless"},
-      "fr": {"word":"prudent","opposite":"imprudent"},
-      "ar": {"word":"حذر","opposite":"مهمل"}
+      "de": {
+        "word": "besser",
+        "opposite": "schlechter"
+      },
+      "en": {
+        "word": "better",
+        "opposite": "worse"
+      },
+      "fr": {
+        "word": "meilleur",
+        "opposite": "pire"
+      },
+      "ar": {
+        "word": "أفضل",
+        "opposite": "أسوأ"
+      }
     },
     {
-      "de": {"word":"rein","opposite":"unrein"},
-      "en": {"word":"pure","opposite":"impure"},
-      "fr": {"word":"pur","opposite":"impur"},
-      "ar": {"word":"نقي","opposite":"ملوث"}
+      "de": {
+        "word": "wichtig",
+        "opposite": "unwichtig"
+      },
+      "en": {
+        "word": "important",
+        "opposite": "unimportant"
+      },
+      "fr": {
+        "word": "important",
+        "opposite": "insignifiant"
+      },
+      "ar": {
+        "word": "مهم",
+        "opposite": "غير مهم"
+      }
     },
     {
-      "de": {"word":"schnell","opposite":"langsam"},
-      "en": {"word":"fast","opposite":"slow"},
-      "fr": {"word":"rapide","opposite":"lent"},
-      "ar": {"word":"سريع","opposite":"بطيء"}
+      "de": {
+        "word": "richtig",
+        "opposite": "falsch"
+      },
+      "en": {
+        "word": "correct",
+        "opposite": "wrong"
+      },
+      "fr": {
+        "word": "correct",
+        "opposite": "incorrect"
+      },
+      "ar": {
+        "word": "صحيح",
+        "opposite": "خطأ"
+      }
     },
     {
-      "de": {"word":"reich","opposite":"arm"},
-      "en": {"word":"rich","opposite":"poor"},
-      "fr": {"word":"riche","opposite":"pauvre"},
-      "ar": {"word":"غني","opposite":"فقير"}
+      "de": {
+        "word": "vollständig",
+        "opposite": "unvollständig"
+      },
+      "en": {
+        "word": "complete",
+        "opposite": "incomplete"
+      },
+      "fr": {
+        "word": "complet",
+        "opposite": "incomplet"
+      },
+      "ar": {
+        "word": "كامل",
+        "opposite": "ناقص"
+      }
     },
     {
-      "de": {"word":"zufrieden","opposite":"unzufrieden"},
-      "en": {"word":"satisfied","opposite":"dissatisfied"},
-      "fr": {"word":"satisfait","opposite":"mécontent"},
-      "ar": {"word":"راضي","opposite":"غير راضي"}
+      "de": {
+        "word": "gleich",
+        "opposite": "verschieden"
+      },
+      "en": {
+        "word": "same",
+        "opposite": "different"
+      },
+      "fr": {
+        "word": "pareil",
+        "opposite": "différent"
+      },
+      "ar": {
+        "word": "متساو",
+        "opposite": "مختلف"
+      }
     },
     {
-      "de": {"word":"einfach","opposite":"kompliziert"},
-      "en": {"word":"simple","opposite":"complicated"},
-      "fr": {"word":"simple","opposite":"compliqué"},
-      "ar": {"word":"بسيط","opposite":"معقد"}
+      "de": {
+        "word": "verschieden",
+        "opposite": "gleich"
+      },
+      "en": {
+        "word": "different",
+        "opposite": "same"
+      },
+      "fr": {
+        "word": "différent",
+        "opposite": "pareil"
+      },
+      "ar": {
+        "word": "مختلف",
+        "opposite": "متساو"
+      }
     },
     {
-      "de": {"word":"süß","opposite":"bitter"},
-      "en": {"word":"sweet","opposite":"bitter"},
-      "fr": {"word":"sucré","opposite":"amer"},
-      "ar": {"word":"حلو","opposite":"مر"}
+      "de": {
+        "word": "öffentlich",
+        "opposite": "privat"
+      },
+      "en": {
+        "word": "public",
+        "opposite": "private"
+      },
+      "fr": {
+        "word": "public",
+        "opposite": "privé"
+      },
+      "ar": {
+        "word": "عام",
+        "opposite": "خاص"
+      }
     },
     {
-      "de": {"word":"lebendig","opposite":"tot"},
-      "en": {"word":"alive","opposite":"dead"},
-      "fr": {"word":"vivant","opposite":"mort"},
-      "ar": {"word":"حي","opposite":"ميت"}
+      "de": {
+        "word": "frei",
+        "opposite": "besetzt"
+      },
+      "en": {
+        "word": "free",
+        "opposite": "occupied"
+      },
+      "fr": {
+        "word": "libre",
+        "opposite": "occupé"
+      },
+      "ar": {
+        "word": "فارغ",
+        "opposite": "مشغول"
+      }
     },
     {
-      "de": {"word":"wahr","opposite":"falsch"},
-      "en": {"word":"true","opposite":"false"},
-      "fr": {"word":"vrai","opposite":"faux"},
-      "ar": {"word":"صحيح","opposite":"خاطئ"}
+      "de": {
+        "word": "verfügbar",
+        "opposite": "nicht verfügbar"
+      },
+      "en": {
+        "word": "available",
+        "opposite": "unavailable"
+      },
+      "fr": {
+        "word": "disponible",
+        "opposite": "indisponible"
+      },
+      "ar": {
+        "word": "متاح",
+        "opposite": "غير متاح"
+      }
+    },
+    {
+      "de": {
+        "word": "fertig",
+        "opposite": "unfertig"
+      },
+      "en": {
+        "word": "finished",
+        "opposite": "unfinished"
+      },
+      "fr": {
+        "word": "fini",
+        "opposite": "inachevé"
+      },
+      "ar": {
+        "word": "منته",
+        "opposite": "غير مكتمل"
+      }
+    },
+    {
+      "de": {
+        "word": "vorbereitet",
+        "opposite": "unvorbereitet"
+      },
+      "en": {
+        "word": "prepared",
+        "opposite": "unprepared"
+      },
+      "fr": {
+        "word": "préparé",
+        "opposite": "impréparé"
+      },
+      "ar": {
+        "word": "مستعد",
+        "opposite": "غير مستعد"
+      }
+    },
+    {
+      "de": {
+        "word": "organisiert",
+        "opposite": "unorganisiert"
+      },
+      "en": {
+        "word": "organized",
+        "opposite": "disorganized"
+      },
+      "fr": {
+        "word": "organisé",
+        "opposite": "désorganisé"
+      },
+      "ar": {
+        "word": "منظم",
+        "opposite": "غير منظم"
+      }
+    },
+    {
+      "de": {
+        "word": "vorsichtig",
+        "opposite": "unvorsichtig"
+      },
+      "en": {
+        "word": "careful",
+        "opposite": "careless"
+      },
+      "fr": {
+        "word": "prudent",
+        "opposite": "imprudent"
+      },
+      "ar": {
+        "word": "حذر",
+        "opposite": "مهمل"
+      }
+    },
+    {
+      "de": {
+        "word": "verantwortlich",
+        "opposite": "unverantwortlich"
+      },
+      "en": {
+        "word": "responsible",
+        "opposite": "irresponsible"
+      },
+      "fr": {
+        "word": "responsable",
+        "opposite": "irresponsable"
+      },
+      "ar": {
+        "word": "مسؤول",
+        "opposite": "غير مسؤول"
+      }
+    },
+    {
+      "de": {
+        "word": "treu",
+        "opposite": "untreu"
+      },
+      "en": {
+        "word": "faithful",
+        "opposite": "unfaithful"
+      },
+      "fr": {
+        "word": "fidèle",
+        "opposite": "infidèle"
+      },
+      "ar": {
+        "word": "وفي",
+        "opposite": "خائن"
+      }
+    },
+    {
+      "de": {
+        "word": "fähig",
+        "opposite": "unfähig"
+      },
+      "en": {
+        "word": "capable",
+        "opposite": "incapable"
+      },
+      "fr": {
+        "word": "capable",
+        "opposite": "incapable"
+      },
+      "ar": {
+        "word": "قادر",
+        "opposite": "عاجز"
+      }
+    },
+    {
+      "de": {
+        "word": "bewusst",
+        "opposite": "unbewusst"
+      },
+      "en": {
+        "word": "conscious",
+        "opposite": "unconscious"
+      },
+      "fr": {
+        "word": "conscient",
+        "opposite": "inconscient"
+      },
+      "ar": {
+        "word": "واع",
+        "opposite": "فاقد الوعي"
+      }
+    },
+    {
+      "de": {
+        "word": "sicher",
+        "opposite": "unsicher"
+      },
+      "en": {
+        "word": "certain",
+        "opposite": "uncertain"
+      },
+      "fr": {
+        "word": "certain",
+        "opposite": "incertain"
+      },
+      "ar": {
+        "word": "متأكد",
+        "opposite": "غير متأكد"
+      }
+    },
+    {
+      "de": {
+        "word": "legal",
+        "opposite": "illegal"
+      },
+      "en": {
+        "word": "legal",
+        "opposite": "illegal"
+      },
+      "fr": {
+        "word": "légal",
+        "opposite": "illégal"
+      },
+      "ar": {
+        "word": "قانوني",
+        "opposite": "غير قانوني"
+      }
+    },
+    {
+      "de": {
+        "word": "perfekt",
+        "opposite": "unvollkommen"
+      },
+      "en": {
+        "word": "perfect",
+        "opposite": "imperfect"
+      },
+      "fr": {
+        "word": "parfait",
+        "opposite": "imparfait"
+      },
+      "ar": {
+        "word": "مثالي",
+        "opposite": "غير كامل"
+      }
+    },
+    {
+      "de": {
+        "word": "ganz",
+        "opposite": "teilweise"
+      },
+      "en": {
+        "word": "whole",
+        "opposite": "partial"
+      },
+      "fr": {
+        "word": "entier",
+        "opposite": "partiel"
+      },
+      "ar": {
+        "word": "كامل",
+        "opposite": "جزئي"
+      }
+    },
+    {
+      "de": {
+        "word": "ähnlich",
+        "opposite": "unähnlich"
+      },
+      "en": {
+        "word": "similar",
+        "opposite": "dissimilar"
+      },
+      "fr": {
+        "word": "semblable",
+        "opposite": "dissemblable"
+      },
+      "ar": {
+        "word": "متشابه",
+        "opposite": "مختلف"
+      }
+    },
+    {
+      "de": {
+        "word": "identisch",
+        "opposite": "verschieden"
+      },
+      "en": {
+        "word": "identical",
+        "opposite": "different"
+      },
+      "fr": {
+        "word": "identique",
+        "opposite": "différent"
+      },
+      "ar": {
+        "word": "مطابق",
+        "opposite": "مختلف"
+      }
+    },
+    {
+      "de": {
+        "word": "gleich",
+        "opposite": "ungleich"
+      },
+      "en": {
+        "word": "equal",
+        "opposite": "unequal"
+      },
+      "fr": {
+        "word": "égal",
+        "opposite": "inégal"
+      },
+      "ar": {
+        "word": "متساو",
+        "opposite": "غير متساو"
+      }
+    },
+    {
+      "de": {
+        "word": "maximal",
+        "opposite": "minimal"
+      },
+      "en": {
+        "word": "maximum",
+        "opposite": "minimum"
+      },
+      "fr": {
+        "word": "maximal",
+        "opposite": "minimal"
+      },
+      "ar": {
+        "word": "أقصى",
+        "opposite": "أدنى"
+      }
+    },
+    {
+      "de": {
+        "word": "häufig",
+        "opposite": "selten"
+      },
+      "en": {
+        "word": "frequent",
+        "opposite": "rare"
+      },
+      "fr": {
+        "word": "fréquent",
+        "opposite": "rare"
+      },
+      "ar": {
+        "word": "شائع",
+        "opposite": "نادر"
+      }
+    },
+    {
+      "de": {
+        "word": "gewöhnlich",
+        "opposite": "ungewöhnlich"
+      },
+      "en": {
+        "word": "usual",
+        "opposite": "unusual"
+      },
+      "fr": {
+        "word": "habituel",
+        "opposite": "inhabituel"
+      },
+      "ar": {
+        "word": "اعتيادي",
+        "opposite": "غير عادي"
+      }
+    },
+    {
+      "de": {
+        "word": "normal",
+        "opposite": "anormal"
+      },
+      "en": {
+        "word": "normal",
+        "opposite": "abnormal"
+      },
+      "fr": {
+        "word": "normal",
+        "opposite": "anormal"
+      },
+      "ar": {
+        "word": "طبيعي",
+        "opposite": "غير طبيعي"
+      }
+    },
+    {
+      "de": {
+        "word": "natürlich",
+        "opposite": "künstlich"
+      },
+      "en": {
+        "word": "natural",
+        "opposite": "artificial"
+      },
+      "fr": {
+        "word": "naturel",
+        "opposite": "artificiel"
+      },
+      "ar": {
+        "word": "طبيعي",
+        "opposite": "صناعي"
+      }
+    },
+    {
+      "de": {
+        "word": "echt",
+        "opposite": "unecht"
+      },
+      "en": {
+        "word": "real",
+        "opposite": "fake"
+      },
+      "fr": {
+        "word": "authentique",
+        "opposite": "faux"
+      },
+      "ar": {
+        "word": "حقيقي",
+        "opposite": "مزيف"
+      }
+    },
+    {
+      "de": {
+        "word": "berühmt",
+        "opposite": "unbekannt"
+      },
+      "en": {
+        "word": "famous",
+        "opposite": "unknown"
+      },
+      "fr": {
+        "word": "célèbre",
+        "opposite": "inconnu"
+      },
+      "ar": {
+        "word": "مشهور",
+        "opposite": "مجهول"
+      }
+    },
+    {
+      "de": {
+        "word": "bekannt",
+        "opposite": "unbekannt"
+      },
+      "en": {
+        "word": "known",
+        "opposite": "unknown"
+      },
+      "fr": {
+        "word": "connu",
+        "opposite": "inconnu"
+      },
+      "ar": {
+        "word": "معروف",
+        "opposite": "مجهول"
+      }
+    },
+    {
+      "de": {
+        "word": "modern",
+        "opposite": "traditionell"
+      },
+      "en": {
+        "word": "modern",
+        "opposite": "traditional"
+      },
+      "fr": {
+        "word": "moderne",
+        "opposite": "traditionnel"
+      },
+      "ar": {
+        "word": "حديث",
+        "opposite": "تقليدي"
+      }
+    },
+    {
+      "de": {
+        "word": "aktiv",
+        "opposite": "passiv"
+      },
+      "en": {
+        "word": "active",
+        "opposite": "passive"
+      },
+      "fr": {
+        "word": "actif",
+        "opposite": "passif"
+      },
+      "ar": {
+        "word": "نشط",
+        "opposite": "سلبي"
+      }
+    },
+    {
+      "de": {
+        "word": "direkt",
+        "opposite": "indirekt"
+      },
+      "en": {
+        "word": "direct",
+        "opposite": "indirect"
+      },
+      "fr": {
+        "word": "direct",
+        "opposite": "indirect"
+      },
+      "ar": {
+        "word": "مباشر",
+        "opposite": "غير مباشر"
+      }
+    },
+    {
+      "de": {
+        "word": "aufmerksam",
+        "opposite": "unaufmerksam"
+      },
+      "en": {
+        "word": "attentive",
+        "opposite": "inattentive"
+      },
+      "fr": {
+        "word": "attentif",
+        "opposite": "inattentif"
+      },
+      "ar": {
+        "word": "منتبه",
+        "opposite": "غير منتبه"
+      }
+    },
+    {
+      "de": {
+        "word": "konzentriert",
+        "opposite": "abgelenkt"
+      },
+      "en": {
+        "word": "focused",
+        "opposite": "distracted"
+      },
+      "fr": {
+        "word": "concentré",
+        "opposite": "distrait"
+      },
+      "ar": {
+        "word": "مركز",
+        "opposite": "مشتت"
+      }
+    },
+    {
+      "de": {
+        "word": "fleißig",
+        "opposite": "faul"
+      },
+      "en": {
+        "word": "hardworking",
+        "opposite": "lazy"
+      },
+      "fr": {
+        "word": "travailleur",
+        "opposite": "paresseux"
+      },
+      "ar": {
+        "word": "مجتهد",
+        "opposite": "كسول"
+      }
+    },
+    {
+      "de": {
+        "word": "sozial",
+        "opposite": "asozial"
+      },
+      "en": {
+        "word": "social",
+        "opposite": "antisocial"
+      },
+      "fr": {
+        "word": "sociable",
+        "opposite": "asocial"
+      },
+      "ar": {
+        "word": "اجتماعي",
+        "opposite": "انعزالي"
+      }
+    },
+    {
+      "de": {
+        "word": "gesellig",
+        "opposite": "einsam"
+      },
+      "en": {
+        "word": "sociable",
+        "opposite": "lonely"
+      },
+      "fr": {
+        "word": "sociable",
+        "opposite": "solitaire"
+      },
+      "ar": {
+        "word": "ودود",
+        "opposite": "وحيد"
+      }
+    },
+    {
+      "de": {
+        "word": "bescheiden",
+        "opposite": "arrogant"
+      },
+      "en": {
+        "word": "modest",
+        "opposite": "arrogant"
+      },
+      "fr": {
+        "word": "modeste",
+        "opposite": "arrogant"
+      },
+      "ar": {
+        "word": "متواضع",
+        "opposite": "متكبر"
+      }
+    },
+    {
+      "de": {
+        "word": "stolz",
+        "opposite": "demütig"
+      },
+      "en": {
+        "word": "proud",
+        "opposite": "humble"
+      },
+      "fr": {
+        "word": "fier",
+        "opposite": "humble"
+      },
+      "ar": {
+        "word": "فخور",
+        "opposite": "متواضع"
+      }
+    },
+    {
+      "de": {
+        "word": "selbstständig",
+        "opposite": "abhängig"
+      },
+      "en": {
+        "word": "independent",
+        "opposite": "dependent"
+      },
+      "fr": {
+        "word": "indépendant",
+        "opposite": "dépendant"
+      },
+      "ar": {
+        "word": "مستقل",
+        "opposite": "معتمد"
+      }
+    },
+    {
+      "de": {
+        "word": "unabhängig",
+        "opposite": "abhängig"
+      },
+      "en": {
+        "word": "independent",
+        "opposite": "dependent"
+      },
+      "fr": {
+        "word": "indépendant",
+        "opposite": "dépendant"
+      },
+      "ar": {
+        "word": "مستقل",
+        "opposite": "تابع"
+      }
+    },
+    {
+      "de": {
+        "word": "freundlich",
+        "opposite": "aggressiv"
+      },
+      "en": {
+        "word": "friendly",
+        "opposite": "aggressive"
+      },
+      "fr": {
+        "word": "amical",
+        "opposite": "agressif"
+      },
+      "ar": {
+        "word": "ودود",
+        "opposite": "عدواني"
+      }
+    },
+    {
+      "de": {
+        "word": "sanft",
+        "opposite": "brutal"
+      },
+      "en": {
+        "word": "gentle",
+        "opposite": "brutal"
+      },
+      "fr": {
+        "word": "doux",
+        "opposite": "brutal"
+      },
+      "ar": {
+        "word": "لطيف",
+        "opposite": "عنيف"
+      }
+    },
+    {
+      "de": {
+        "word": "nett",
+        "opposite": "gemein"
+      },
+      "en": {
+        "word": "nice",
+        "opposite": "mean"
+      },
+      "fr": {
+        "word": "gentil",
+        "opposite": "méchant"
+      },
+      "ar": {
+        "word": "لطيف",
+        "opposite": "لئيم"
+      }
+    },
+    {
+      "de": {
+        "word": "fröhlich",
+        "opposite": "traurig"
+      },
+      "en": {
+        "word": "cheerful",
+        "opposite": "sad"
+      },
+      "fr": {
+        "word": "joyeux",
+        "opposite": "triste"
+      },
+      "ar": {
+        "word": "مرح",
+        "opposite": "حزين"
+      }
+    },
+    {
+      "de": {
+        "word": "optimistisch",
+        "opposite": "pessimistisch"
+      },
+      "en": {
+        "word": "optimistic",
+        "opposite": "pessimistic"
+      },
+      "fr": {
+        "word": "optimiste",
+        "opposite": "pessimiste"
+      },
+      "ar": {
+        "word": "متفائل",
+        "opposite": "متشائم"
+      }
+    },
+    {
+      "de": {
+        "word": "aktiv",
+        "opposite": "inaktiv"
+      },
+      "en": {
+        "word": "active",
+        "opposite": "inactive"
+      },
+      "fr": {
+        "word": "actif",
+        "opposite": "inactif"
+      },
+      "ar": {
+        "word": "نشط",
+        "opposite": "غير نشط"
+      }
+    },
+    {
+      "de": {
+        "word": "bereit",
+        "opposite": "unbereit"
+      },
+      "en": {
+        "word": "ready",
+        "opposite": "unready"
+      },
+      "fr": {
+        "word": "prêt",
+        "opposite": "imprêt"
+      },
+      "ar": {
+        "word": "مستعد",
+        "opposite": "غير مستعد"
+      }
+    },
+    {
+      "de": {
+        "word": "gesund",
+        "opposite": "ungesund"
+      },
+      "en": {
+        "word": "healthy",
+        "opposite": "unhealthy"
+      },
+      "fr": {
+        "word": "sain",
+        "opposite": "malsain"
+      },
+      "ar": {
+        "word": "صحي",
+        "opposite": "غير صحي"
+      }
+    },
+    {
+      "de": {
+        "word": "klar",
+        "opposite": "unklar"
+      },
+      "en": {
+        "word": "clear",
+        "opposite": "unclear"
+      },
+      "fr": {
+        "word": "clair",
+        "opposite": "peu clair"
+      },
+      "ar": {
+        "word": "واضح",
+        "opposite": "غامض"
+      }
+    },
+    {
+      "de": {
+        "word": "deutlich",
+        "opposite": "undeutlich"
+      },
+      "en": {
+        "word": "clear",
+        "opposite": "unclear"
+      },
+      "fr": {
+        "word": "distinct",
+        "opposite": "indistinct"
+      },
+      "ar": {
+        "word": "واضح",
+        "opposite": "غير واضح"
+      }
+    },
+    {
+      "de": {
+        "word": "sichtbar",
+        "opposite": "unsichtbar"
+      },
+      "en": {
+        "word": "visible",
+        "opposite": "invisible"
+      },
+      "fr": {
+        "word": "visible",
+        "opposite": "invisible"
+      },
+      "ar": {
+        "word": "مرئي",
+        "opposite": "غير مرئي"
+      }
+    },
+    {
+      "de": {
+        "word": "hörbar",
+        "opposite": "unhörbar"
+      },
+      "en": {
+        "word": "audible",
+        "opposite": "inaudible"
+      },
+      "fr": {
+        "word": "audible",
+        "opposite": "inaudible"
+      },
+      "ar": {
+        "word": "مسموع",
+        "opposite": "غير مسموع"
+      }
+    },
+    {
+      "de": {
+        "word": "möglich",
+        "opposite": "unwahrscheinlich"
+      },
+      "en": {
+        "word": "likely",
+        "opposite": "unlikely"
+      },
+      "fr": {
+        "word": "probable",
+        "opposite": "improbable"
+      },
+      "ar": {
+        "word": "محتمل",
+        "opposite": "غير محتمل"
+      }
+    },
+    {
+      "de": {
+        "word": "wahrscheinlich",
+        "opposite": "unwahrscheinlich"
+      },
+      "en": {
+        "word": "probable",
+        "opposite": "unlikely"
+      },
+      "fr": {
+        "word": "probable",
+        "opposite": "improbable"
+      },
+      "ar": {
+        "word": "مرجح",
+        "opposite": "غير مرجح"
+      }
+    },
+    {
+      "de": {
+        "word": "notwendig",
+        "opposite": "unnötig"
+      },
+      "en": {
+        "word": "necessary",
+        "opposite": "unnecessary"
+      },
+      "fr": {
+        "word": "nécessaire",
+        "opposite": "inutile"
+      },
+      "ar": {
+        "word": "ضروري",
+        "opposite": "غير ضروري"
+      }
+    },
+    {
+      "de": {
+        "word": "erlaubt",
+        "opposite": "verboten"
+      },
+      "en": {
+        "word": "allowed",
+        "opposite": "forbidden"
+      },
+      "fr": {
+        "word": "autorisé",
+        "opposite": "interdit"
+      },
+      "ar": {
+        "word": "مسموح",
+        "opposite": "ممنوع"
+      }
+    },
+    {
+      "de": {
+        "word": "verboten",
+        "opposite": "erlaubt"
+      },
+      "en": {
+        "word": "forbidden",
+        "opposite": "allowed"
+      },
+      "fr": {
+        "word": "interdit",
+        "opposite": "autorisé"
+      },
+      "ar": {
+        "word": "ممنوع",
+        "opposite": "مسموح"
+      }
+    },
+    {
+      "de": {
+        "word": "privat",
+        "opposite": "öffentlich"
+      },
+      "en": {
+        "word": "private",
+        "opposite": "public"
+      },
+      "fr": {
+        "word": "privé",
+        "opposite": "public"
+      },
+      "ar": {
+        "word": "خاص",
+        "opposite": "عام"
+      }
+    },
+    {
+      "de": {
+        "word": "sorgfältig",
+        "opposite": "nachlässig"
+      },
+      "en": {
+        "word": "careful",
+        "opposite": "careless"
+      },
+      "fr": {
+        "word": "soigneux",
+        "opposite": "négligent"
+      },
+      "ar": {
+        "word": "دقيق",
+        "opposite": "مهمل"
+      }
+    },
+    {
+      "de": {
+        "word": "genau",
+        "opposite": "ungenau"
+      },
+      "en": {
+        "word": "exact",
+        "opposite": "inaccurate"
+      },
+      "fr": {
+        "word": "précis",
+        "opposite": "imprécis"
+      },
+      "ar": {
+        "word": "دقيق",
+        "opposite": "غير دقيق"
+      }
+    },
+    {
+      "de": {
+        "word": "stabil",
+        "opposite": "instabil"
+      },
+      "en": {
+        "word": "stable",
+        "opposite": "unstable"
+      },
+      "fr": {
+        "word": "stable",
+        "opposite": "instable"
+      },
+      "ar": {
+        "word": "مستقر",
+        "opposite": "غير مستقر"
+      }
+    },
+    {
+      "de": {
+        "word": "fest",
+        "opposite": "locker"
+      },
+      "en": {
+        "word": "tight",
+        "opposite": "loose"
+      },
+      "fr": {
+        "word": "serré",
+        "opposite": "lâche"
+      },
+      "ar": {
+        "word": "محكم",
+        "opposite": "رخو"
+      }
+    },
+    {
+      "de": {
+        "word": "starr",
+        "opposite": "flexibel"
+      },
+      "en": {
+        "word": "rigid",
+        "opposite": "flexible"
+      },
+      "fr": {
+        "word": "rigide",
+        "opposite": "flexible"
+      },
+      "ar": {
+        "word": "صلب",
+        "opposite": "مرن"
+      }
+    },
+    {
+      "de": {
+        "word": "flexibel",
+        "opposite": "starr"
+      },
+      "en": {
+        "word": "flexible",
+        "opposite": "rigid"
+      },
+      "fr": {
+        "word": "flexible",
+        "opposite": "rigide"
+      },
+      "ar": {
+        "word": "مرن",
+        "opposite": "صلب"
+      }
+    },
+    {
+      "de": {
+        "word": "heiß",
+        "opposite": "lau"
+      },
+      "en": {
+        "word": "hot",
+        "opposite": "lukewarm"
+      },
+      "fr": {
+        "word": "chaud",
+        "opposite": "tiède"
+      },
+      "ar": {
+        "word": "حار",
+        "opposite": "فاتر"
+      }
+    },
+    {
+      "de": {
+        "word": "warm",
+        "opposite": "kalt"
+      },
+      "en": {
+        "word": "warm",
+        "opposite": "cold"
+      },
+      "fr": {
+        "word": "chaud",
+        "opposite": "froid"
+      },
+      "ar": {
+        "word": "دافئ",
+        "opposite": "بارد"
+      }
+    },
+    {
+      "de": {
+        "word": "frisch",
+        "opposite": "alt"
+      },
+      "en": {
+        "word": "fresh",
+        "opposite": "stale"
+      },
+      "fr": {
+        "word": "frais",
+        "opposite": "rassis"
+      },
+      "ar": {
+        "word": "طازج",
+        "opposite": "بايت"
+      }
+    },
+    {
+      "de": {
+        "word": "lecker",
+        "opposite": "eklig"
+      },
+      "en": {
+        "word": "delicious",
+        "opposite": "disgusting"
+      },
+      "fr": {
+        "word": "délicieux",
+        "opposite": "dégoûtant"
+      },
+      "ar": {
+        "word": "لذيذ",
+        "opposite": "مقزز"
+      }
+    },
+    {
+      "de": {
+        "word": "trocken",
+        "opposite": "feucht"
+      },
+      "en": {
+        "word": "dry",
+        "opposite": "damp"
+      },
+      "fr": {
+        "word": "sec",
+        "opposite": "humide"
+      },
+      "ar": {
+        "word": "جاف",
+        "opposite": "رطب"
+      }
+    },
+    {
+      "de": {
+        "word": "glatt",
+        "opposite": "rau"
+      },
+      "en": {
+        "word": "smooth",
+        "opposite": "rough"
+      },
+      "fr": {
+        "word": "lisse",
+        "opposite": "rugueux"
+      },
+      "ar": {
+        "word": "ناعم",
+        "opposite": "خشن"
+      }
+    },
+    {
+      "de": {
+        "word": "scharf",
+        "opposite": "stumpf"
+      },
+      "en": {
+        "word": "sharp",
+        "opposite": "blunt"
+      },
+      "fr": {
+        "word": "tranchant",
+        "opposite": "émoussé"
+      },
+      "ar": {
+        "word": "حاد",
+        "opposite": "كليل"
+      }
+    },
+    {
+      "de": {
+        "word": "hell",
+        "opposite": "dunkel"
+      },
+      "en": {
+        "word": "light",
+        "opposite": "dark"
+      },
+      "fr": {
+        "word": "clair",
+        "opposite": "foncé"
+      },
+      "ar": {
+        "word": "فاتح",
+        "opposite": "داكن"
+      }
+    },
+    {
+      "de": {
+        "word": "weiß",
+        "opposite": "schwarz"
+      },
+      "en": {
+        "word": "white",
+        "opposite": "black"
+      },
+      "fr": {
+        "word": "blanc",
+        "opposite": "noir"
+      },
+      "ar": {
+        "word": "أبيض",
+        "opposite": "أسود"
+      }
+    },
+    {
+      "de": {
+        "word": "rot",
+        "opposite": "grün"
+      },
+      "en": {
+        "word": "red",
+        "opposite": "green"
+      },
+      "fr": {
+        "word": "rouge",
+        "opposite": "vert"
+      },
+      "ar": {
+        "word": "أحمر",
+        "opposite": "أخضر"
+      }
+    },
+    {
+      "de": {
+        "word": "breit",
+        "opposite": "schmal"
+      },
+      "en": {
+        "word": "wide",
+        "opposite": "narrow"
+      },
+      "fr": {
+        "word": "large",
+        "opposite": "étroit"
+      },
+      "ar": {
+        "word": "عريض",
+        "opposite": "ضيق"
+      }
+    },
+    {
+      "de": {
+        "word": "dicht",
+        "opposite": "locker"
+      },
+      "en": {
+        "word": "dense",
+        "opposite": "loose"
+      },
+      "fr": {
+        "word": "dense",
+        "opposite": "lâche"
+      },
+      "ar": {
+        "word": "كثيف",
+        "opposite": "متناثر"
+      }
+    },
+    {
+      "de": {
+        "word": "tief",
+        "opposite": "flach"
+      },
+      "en": {
+        "word": "deep",
+        "opposite": "shallow"
+      },
+      "fr": {
+        "word": "profond",
+        "opposite": "peu profond"
+      },
+      "ar": {
+        "word": "عميق",
+        "opposite": "ضحل"
+      }
+    },
+    {
+      "de": {
+        "word": "oberflächlich",
+        "opposite": "tiefgründig"
+      },
+      "en": {
+        "word": "superficial",
+        "opposite": "profound"
+      },
+      "fr": {
+        "word": "superficiel",
+        "opposite": "profond"
+      },
+      "ar": {
+        "word": "سطحي",
+        "opposite": "عميق"
+      }
+    },
+    {
+      "de": {
+        "word": "nah",
+        "opposite": "entfernt"
+      },
+      "en": {
+        "word": "near",
+        "opposite": "distant"
+      },
+      "fr": {
+        "word": "proche",
+        "opposite": "éloigné"
+      },
+      "ar": {
+        "word": "قريب",
+        "opposite": "بعيد"
+      }
+    },
+    {
+      "de": {
+        "word": "zentral",
+        "opposite": "peripher"
+      },
+      "en": {
+        "word": "central",
+        "opposite": "peripheral"
+      },
+      "fr": {
+        "word": "central",
+        "opposite": "périphérique"
+      },
+      "ar": {
+        "word": "مركزي",
+        "opposite": "طرفي"
+      }
+    },
+    {
+      "de": {
+        "word": "früh",
+        "opposite": "spät"
+      },
+      "en": {
+        "word": "early",
+        "opposite": "late"
+      },
+      "fr": {
+        "word": "précoce",
+        "opposite": "tardif"
+      },
+      "ar": {
+        "word": "مبكر",
+        "opposite": "متأخر"
+      }
+    },
+    {
+      "de": {
+        "word": "schnell",
+        "opposite": "gemächlich"
+      },
+      "en": {
+        "word": "fast",
+        "opposite": "leisurely"
+      },
+      "fr": {
+        "word": "rapide",
+        "opposite": "tranquille"
+      },
+      "ar": {
+        "word": "سريع",
+        "opposite": "متأن"
+      }
+    },
+    {
+      "de": {
+        "word": "kurz",
+        "opposite": "lang"
+      },
+      "en": {
+        "word": "short",
+        "opposite": "long"
+      },
+      "fr": {
+        "word": "court",
+        "opposite": "long"
+      },
+      "ar": {
+        "word": "قصير",
+        "opposite": "طويل"
+      }
+    },
+    {
+      "de": {
+        "word": "klein",
+        "opposite": "riesig"
+      },
+      "en": {
+        "word": "small",
+        "opposite": "huge"
+      },
+      "fr": {
+        "word": "petit",
+        "opposite": "énorme"
+      },
+      "ar": {
+        "word": "صغير",
+        "opposite": "ضخم"
+      }
+    },
+    {
+      "de": {
+        "word": "riesig",
+        "opposite": "winzig"
+      },
+      "en": {
+        "word": "huge",
+        "opposite": "tiny"
+      },
+      "fr": {
+        "word": "énorme",
+        "opposite": "minuscule"
+      },
+      "ar": {
+        "word": "ضخم",
+        "opposite": "ضئيل"
+      }
+    },
+    {
+      "de": {
+        "word": "winzig",
+        "opposite": "riesig"
+      },
+      "en": {
+        "word": "tiny",
+        "opposite": "huge"
+      },
+      "fr": {
+        "word": "minuscule",
+        "opposite": "énorme"
+      },
+      "ar": {
+        "word": "ضئيل",
+        "opposite": "ضخم"
+      }
+    },
+    {
+      "de": {
+        "word": "schmal",
+        "opposite": "breit"
+      },
+      "en": {
+        "word": "narrow",
+        "opposite": "wide"
+      },
+      "fr": {
+        "word": "étroit",
+        "opposite": "large"
+      },
+      "ar": {
+        "word": "ضيق",
+        "opposite": "واسع"
+      }
+    },
+    {
+      "de": {
+        "word": "steil",
+        "opposite": "flach"
+      },
+      "en": {
+        "word": "steep",
+        "opposite": "flat"
+      },
+      "fr": {
+        "word": "raide",
+        "opposite": "plat"
+      },
+      "ar": {
+        "word": "شديد الانحدار",
+        "opposite": "مسطح"
+      }
+    },
+    {
+      "de": {
+        "word": "gerade",
+        "opposite": "krumm"
+      },
+      "en": {
+        "word": "straight",
+        "opposite": "crooked"
+      },
+      "fr": {
+        "word": "droit",
+        "opposite": "tordu"
+      },
+      "ar": {
+        "word": "مستقيم",
+        "opposite": "معوج"
+      }
+    },
+    {
+      "de": {
+        "word": "gerade",
+        "opposite": "ungerade"
+      },
+      "en": {
+        "word": "even",
+        "opposite": "odd"
+      },
+      "fr": {
+        "word": "pair",
+        "opposite": "impair"
+      },
+      "ar": {
+        "word": "زوجي",
+        "opposite": "فردي"
+      }
+    },
+    {
+      "de": {
+        "word": "leer",
+        "opposite": "voll"
+      },
+      "en": {
+        "word": "empty",
+        "opposite": "full"
+      },
+      "fr": {
+        "word": "vide",
+        "opposite": "plein"
+      },
+      "ar": {
+        "word": "فارغ",
+        "opposite": "ممتلئ"
+      }
+    },
+    {
+      "de": {
+        "word": "schön",
+        "opposite": "hässlich"
+      },
+      "en": {
+        "word": "beautiful",
+        "opposite": "ugly"
+      },
+      "fr": {
+        "word": "joli",
+        "opposite": "laid"
+      },
+      "ar": {
+        "word": "جميل",
+        "opposite": "قبيح"
+      }
+    },
+    {
+      "de": {
+        "word": "hässlich",
+        "opposite": "schön"
+      },
+      "en": {
+        "word": "ugly",
+        "opposite": "beautiful"
+      },
+      "fr": {
+        "word": "laid",
+        "opposite": "beau"
+      },
+      "ar": {
+        "word": "قبيح",
+        "opposite": "جميل"
+      }
+    },
+    {
+      "de": {
+        "word": "angenehm",
+        "opposite": "unangenehm"
+      },
+      "en": {
+        "word": "pleasant",
+        "opposite": "unpleasant"
+      },
+      "fr": {
+        "word": "agréable",
+        "opposite": "désagréable"
+      },
+      "ar": {
+        "word": "مريح",
+        "opposite": "مزعج"
+      }
+    },
+    {
+      "de": {
+        "word": "bequem",
+        "opposite": "unbequem"
+      },
+      "en": {
+        "word": "comfortable",
+        "opposite": "uncomfortable"
+      },
+      "fr": {
+        "word": "confortable",
+        "opposite": "inconfortable"
+      },
+      "ar": {
+        "word": "مريح",
+        "opposite": "غير مريح"
+      }
+    },
+    {
+      "de": {
+        "word": "begeistert",
+        "opposite": "gelangweilt"
+      },
+      "en": {
+        "word": "excited",
+        "opposite": "bored"
+      },
+      "fr": {
+        "word": "enthousiaste",
+        "opposite": "ennuyé"
+      },
+      "ar": {
+        "word": "متحمس",
+        "opposite": "ملل"
+      }
+    },
+    {
+      "de": {
+        "word": "interessiert",
+        "opposite": "desinteressiert"
+      },
+      "en": {
+        "word": "interested",
+        "opposite": "uninterested"
+      },
+      "fr": {
+        "word": "intéressé",
+        "opposite": "désintéressé"
+      },
+      "ar": {
+        "word": "مهتم",
+        "opposite": "غير مهتم"
+      }
+    },
+    {
+      "de": {
+        "word": "überrascht",
+        "opposite": "erwartet"
+      },
+      "en": {
+        "word": "surprised",
+        "opposite": "expected"
+      },
+      "fr": {
+        "word": "surpris",
+        "opposite": "attendu"
+      },
+      "ar": {
+        "word": "متفاجئ",
+        "opposite": "متوقع"
+      }
+    },
+    {
+      "de": {
+        "word": "ängstlich",
+        "opposite": "selbstbewusst"
+      },
+      "en": {
+        "word": "anxious",
+        "opposite": "confident"
+      },
+      "fr": {
+        "word": "anxieux",
+        "opposite": "confiant"
+      },
+      "ar": {
+        "word": "خائف",
+        "opposite": "واثق"
+      }
+    },
+    {
+      "de": {
+        "word": "selbstbewusst",
+        "opposite": "unsicher"
+      },
+      "en": {
+        "word": "confident",
+        "opposite": "insecure"
+      },
+      "fr": {
+        "word": "confiant",
+        "opposite": "peu sûr de soi"
+      },
+      "ar": {
+        "word": "واثق",
+        "opposite": "غير واثق"
+      }
+    },
+    {
+      "de": {
+        "word": "neugierig",
+        "opposite": "gleichgültig"
+      },
+      "en": {
+        "word": "curious",
+        "opposite": "indifferent"
+      },
+      "fr": {
+        "word": "curieux",
+        "opposite": "indifférent"
+      },
+      "ar": {
+        "word": "فضولي",
+        "opposite": "غير مبال"
+      }
+    },
+    {
+      "de": {
+        "word": "ernst",
+        "opposite": "lustig"
+      },
+      "en": {
+        "word": "serious",
+        "opposite": "funny"
+      },
+      "fr": {
+        "word": "sérieux",
+        "opposite": "drôle"
+      },
+      "ar": {
+        "word": "جاد",
+        "opposite": "مضحك"
+      }
+    },
+    {
+      "de": {
+        "word": "lustig",
+        "opposite": "ernst"
+      },
+      "en": {
+        "word": "funny",
+        "opposite": "serious"
+      },
+      "fr": {
+        "word": "drôle",
+        "opposite": "sérieux"
+      },
+      "ar": {
+        "word": "مضحك",
+        "opposite": "جاد"
+      }
+    },
+    {
+      "de": {
+        "word": "lustig",
+        "opposite": "langweilig"
+      },
+      "en": {
+        "word": "fun",
+        "opposite": "boring"
+      },
+      "fr": {
+        "word": "amusant",
+        "opposite": "ennuyeux"
+      },
+      "ar": {
+        "word": "مسلي",
+        "opposite": "ممل"
+      }
+    },
+    {
+      "de": {
+        "word": "ruhig",
+        "opposite": "laut"
+      },
+      "en": {
+        "word": "quiet",
+        "opposite": "loud"
+      },
+      "fr": {
+        "word": "calme",
+        "opposite": "bruyant"
+      },
+      "ar": {
+        "word": "هادئ",
+        "opposite": "صاخب"
+      }
+    },
+    {
+      "de": {
+        "word": "vorsichtig",
+        "opposite": "riskant"
+      },
+      "en": {
+        "word": "careful",
+        "opposite": "risky"
+      },
+      "fr": {
+        "word": "prudent",
+        "opposite": "risqué"
+      },
+      "ar": {
+        "word": "حذر",
+        "opposite": "محفوف بالمخاطر"
+      }
+    },
+    {
+      "de": {
+        "word": "sicher",
+        "opposite": "riskant"
+      },
+      "en": {
+        "word": "safe",
+        "opposite": "risky"
+      },
+      "fr": {
+        "word": "sûr",
+        "opposite": "risqué"
+      },
+      "ar": {
+        "word": "آمن",
+        "opposite": "مخاطِر"
+      }
+    },
+    {
+      "de": {
+        "word": "friedlich",
+        "opposite": "kriegerisch"
+      },
+      "en": {
+        "word": "peaceful",
+        "opposite": "warlike"
+      },
+      "fr": {
+        "word": "pacifique",
+        "opposite": "belliqueux"
+      },
+      "ar": {
+        "word": "سلمي",
+        "opposite": "حربي"
+      }
+    },
+    {
+      "de": {
+        "word": "friedlich",
+        "opposite": "aggressiv"
+      },
+      "en": {
+        "word": "peaceful",
+        "opposite": "aggressive"
+      },
+      "fr": {
+        "word": "pacifique",
+        "opposite": "agressif"
+      },
+      "ar": {
+        "word": "سلمي",
+        "opposite": "عدواني"
+      }
+    },
+    {
+      "de": {
+        "word": "freundlich",
+        "opposite": "feindlich"
+      },
+      "en": {
+        "word": "friendly",
+        "opposite": "hostile"
+      },
+      "fr": {
+        "word": "amical",
+        "opposite": "hostile"
+      },
+      "ar": {
+        "word": "ودود",
+        "opposite": "عدائي"
+      }
+    },
+    {
+      "de": {
+        "word": "offen",
+        "opposite": "geheim"
+      },
+      "en": {
+        "word": "open",
+        "opposite": "secret"
+      },
+      "fr": {
+        "word": "ouvert",
+        "opposite": "secret"
+      },
+      "ar": {
+        "word": "مفتوح",
+        "opposite": "سري"
+      }
+    },
+    {
+      "de": {
+        "word": "geheim",
+        "opposite": "offen"
+      },
+      "en": {
+        "word": "secret",
+        "opposite": "open"
+      },
+      "fr": {
+        "word": "secret",
+        "opposite": "ouvert"
+      },
+      "ar": {
+        "word": "سري",
+        "opposite": "علني"
+      }
+    },
+    {
+      "de": {
+        "word": "beruflich",
+        "opposite": "privat"
+      },
+      "en": {
+        "word": "professional",
+        "opposite": "private"
+      },
+      "fr": {
+        "word": "professionnel",
+        "opposite": "privé"
+      },
+      "ar": {
+        "word": "مهني",
+        "opposite": "خاص"
+      }
+    },
+    {
+      "de": {
+        "word": "männlich",
+        "opposite": "weiblich"
+      },
+      "en": {
+        "word": "male",
+        "opposite": "female"
+      },
+      "fr": {
+        "word": "masculin",
+        "opposite": "féminin"
+      },
+      "ar": {
+        "word": "ذكر",
+        "opposite": "أنثى"
+      }
+    },
+    {
+      "de": {
+        "word": "männlich",
+        "opposite": "weiblich"
+      },
+      "en": {
+        "word": "masculine",
+        "opposite": "feminine"
+      },
+      "fr": {
+        "word": "masculin",
+        "opposite": "féminin"
+      },
+      "ar": {
+        "word": "مذكر",
+        "opposite": "مؤنث"
+      }
+    },
+    {
+      "de": {
+        "word": "verheiratet",
+        "opposite": "ledig"
+      },
+      "en": {
+        "word": "married",
+        "opposite": "single"
+      },
+      "fr": {
+        "word": "marié",
+        "opposite": "célibataire"
+      },
+      "ar": {
+        "word": "متزوج",
+        "opposite": "أعزب"
+      }
+    },
+    {
+      "de": {
+        "word": "ledig",
+        "opposite": "verheiratet"
+      },
+      "en": {
+        "word": "single",
+        "opposite": "married"
+      },
+      "fr": {
+        "word": "célibataire",
+        "opposite": "marié"
+      },
+      "ar": {
+        "word": "أعزب",
+        "opposite": "متزوج"
+      }
+    },
+    {
+      "de": {
+        "word": "lebendig",
+        "opposite": "leblos"
+      },
+      "en": {
+        "word": "alive",
+        "opposite": "lifeless"
+      },
+      "fr": {
+        "word": "vivant",
+        "opposite": "sans vie"
+      },
+      "ar": {
+        "word": "حي",
+        "opposite": "بلا حياة"
+      }
+    },
+    {
+      "de": {
+        "word": "krank",
+        "opposite": "gesund"
+      },
+      "en": {
+        "word": "sick",
+        "opposite": "healthy"
+      },
+      "fr": {
+        "word": "malade",
+        "opposite": "sain"
+      },
+      "ar": {
+        "word": "مريض",
+        "opposite": "صحي"
+      }
+    },
+    {
+      "de": {
+        "word": "müde",
+        "opposite": "wach"
+      },
+      "en": {
+        "word": "tired",
+        "opposite": "awake"
+      },
+      "fr": {
+        "word": "fatigué",
+        "opposite": "éveillé"
+      },
+      "ar": {
+        "word": "متعب",
+        "opposite": "مستيقظ"
+      }
+    },
+    {
+      "de": {
+        "word": "wach",
+        "opposite": "müde"
+      },
+      "en": {
+        "word": "awake",
+        "opposite": "tired"
+      },
+      "fr": {
+        "word": "éveillé",
+        "opposite": "fatigué"
+      },
+      "ar": {
+        "word": "مستيقظ",
+        "opposite": "متعب"
+      }
+    },
+    {
+      "de": {
+        "word": "hungrig",
+        "opposite": "satt"
+      },
+      "en": {
+        "word": "hungry",
+        "opposite": "full"
+      },
+      "fr": {
+        "word": "affamé",
+        "opposite": "rassasié"
+      },
+      "ar": {
+        "word": "جائع",
+        "opposite": "شبعان"
+      }
+    },
+    {
+      "de": {
+        "word": "durstig",
+        "opposite": "hydratisiert"
+      },
+      "en": {
+        "word": "thirsty",
+        "opposite": "hydrated"
+      },
+      "fr": {
+        "word": "assoiffé",
+        "opposite": "hydraté"
+      },
+      "ar": {
+        "word": "عطشان",
+        "opposite": "مرطب"
+      }
+    },
+    {
+      "de": {
+        "word": "nüchtern",
+        "opposite": "betrunken"
+      },
+      "en": {
+        "word": "sober",
+        "opposite": "drunk"
+      },
+      "fr": {
+        "word": "sobre",
+        "opposite": "ivre"
+      },
+      "ar": {
+        "word": "صاح",
+        "opposite": "مخمور"
+      }
+    },
+    {
+      "de": {
+        "word": "nass",
+        "opposite": "trocken"
+      },
+      "en": {
+        "word": "wet",
+        "opposite": "dry"
+      },
+      "fr": {
+        "word": "mouillé",
+        "opposite": "sec"
+      },
+      "ar": {
+        "word": "مبلل",
+        "opposite": "جاف"
+      }
+    },
+    {
+      "de": {
+        "word": "schmutzig",
+        "opposite": "sauber"
+      },
+      "en": {
+        "word": "dirty",
+        "opposite": "clean"
+      },
+      "fr": {
+        "word": "sale",
+        "opposite": "propre"
+      },
+      "ar": {
+        "word": "متسخ",
+        "opposite": "نظيف"
+      }
+    },
+    {
+      "de": {
+        "word": "kaputt",
+        "opposite": "ganz"
+      },
+      "en": {
+        "word": "broken",
+        "opposite": "intact"
+      },
+      "fr": {
+        "word": "cassé",
+        "opposite": "intact"
+      },
+      "ar": {
+        "word": "مكسور",
+        "opposite": "سليم"
+      }
+    },
+    {
+      "de": {
+        "word": "intakt",
+        "opposite": "kaputt"
+      },
+      "en": {
+        "word": "intact",
+        "opposite": "broken"
+      },
+      "fr": {
+        "word": "intact",
+        "opposite": "cassé"
+      },
+      "ar": {
+        "word": "سليم",
+        "opposite": "مكسور"
+      }
+    },
+    {
+      "de": {
+        "word": "neu",
+        "opposite": "gebraucht"
+      },
+      "en": {
+        "word": "new",
+        "opposite": "used"
+      },
+      "fr": {
+        "word": "neuf",
+        "opposite": "usagé"
+      },
+      "ar": {
+        "word": "جديد",
+        "opposite": "مستعمل"
+      }
+    },
+    {
+      "de": {
+        "word": "gebraucht",
+        "opposite": "neu"
+      },
+      "en": {
+        "word": "used",
+        "opposite": "new"
+      },
+      "fr": {
+        "word": "usagé",
+        "opposite": "neuf"
+      },
+      "ar": {
+        "word": "مستعمل",
+        "opposite": "جديد"
+      }
+    },
+    {
+      "de": {
+        "word": "praktisch",
+        "opposite": "unpraktisch"
+      },
+      "en": {
+        "word": "practical",
+        "opposite": "impractical"
+      },
+      "fr": {
+        "word": "pratique",
+        "opposite": "impraticable"
+      },
+      "ar": {
+        "word": "عملي",
+        "opposite": "غير عملي"
+      }
+    },
+    {
+      "de": {
+        "word": "sinnvoll",
+        "opposite": "sinnlos"
+      },
+      "en": {
+        "word": "meaningful",
+        "opposite": "meaningless"
+      },
+      "fr": {
+        "word": "sensé",
+        "opposite": "insensé"
+      },
+      "ar": {
+        "word": "ذو معنى",
+        "opposite": "بلا معنى"
+      }
+    },
+    {
+      "de": {
+        "word": "sinnlos",
+        "opposite": "sinnvoll"
+      },
+      "en": {
+        "word": "meaningless",
+        "opposite": "meaningful"
+      },
+      "fr": {
+        "word": "insensé",
+        "opposite": "sensé"
+      },
+      "ar": {
+        "word": "بلا معنى",
+        "opposite": "ذو معنى"
+      }
+    },
+    {
+      "de": {
+        "word": "nützlich",
+        "opposite": "schädlich"
+      },
+      "en": {
+        "word": "useful",
+        "opposite": "harmful"
+      },
+      "fr": {
+        "word": "utile",
+        "opposite": "nuisible"
+      },
+      "ar": {
+        "word": "مفيد",
+        "opposite": "ضار"
+      }
+    },
+    {
+      "de": {
+        "word": "schädlich",
+        "opposite": "nützlich"
+      },
+      "en": {
+        "word": "harmful",
+        "opposite": "useful"
+      },
+      "fr": {
+        "word": "nuisible",
+        "opposite": "utile"
+      },
+      "ar": {
+        "word": "ضار",
+        "opposite": "مفيد"
+      }
+    },
+    {
+      "de": {
+        "word": "billig",
+        "opposite": "teuer"
+      },
+      "en": {
+        "word": "cheap",
+        "opposite": "expensive"
+      },
+      "fr": {
+        "word": "bon marché",
+        "opposite": "cher"
+      },
+      "ar": {
+        "word": "رخيص",
+        "opposite": "غالي"
+      }
+    },
+    {
+      "de": {
+        "word": "teuer",
+        "opposite": "billig"
+      },
+      "en": {
+        "word": "expensive",
+        "opposite": "cheap"
+      },
+      "fr": {
+        "word": "cher",
+        "opposite": "bon marché"
+      },
+      "ar": {
+        "word": "غالي",
+        "opposite": "رخيص"
+      }
+    },
+    {
+      "de": {
+        "word": "kostenlos",
+        "opposite": "kostenpflichtig"
+      },
+      "en": {
+        "word": "free",
+        "opposite": "paid"
+      },
+      "fr": {
+        "word": "gratuit",
+        "opposite": "payant"
+      },
+      "ar": {
+        "word": "مجاني",
+        "opposite": "مدفوع"
+      }
+    },
+    {
+      "de": {
+        "word": "bezahlbar",
+        "opposite": "unbezahlbar"
+      },
+      "en": {
+        "word": "affordable",
+        "opposite": "unaffordable"
+      },
+      "fr": {
+        "word": "abordable",
+        "opposite": "inabordable"
+      },
+      "ar": {
+        "word": "ميسور",
+        "opposite": "باهظ"
+      }
+    },
+    {
+      "de": {
+        "word": "wertvoll",
+        "opposite": "wertlos"
+      },
+      "en": {
+        "word": "valuable",
+        "opposite": "worthless"
+      },
+      "fr": {
+        "word": "précieux",
+        "opposite": "sans valeur"
+      },
+      "ar": {
+        "word": "قيّم",
+        "opposite": "بلا قيمة"
+      }
+    },
+    {
+      "de": {
+        "word": "wertlos",
+        "opposite": "wertvoll"
+      },
+      "en": {
+        "word": "worthless",
+        "opposite": "valuable"
+      },
+      "fr": {
+        "word": "sans valeur",
+        "opposite": "précieux"
+      },
+      "ar": {
+        "word": "بلا قيمة",
+        "opposite": "قيّم"
+      }
+    },
+    {
+      "de": {
+        "word": "reichhaltig",
+        "opposite": "arm"
+      },
+      "en": {
+        "word": "rich",
+        "opposite": "poor"
+      },
+      "fr": {
+        "word": "riche",
+        "opposite": "pauvre"
+      },
+      "ar": {
+        "word": "غني",
+        "opposite": "فقير"
+      }
+    },
+    {
+      "de": {
+        "word": "sparsam",
+        "opposite": "verschwenderisch"
+      },
+      "en": {
+        "word": "economical",
+        "opposite": "wasteful"
+      },
+      "fr": {
+        "word": "économe",
+        "opposite": "dépensier"
+      },
+      "ar": {
+        "word": "موفر",
+        "opposite": "مسرف"
+      }
+    },
+    {
+      "de": {
+        "word": "verschwenderisch",
+        "opposite": "sparsam"
+      },
+      "en": {
+        "word": "wasteful",
+        "opposite": "economical"
+      },
+      "fr": {
+        "word": "dépensier",
+        "opposite": "économe"
+      },
+      "ar": {
+        "word": "مسرف",
+        "opposite": "موفر"
+      }
+    },
+    {
+      "de": {
+        "word": "lokal",
+        "opposite": "international"
+      },
+      "en": {
+        "word": "local",
+        "opposite": "international"
+      },
+      "fr": {
+        "word": "local",
+        "opposite": "international"
+      },
+      "ar": {
+        "word": "محلي",
+        "opposite": "دولي"
+      }
+    },
+    {
+      "de": {
+        "word": "national",
+        "opposite": "international"
+      },
+      "en": {
+        "word": "national",
+        "opposite": "international"
+      },
+      "fr": {
+        "word": "national",
+        "opposite": "international"
+      },
+      "ar": {
+        "word": "وطني",
+        "opposite": "دولي"
+      }
+    },
+    {
+      "de": {
+        "word": "international",
+        "opposite": "national"
+      },
+      "en": {
+        "word": "international",
+        "opposite": "national"
+      },
+      "fr": {
+        "word": "international",
+        "opposite": "national"
+      },
+      "ar": {
+        "word": "دولي",
+        "opposite": "وطني"
+      }
+    },
+    {
+      "de": {
+        "word": "ländlich",
+        "opposite": "städtisch"
+      },
+      "en": {
+        "word": "rural",
+        "opposite": "urban"
+      },
+      "fr": {
+        "word": "rural",
+        "opposite": "urbain"
+      },
+      "ar": {
+        "word": "ريفي",
+        "opposite": "حضري"
+      }
+    },
+    {
+      "de": {
+        "word": "städtisch",
+        "opposite": "ländlich"
+      },
+      "en": {
+        "word": "urban",
+        "opposite": "rural"
+      },
+      "fr": {
+        "word": "urbain",
+        "opposite": "rural"
+      },
+      "ar": {
+        "word": "حضري",
+        "opposite": "ريفي"
+      }
+    },
+    {
+      "de": {
+        "word": "nördlich",
+        "opposite": "südlich"
+      },
+      "en": {
+        "word": "northern",
+        "opposite": "southern"
+      },
+      "fr": {
+        "word": "nordique",
+        "opposite": "méridional"
+      },
+      "ar": {
+        "word": "شمالي",
+        "opposite": "جنوبي"
+      }
+    },
+    {
+      "de": {
+        "word": "östlich",
+        "opposite": "westlich"
+      },
+      "en": {
+        "word": "eastern",
+        "opposite": "western"
+      },
+      "fr": {
+        "word": "oriental",
+        "opposite": "occidental"
+      },
+      "ar": {
+        "word": "شرقي",
+        "opposite": "غربي"
+      }
+    },
+    {
+      "de": {
+        "word": "westlich",
+        "opposite": "östlich"
+      },
+      "en": {
+        "word": "western",
+        "opposite": "eastern"
+      },
+      "fr": {
+        "word": "occidental",
+        "opposite": "oriental"
+      },
+      "ar": {
+        "word": "غربي",
+        "opposite": "شرقي"
+      }
+    },
+    {
+      "de": {
+        "word": "innerlich",
+        "opposite": "äußerlich"
+      },
+      "en": {
+        "word": "internal",
+        "opposite": "external"
+      },
+      "fr": {
+        "word": "interne",
+        "opposite": "externe"
+      },
+      "ar": {
+        "word": "داخلي",
+        "opposite": "خارجي"
+      }
+    },
+    {
+      "de": {
+        "word": "vorne",
+        "opposite": "hinten"
+      },
+      "en": {
+        "word": "front",
+        "opposite": "back"
+      },
+      "fr": {
+        "word": "avant",
+        "opposite": "arrière"
+      },
+      "ar": {
+        "word": "أمامي",
+        "opposite": "خلفي"
+      }
+    },
+    {
+      "de": {
+        "word": "oben",
+        "opposite": "unten"
+      },
+      "en": {
+        "word": "above",
+        "opposite": "below"
+      },
+      "fr": {
+        "word": "au-dessus",
+        "opposite": "au-dessous"
+      },
+      "ar": {
+        "word": "فوق",
+        "opposite": "تحت"
+      }
+    },
+    {
+      "de": {
+        "word": "links",
+        "opposite": "rechts"
+      },
+      "en": {
+        "word": "left",
+        "opposite": "right"
+      },
+      "fr": {
+        "word": "gauche",
+        "opposite": "droite"
+      },
+      "ar": {
+        "word": "يسار",
+        "opposite": "يمين"
+      }
+    },
+    {
+      "de": {
+        "word": "horizontal",
+        "opposite": "vertikal"
+      },
+      "en": {
+        "word": "horizontal",
+        "opposite": "vertical"
+      },
+      "fr": {
+        "word": "horizontal",
+        "opposite": "vertical"
+      },
+      "ar": {
+        "word": "أفقي",
+        "opposite": "عمودي"
+      }
+    },
+    {
+      "de": {
+        "word": "vertikal",
+        "opposite": "horizontal"
+      },
+      "en": {
+        "word": "vertical",
+        "opposite": "horizontal"
+      },
+      "fr": {
+        "word": "vertical",
+        "opposite": "horizontal"
+      },
+      "ar": {
+        "word": "عمودي",
+        "opposite": "أفقي"
+      }
+    },
+    {
+      "de": {
+        "word": "einzeln",
+        "opposite": "gemeinsam"
+      },
+      "en": {
+        "word": "individual",
+        "opposite": "together"
+      },
+      "fr": {
+        "word": "individuel",
+        "opposite": "commun"
+      },
+      "ar": {
+        "word": "فردي",
+        "opposite": "مشترك"
+      }
+    },
+    {
+      "de": {
+        "word": "gemeinsam",
+        "opposite": "getrennt"
+      },
+      "en": {
+        "word": "together",
+        "opposite": "separate"
+      },
+      "fr": {
+        "word": "commun",
+        "opposite": "séparé"
+      },
+      "ar": {
+        "word": "مشترك",
+        "opposite": "منفصل"
+      }
+    },
+    {
+      "de": {
+        "word": "getrennt",
+        "opposite": "zusammen"
+      },
+      "en": {
+        "word": "separate",
+        "opposite": "together"
+      },
+      "fr": {
+        "word": "séparé",
+        "opposite": "ensemble"
+      },
+      "ar": {
+        "word": "منفصل",
+        "opposite": "معًا"
+      }
+    },
+    {
+      "de": {
+        "word": "persönlich",
+        "opposite": "unpersönlich"
+      },
+      "en": {
+        "word": "personal",
+        "opposite": "impersonal"
+      },
+      "fr": {
+        "word": "personnel",
+        "opposite": "impersonnel"
+      },
+      "ar": {
+        "word": "شخصي",
+        "opposite": "غير شخصي"
+      }
+    },
+    {
+      "de": {
+        "word": "offiziell",
+        "opposite": "inoffiziell"
+      },
+      "en": {
+        "word": "official",
+        "opposite": "unofficial"
+      },
+      "fr": {
+        "word": "officiel",
+        "opposite": "officieux"
+      },
+      "ar": {
+        "word": "رسمي",
+        "opposite": "غير رسمي"
+      }
+    },
+    {
+      "de": {
+        "word": "formell",
+        "opposite": "informell"
+      },
+      "en": {
+        "word": "formal",
+        "opposite": "informal"
+      },
+      "fr": {
+        "word": "formel",
+        "opposite": "informel"
+      },
+      "ar": {
+        "word": "رسمي",
+        "opposite": "غير رسمي"
+      }
+    },
+    {
+      "de": {
+        "word": "informell",
+        "opposite": "formell"
+      },
+      "en": {
+        "word": "informal",
+        "opposite": "formal"
+      },
+      "fr": {
+        "word": "informel",
+        "opposite": "formel"
+      },
+      "ar": {
+        "word": "غير رسمي",
+        "opposite": "رسمي"
+      }
+    },
+    {
+      "de": {
+        "word": "öffentlich",
+        "opposite": "geheim"
+      },
+      "en": {
+        "word": "public",
+        "opposite": "secret"
+      },
+      "fr": {
+        "word": "public",
+        "opposite": "secret"
+      },
+      "ar": {
+        "word": "عام",
+        "opposite": "سري"
+      }
+    },
+    {
+      "de": {
+        "word": "ernsthaft",
+        "opposite": "spielerisch"
+      },
+      "en": {
+        "word": "serious",
+        "opposite": "playful"
+      },
+      "fr": {
+        "word": "sérieux",
+        "opposite": "ludique"
+      },
+      "ar": {
+        "word": "جدي",
+        "opposite": "مرح"
+      }
+    },
+    {
+      "de": {
+        "word": "spielerisch",
+        "opposite": "ernst"
+      },
+      "en": {
+        "word": "playful",
+        "opposite": "serious"
+      },
+      "fr": {
+        "word": "ludique",
+        "opposite": "sérieux"
+      },
+      "ar": {
+        "word": "مرح",
+        "opposite": "جاد"
+      }
+    },
+    {
+      "de": {
+        "word": "realistisch",
+        "opposite": "unrealistisch"
+      },
+      "en": {
+        "word": "realistic",
+        "opposite": "unrealistic"
+      },
+      "fr": {
+        "word": "réaliste",
+        "opposite": "irréaliste"
+      },
+      "ar": {
+        "word": "واقعي",
+        "opposite": "غير واقعي"
+      }
+    },
+    {
+      "de": {
+        "word": "logisch",
+        "opposite": "unlogisch"
+      },
+      "en": {
+        "word": "logical",
+        "opposite": "illogical"
+      },
+      "fr": {
+        "word": "logique",
+        "opposite": "illogique"
+      },
+      "ar": {
+        "word": "منطقي",
+        "opposite": "غير منطقي"
+      }
+    },
+    {
+      "de": {
+        "word": "vernünftig",
+        "opposite": "unvernünftig"
+      },
+      "en": {
+        "word": "reasonable",
+        "opposite": "unreasonable"
+      },
+      "fr": {
+        "word": "raisonnable",
+        "opposite": "déraisonnable"
+      },
+      "ar": {
+        "word": "عاقل",
+        "opposite": "غير عاقل"
+      }
+    },
+    {
+      "de": {
+        "word": "klug",
+        "opposite": "unklug"
+      },
+      "en": {
+        "word": "wise",
+        "opposite": "unwise"
+      },
+      "fr": {
+        "word": "sage",
+        "opposite": "imprudent"
+      },
+      "ar": {
+        "word": "حكيم",
+        "opposite": "غير حكيم"
+      }
+    },
+    {
+      "de": {
+        "word": "dumm",
+        "opposite": "klug"
+      },
+      "en": {
+        "word": "stupid",
+        "opposite": "smart"
+      },
+      "fr": {
+        "word": "stupide",
+        "opposite": "intelligent"
+      },
+      "ar": {
+        "word": "غبي",
+        "opposite": "ذكي"
+      }
+    },
+    {
+      "de": {
+        "word": "faul",
+        "opposite": "fleißig"
+      },
+      "en": {
+        "word": "lazy",
+        "opposite": "hardworking"
+      },
+      "fr": {
+        "word": "paresseux",
+        "opposite": "travailleur"
+      },
+      "ar": {
+        "word": "كسول",
+        "opposite": "مجتهد"
+      }
+    },
+    {
+      "de": {
+        "word": "pünktlich",
+        "opposite": "unpünktlich"
+      },
+      "en": {
+        "word": "punctual",
+        "opposite": "late"
+      },
+      "fr": {
+        "word": "ponctuel",
+        "opposite": "en retard"
+      },
+      "ar": {
+        "word": "pünktlich",
+        "opposite": "غير ملتزم"
+      }
+    },
+    {
+      "de": {
+        "word": "tolerant",
+        "opposite": "intolerant"
+      },
+      "en": {
+        "word": "tolerant",
+        "opposite": "intolerant"
+      },
+      "fr": {
+        "word": "tolérant",
+        "opposite": "intolérant"
+      },
+      "ar": {
+        "word": "متسامح",
+        "opposite": "متعصب"
+      }
+    },
+    {
+      "de": {
+        "word": "respektvoll",
+        "opposite": "respektlos"
+      },
+      "en": {
+        "word": "respectful",
+        "opposite": "disrespectful"
+      },
+      "fr": {
+        "word": "respectueux",
+        "opposite": "irrespectueux"
+      },
+      "ar": {
+        "word": "محترم",
+        "opposite": "غير محترم"
+      }
+    },
+    {
+      "de": {
+        "word": "hilfsbereit",
+        "opposite": "egoistisch"
+      },
+      "en": {
+        "word": "helpful",
+        "opposite": "selfish"
+      },
+      "fr": {
+        "word": "serviable",
+        "opposite": "égoïste"
+      },
+      "ar": {
+        "word": "متعاون",
+        "opposite": "أناني"
+      }
+    },
+    {
+      "de": {
+        "word": "egoistisch",
+        "opposite": "selbstlos"
+      },
+      "en": {
+        "word": "selfish",
+        "opposite": "selfless"
+      },
+      "fr": {
+        "word": "égoïste",
+        "opposite": "désintéressé"
+      },
+      "ar": {
+        "word": "أناني",
+        "opposite": "غير أناني"
+      }
+    },
+    {
+      "de": {
+        "word": "selbstlos",
+        "opposite": "egoistisch"
+      },
+      "en": {
+        "word": "selfless",
+        "opposite": "selfish"
+      },
+      "fr": {
+        "word": "désintéressé",
+        "opposite": "égoïste"
+      },
+      "ar": {
+        "word": "غير أناني",
+        "opposite": "أناني"
+      }
+    },
+    {
+      "de": {
+        "word": "loyal",
+        "opposite": "illoyal"
+      },
+      "en": {
+        "word": "loyal",
+        "opposite": "disloyal"
+      },
+      "fr": {
+        "word": "loyal",
+        "opposite": "déloyal"
+      },
+      "ar": {
+        "word": "مخلص",
+        "opposite": "غير مخلص"
+      }
+    },
+    {
+      "de": {
+        "word": "vertrauenswürdig",
+        "opposite": "unzuverlässig"
+      },
+      "en": {
+        "word": "trustworthy",
+        "opposite": "unreliable"
+      },
+      "fr": {
+        "word": "fiable",
+        "opposite": "peu fiable"
+      },
+      "ar": {
+        "word": "جدير بالثقة",
+        "opposite": "غير موثوق"
+      }
+    },
+    {
+      "de": {
+        "word": "zuverlässig",
+        "opposite": "unzuverlässig"
+      },
+      "en": {
+        "word": "reliable",
+        "opposite": "unreliable"
+      },
+      "fr": {
+        "word": "fiable",
+        "opposite": "peu fiable"
+      },
+      "ar": {
+        "word": "موثوق",
+        "opposite": "غير موثوق"
+      }
+    },
+    {
+      "de": {
+        "word": "flexibel",
+        "opposite": "unflexibel"
+      },
+      "en": {
+        "word": "flexible",
+        "opposite": "inflexible"
+      },
+      "fr": {
+        "word": "flexible",
+        "opposite": "inflexible"
+      },
+      "ar": {
+        "word": "مرن",
+        "opposite": "غير مرن"
+      }
+    },
+    {
+      "de": {
+        "word": "tolerant",
+        "opposite": "engstirnig"
+      },
+      "en": {
+        "word": "tolerant",
+        "opposite": "narrow-minded"
+      },
+      "fr": {
+        "word": "tolérant",
+        "opposite": "étroit d'esprit"
+      },
+      "ar": {
+        "word": "متسامح",
+        "opposite": "ضيق الأفق"
+      }
+    },
+    {
+      "de": {
+        "word": "offen",
+        "opposite": "verschlossen"
+      },
+      "en": {
+        "word": "open",
+        "opposite": "closed-minded"
+      },
+      "fr": {
+        "word": "ouvert",
+        "opposite": "fermé"
+      },
+      "ar": {
+        "word": "منفتح",
+        "opposite": "منغلق"
+      }
+    },
+    {
+      "de": {
+        "word": "kontaktfreudig",
+        "opposite": "kontaktarm"
+      },
+      "en": {
+        "word": "sociable",
+        "opposite": "unsociable"
+      },
+      "fr": {
+        "word": "sociable",
+        "opposite": "peu sociable"
+      },
+      "ar": {
+        "word": "اجتماعي",
+        "opposite": "قليل الاختلاط"
+      }
+    },
+    {
+      "de": {
+        "word": "extrovertiert",
+        "opposite": "introvertiert"
+      },
+      "en": {
+        "word": "extroverted",
+        "opposite": "introverted"
+      },
+      "fr": {
+        "word": "extraverti",
+        "opposite": "introverti"
+      },
+      "ar": {
+        "word": "منفتح",
+        "opposite": "انطوائي"
+      }
+    },
+    {
+      "de": {
+        "word": "introvertiert",
+        "opposite": "extrovertiert"
+      },
+      "en": {
+        "word": "introverted",
+        "opposite": "extroverted"
+      },
+      "fr": {
+        "word": "introverti",
+        "opposite": "extraverti"
+      },
+      "ar": {
+        "word": "انطوائي",
+        "opposite": "منفتح"
+      }
+    },
+    {
+      "de": {
+        "word": "positiv",
+        "opposite": "negativ"
+      },
+      "en": {
+        "word": "positive",
+        "opposite": "negative"
+      },
+      "fr": {
+        "word": "positif",
+        "opposite": "négatif"
+      },
+      "ar": {
+        "word": "إيجابي",
+        "opposite": "سلبي"
+      }
+    },
+    {
+      "de": {
+        "word": "negativ",
+        "opposite": "positiv"
+      },
+      "en": {
+        "word": "negative",
+        "opposite": "positive"
+      },
+      "fr": {
+        "word": "négatif",
+        "opposite": "positif"
+      },
+      "ar": {
+        "word": "سلبي",
+        "opposite": "إيجابي"
+      }
+    },
+    {
+      "de": {
+        "word": "kreativ",
+        "opposite": "unkreativ"
+      },
+      "en": {
+        "word": "creative",
+        "opposite": "uncreative"
+      },
+      "fr": {
+        "word": "créatif",
+        "opposite": "peu créatif"
+      },
+      "ar": {
+        "word": "مبدع",
+        "opposite": "غير مبدع"
+      }
+    },
+    {
+      "de": {
+        "word": "produktiv",
+        "opposite": "unproduktiv"
+      },
+      "en": {
+        "word": "productive",
+        "opposite": "unproductive"
+      },
+      "fr": {
+        "word": "productif",
+        "opposite": "improductif"
+      },
+      "ar": {
+        "word": "منتج",
+        "opposite": "غير منتج"
+      }
+    },
+    {
+      "de": {
+        "word": "effizient",
+        "opposite": "ineffizient"
+      },
+      "en": {
+        "word": "efficient",
+        "opposite": "inefficient"
+      },
+      "fr": {
+        "word": "efficace",
+        "opposite": "inefficace"
+      },
+      "ar": {
+        "word": "فعال",
+        "opposite": "غير فعال"
+      }
+    },
+    {
+      "de": {
+        "word": "effektiv",
+        "opposite": "ineffektiv"
+      },
+      "en": {
+        "word": "effective",
+        "opposite": "ineffective"
+      },
+      "fr": {
+        "word": "efficace",
+        "opposite": "inefficace"
+      },
+      "ar": {
+        "word": "فعال",
+        "opposite": "غير فعال"
+      }
+    },
+    {
+      "de": {
+        "word": "präzise",
+        "opposite": "ungenau"
+      },
+      "en": {
+        "word": "precise",
+        "opposite": "imprecise"
+      },
+      "fr": {
+        "word": "précis",
+        "opposite": "imprécis"
+      },
+      "ar": {
+        "word": "دقيق",
+        "opposite": "غير دقيق"
+      }
+    },
+    {
+      "de": {
+        "word": "korrekt",
+        "opposite": "inkorrekt"
+      },
+      "en": {
+        "word": "correct",
+        "opposite": "incorrect"
+      },
+      "fr": {
+        "word": "correct",
+        "opposite": "incorrect"
+      },
+      "ar": {
+        "word": "صحيح",
+        "opposite": "غير صحيح"
+      }
+    },
+    {
+      "de": {
+        "word": "gerecht",
+        "opposite": "ungerecht"
+      },
+      "en": {
+        "word": "fair",
+        "opposite": "unfair"
+      },
+      "fr": {
+        "word": "juste",
+        "opposite": "injuste"
+      },
+      "ar": {
+        "word": "عادل",
+        "opposite": "ظالم"
+      }
+    },
+    {
+      "de": {
+        "word": "moralisch",
+        "opposite": "unmoralisch"
+      },
+      "en": {
+        "word": "moral",
+        "opposite": "immoral"
+      },
+      "fr": {
+        "word": "moral",
+        "opposite": "immoral"
+      },
+      "ar": {
+        "word": "أخلاقي",
+        "opposite": "غير أخلاقي"
+      }
+    },
+    {
+      "de": {
+        "word": "ethisch",
+        "opposite": "unethisch"
+      },
+      "en": {
+        "word": "ethical",
+        "opposite": "unethical"
+      },
+      "fr": {
+        "word": "éthique",
+        "opposite": "contraire à l'éthique"
+      },
+      "ar": {
+        "word": "أخلاقي",
+        "opposite": "غير أخلاقي"
+      }
+    },
+    {
+      "de": {
+        "word": "süß",
+        "opposite": "sauer"
+      },
+      "en": {
+        "word": "sweet",
+        "opposite": "sour"
+      },
+      "fr": {
+        "word": "sucré",
+        "opposite": "acide"
+      },
+      "ar": {
+        "word": "حلو",
+        "opposite": "حامض"
+      }
+    },
+    {
+      "de": {
+        "word": "sauer",
+        "opposite": "süß"
+      },
+      "en": {
+        "word": "sour",
+        "opposite": "sweet"
+      },
+      "fr": {
+        "word": "acide",
+        "opposite": "sucré"
+      },
+      "ar": {
+        "word": "حامض",
+        "opposite": "حلو"
+      }
+    },
+    {
+      "de": {
+        "word": "bitter",
+        "opposite": "süß"
+      },
+      "en": {
+        "word": "bitter",
+        "opposite": "sweet"
+      },
+      "fr": {
+        "word": "amer",
+        "opposite": "sucré"
+      },
+      "ar": {
+        "word": "مر",
+        "opposite": "حلو"
+      }
+    },
+    {
+      "de": {
+        "word": "würzig",
+        "opposite": "mild"
+      },
+      "en": {
+        "word": "spicy",
+        "opposite": "mild"
+      },
+      "fr": {
+        "word": "épicé",
+        "opposite": "doux"
+      },
+      "ar": {
+        "word": "حار",
+        "opposite": "خفيف"
+      }
+    },
+    {
+      "de": {
+        "word": "mild",
+        "opposite": "scharf"
+      },
+      "en": {
+        "word": "mild",
+        "opposite": "spicy"
+      },
+      "fr": {
+        "word": "doux",
+        "opposite": "épicé"
+      },
+      "ar": {
+        "word": "خفيف",
+        "opposite": "حار"
+      }
+    },
+    {
+      "de": {
+        "word": "roh",
+        "opposite": "gekocht"
+      },
+      "en": {
+        "word": "raw",
+        "opposite": "cooked"
+      },
+      "fr": {
+        "word": "cru",
+        "opposite": "cuit"
+      },
+      "ar": {
+        "word": "نيء",
+        "opposite": "مطبوخ"
+      }
+    },
+    {
+      "de": {
+        "word": "gekocht",
+        "opposite": "roh"
+      },
+      "en": {
+        "word": "cooked",
+        "opposite": "raw"
+      },
+      "fr": {
+        "word": "cuit",
+        "opposite": "cru"
+      },
+      "ar": {
+        "word": "مطبوخ",
+        "opposite": "نيء"
+      }
+    },
+    {
+      "de": {
+        "word": "weich",
+        "opposite": "hart"
+      },
+      "en": {
+        "word": "soft",
+        "opposite": "hard"
+      },
+      "fr": {
+        "word": "mou",
+        "opposite": "dur"
+      },
+      "ar": {
+        "word": "ناعم",
+        "opposite": "صلب"
+      }
+    },
+    {
+      "de": {
+        "word": "dünn",
+        "opposite": "dick"
+      },
+      "en": {
+        "word": "thin",
+        "opposite": "thick"
+      },
+      "fr": {
+        "word": "mince",
+        "opposite": "épais"
+      },
+      "ar": {
+        "word": "رقيق",
+        "opposite": "سميك"
+      }
+    },
+    {
+      "de": {
+        "word": "rau",
+        "opposite": "glatt"
+      },
+      "en": {
+        "word": "rough",
+        "opposite": "smooth"
+      },
+      "fr": {
+        "word": "rugueux",
+        "opposite": "lisse"
+      },
+      "ar": {
+        "word": "خشن",
+        "opposite": "ناعم"
+      }
+    },
+    {
+      "de": {
+        "word": "saftig",
+        "opposite": "trocken"
+      },
+      "en": {
+        "word": "juicy",
+        "opposite": "dry"
+      },
+      "fr": {
+        "word": "juteux",
+        "opposite": "sec"
+      },
+      "ar": {
+        "word": "عصاري",
+        "opposite": "جاف"
+      }
+    },
+    {
+      "de": {
+        "word": "lecker",
+        "opposite": "ungenießbar"
+      },
+      "en": {
+        "word": "delicious",
+        "opposite": "inedible"
+      },
+      "fr": {
+        "word": "délicieux",
+        "opposite": "immangeable"
+      },
+      "ar": {
+        "word": "لذيذ",
+        "opposite": "غير صالح للأكل"
+      }
+    },
+    {
+      "de": {
+        "word": "satt",
+        "opposite": "hungrig"
+      },
+      "en": {
+        "word": "full",
+        "opposite": "hungry"
+      },
+      "fr": {
+        "word": "rassasié",
+        "opposite": "affamé"
+      },
+      "ar": {
+        "word": "شبعان",
+        "opposite": "جائع"
+      }
+    },
+    {
+      "de": {
+        "word": "heiß",
+        "opposite": "eiskalt"
+      },
+      "en": {
+        "word": "hot",
+        "opposite": "freezing"
+      },
+      "fr": {
+        "word": "brûlant",
+        "opposite": "glacial"
+      },
+      "ar": {
+        "word": "heiß",
+        "opposite": "eiskalt"
+      }
+    },
+    {
+      "de": {
+        "word": "warm",
+        "opposite": "eiskalt"
+      },
+      "en": {
+        "word": "warm",
+        "opposite": "freezing"
+      },
+      "fr": {
+        "word": "chaud",
+        "opposite": "glacial"
+      },
+      "ar": {
+        "word": "دافئ",
+        "opposite": "جليدي"
+      }
+    },
+    {
+      "de": {
+        "word": "kalt",
+        "opposite": "warm"
+      },
+      "en": {
+        "word": "cold",
+        "opposite": "warm"
+      },
+      "fr": {
+        "word": "froid",
+        "opposite": "chaud"
+      },
+      "ar": {
+        "word": "بارد",
+        "opposite": "دافئ"
+      }
+    },
+    {
+      "de": {
+        "word": "dunkel",
+        "opposite": "hell"
+      },
+      "en": {
+        "word": "dark",
+        "opposite": "bright"
+      },
+      "fr": {
+        "word": "sombre",
+        "opposite": "clair"
+      },
+      "ar": {
+        "word": "مظلم",
+        "opposite": "مضيء"
+      }
+    },
+    {
+      "de": {
+        "word": "bunt",
+        "opposite": "farblos"
+      },
+      "en": {
+        "word": "colorful",
+        "opposite": "colorless"
+      },
+      "fr": {
+        "word": "coloré",
+        "opposite": "incolore"
+      },
+      "ar": {
+        "word": "ملون",
+        "opposite": "عديم اللون"
+      }
+    },
+    {
+      "de": {
+        "word": "farbig",
+        "opposite": "farblos"
+      },
+      "en": {
+        "word": "colored",
+        "opposite": "colorless"
+      },
+      "fr": {
+        "word": "coloré",
+        "opposite": "incolore"
+      },
+      "ar": {
+        "word": "ملون",
+        "opposite": "عديم اللون"
+      }
+    },
+    {
+      "de": {
+        "word": "stark",
+        "opposite": "zart"
+      },
+      "en": {
+        "word": "strong",
+        "opposite": "delicate"
+      },
+      "fr": {
+        "word": "fort",
+        "opposite": "délicat"
+      },
+      "ar": {
+        "word": "قوي",
+        "opposite": "رقيق"
+      }
+    },
+    {
+      "de": {
+        "word": "zart",
+        "opposite": "stark"
+      },
+      "en": {
+        "word": "delicate",
+        "opposite": "strong"
+      },
+      "fr": {
+        "word": "délicat",
+        "opposite": "fort"
+      },
+      "ar": {
+        "word": "رقيق",
+        "opposite": "قوي"
+      }
+    },
+    {
+      "de": {
+        "word": "laut",
+        "opposite": "leise"
+      },
+      "en": {
+        "word": "loud",
+        "opposite": "quiet"
+      },
+      "fr": {
+        "word": "bruyant",
+        "opposite": "silencieux"
+      },
+      "ar": {
+        "word": "صاخب",
+        "opposite": "هادئ"
+      }
+    },
+    {
+      "de": {
+        "word": "still",
+        "opposite": "laut"
+      },
+      "en": {
+        "word": "still",
+        "opposite": "loud"
+      },
+      "fr": {
+        "word": "silencieux",
+        "opposite": "bruyant"
+      },
+      "ar": {
+        "word": "ساكن",
+        "opposite": "صاخب"
+      }
+    },
+    {
+      "de": {
+        "word": "ruhig",
+        "opposite": "hektisch"
+      },
+      "en": {
+        "word": "calm",
+        "opposite": "hectic"
+      },
+      "fr": {
+        "word": "calme",
+        "opposite": "frénétique"
+      },
+      "ar": {
+        "word": "هادئ",
+        "opposite": "محموم"
+      }
+    },
+    {
+      "de": {
+        "word": "hektisch",
+        "opposite": "ruhig"
+      },
+      "en": {
+        "word": "hectic",
+        "opposite": "calm"
+      },
+      "fr": {
+        "word": "frénétique",
+        "opposite": "calme"
+      },
+      "ar": {
+        "word": "محموم",
+        "opposite": "هادئ"
+      }
+    },
+    {
+      "de": {
+        "word": "leer",
+        "opposite": "gefüllt"
+      },
+      "en": {
+        "word": "empty",
+        "opposite": "filled"
+      },
+      "fr": {
+        "word": "vide",
+        "opposite": "rempli"
+      },
+      "ar": {
+        "word": "فارغ",
+        "opposite": "ممتلئ"
+      }
+    },
+    {
+      "de": {
+        "word": "eng",
+        "opposite": "weit"
+      },
+      "en": {
+        "word": "narrow",
+        "opposite": "wide"
+      },
+      "fr": {
+        "word": "étroit",
+        "opposite": "large"
+      },
+      "ar": {
+        "word": "ضيق",
+        "opposite": "واسع"
+      }
+    },
+    {
+      "de": {
+        "word": "weit",
+        "opposite": "eng"
+      },
+      "en": {
+        "word": "wide",
+        "opposite": "narrow"
+      },
+      "fr": {
+        "word": "large",
+        "opposite": "étroit"
+      },
+      "ar": {
+        "word": "واسع",
+        "opposite": "ضيق"
+      }
+    },
+    {
+      "de": {
+        "word": "hoch",
+        "opposite": "tief"
+      },
+      "en": {
+        "word": "high",
+        "opposite": "deep"
+      },
+      "fr": {
+        "word": "haut",
+        "opposite": "profond"
+      },
+      "ar": {
+        "word": "عال",
+        "opposite": "عميق"
+      }
+    },
+    {
+      "de": {
+        "word": "tief",
+        "opposite": "hoch"
+      },
+      "en": {
+        "word": "deep",
+        "opposite": "high"
+      },
+      "fr": {
+        "word": "profond",
+        "opposite": "haut"
+      },
+      "ar": {
+        "word": "عميق",
+        "opposite": "عال"
+      }
+    },
+    {
+      "de": {
+        "word": "flach",
+        "opposite": "tief"
+      },
+      "en": {
+        "word": "shallow",
+        "opposite": "deep"
+      },
+      "fr": {
+        "word": "plat",
+        "opposite": "profond"
+      },
+      "ar": {
+        "word": "ضحل",
+        "opposite": "عميق"
+      }
+    },
+    {
+      "de": {
+        "word": "rund",
+        "opposite": "eckig"
+      },
+      "en": {
+        "word": "round",
+        "opposite": "angular"
+      },
+      "fr": {
+        "word": "rond",
+        "opposite": "anguleux"
+      },
+      "ar": {
+        "word": "دائري",
+        "opposite": "زاوي"
+      }
+    },
+    {
+      "de": {
+        "word": "eckig",
+        "opposite": "rund"
+      },
+      "en": {
+        "word": "angular",
+        "opposite": "round"
+      },
+      "fr": {
+        "word": "anguleux",
+        "opposite": "rond"
+      },
+      "ar": {
+        "word": "زاوي",
+        "opposite": "دائري"
+      }
+    },
+    {
+      "de": {
+        "word": "locker",
+        "opposite": "fest"
+      },
+      "en": {
+        "word": "loose",
+        "opposite": "tight"
+      },
+      "fr": {
+        "word": "lâche",
+        "opposite": "serré"
+      },
+      "ar": {
+        "word": "رخو",
+        "opposite": "محكم"
+      }
+    },
+    {
+      "de": {
+        "word": "eng",
+        "opposite": "locker"
+      },
+      "en": {
+        "word": "tight",
+        "opposite": "loose"
+      },
+      "fr": {
+        "word": "serré",
+        "opposite": "lâche"
+      },
+      "ar": {
+        "word": "ضيق",
+        "opposite": "رخو"
+      }
+    },
+    {
+      "de": {
+        "word": "sauber",
+        "opposite": "dreckig"
+      },
+      "en": {
+        "word": "clean",
+        "opposite": "dirty"
+      },
+      "fr": {
+        "word": "propre",
+        "opposite": "sale"
+      },
+      "ar": {
+        "word": "نظيف",
+        "opposite": "قذر"
+      }
+    },
+    {
+      "de": {
+        "word": "ordentlich",
+        "opposite": "unordentlich"
+      },
+      "en": {
+        "word": "tidy",
+        "opposite": "untidy"
+      },
+      "fr": {
+        "word": "ordonné",
+        "opposite": "désordonné"
+      },
+      "ar": {
+        "word": "مرتب",
+        "opposite": "فوضوي"
+      }
+    },
+    {
+      "de": {
+        "word": "unordentlich",
+        "opposite": "ordentlich"
+      },
+      "en": {
+        "word": "untidy",
+        "opposite": "tidy"
+      },
+      "fr": {
+        "word": "désordonné",
+        "opposite": "ordonné"
+      },
+      "ar": {
+        "word": "فوضوي",
+        "opposite": "مرتب"
+      }
+    },
+    {
+      "de": {
+        "word": "modern",
+        "opposite": "altmodisch"
+      },
+      "en": {
+        "word": "modern",
+        "opposite": "old-fashioned"
+      },
+      "fr": {
+        "word": "moderne",
+        "opposite": "démodé"
+      },
+      "ar": {
+        "word": "حديث",
+        "opposite": "قديم الطراز"
+      }
+    },
+    {
+      "de": {
+        "word": "klassisch",
+        "opposite": "modern"
+      },
+      "en": {
+        "word": "classic",
+        "opposite": "modern"
+      },
+      "fr": {
+        "word": "classique",
+        "opposite": "moderne"
+      },
+      "ar": {
+        "word": "كلاسيكي",
+        "opposite": "حديث"
+      }
+    },
+    {
+      "de": {
+        "word": "traditionell",
+        "opposite": "modern"
+      },
+      "en": {
+        "word": "traditional",
+        "opposite": "modern"
+      },
+      "fr": {
+        "word": "traditionnel",
+        "opposite": "moderne"
+      },
+      "ar": {
+        "word": "تقليدي",
+        "opposite": "حديث"
+      }
+    },
+    {
+      "de": {
+        "word": "beliebt",
+        "opposite": "unbeliebt"
+      },
+      "en": {
+        "word": "popular",
+        "opposite": "unpopular"
+      },
+      "fr": {
+        "word": "populaire",
+        "opposite": "impopulaire"
+      },
+      "ar": {
+        "word": "محبوب",
+        "opposite": "غير محبوب"
+      }
+    },
+    {
+      "de": {
+        "word": "beliebt",
+        "opposite": "gehasst"
+      },
+      "en": {
+        "word": "liked",
+        "opposite": "hated"
+      },
+      "fr": {
+        "word": "aimé",
+        "opposite": "détesté"
+      },
+      "ar": {
+        "word": "محبوب",
+        "opposite": "مكروه"
+      }
+    },
+    {
+      "de": {
+        "word": "erfolgreich",
+        "opposite": "erfolglos"
+      },
+      "en": {
+        "word": "successful",
+        "opposite": "unsuccessful"
+      },
+      "fr": {
+        "word": "réussi",
+        "opposite": "infructueux"
+      },
+      "ar": {
+        "word": "ناجح",
+        "opposite": "فاشل"
+      }
+    },
+    {
+      "de": {
+        "word": "erfolglos",
+        "opposite": "erfolgreich"
+      },
+      "en": {
+        "word": "unsuccessful",
+        "opposite": "successful"
+      },
+      "fr": {
+        "word": "infructueux",
+        "opposite": "réussi"
+      },
+      "ar": {
+        "word": "فاشل",
+        "opposite": "ناجح"
+      }
+    },
+    {
+      "de": {
+        "word": "mächtig",
+        "opposite": "machtlos"
+      },
+      "en": {
+        "word": "powerful",
+        "opposite": "powerless"
+      },
+      "fr": {
+        "word": "puissant",
+        "opposite": "impuissant"
+      },
+      "ar": {
+        "word": "قوي",
+        "opposite": "عاجز"
+      }
+    },
+    {
+      "de": {
+        "word": "mächtig",
+        "opposite": "schwach"
+      },
+      "en": {
+        "word": "powerful",
+        "opposite": "weak"
+      },
+      "fr": {
+        "word": "puissant",
+        "opposite": "faible"
+      },
+      "ar": {
+        "word": "قوي",
+        "opposite": "ضعيف"
+      }
+    },
+    {
+      "de": {
+        "word": "geduldig",
+        "opposite": "hektisch"
+      },
+      "en": {
+        "word": "patient",
+        "opposite": "hasty"
+      },
+      "fr": {
+        "word": "patient",
+        "opposite": "précipité"
+      },
+      "ar": {
+        "word": "صبور",
+        "opposite": "متسرع"
+      }
+    },
+    {
+      "de": {
+        "word": "freundlich",
+        "opposite": "unhöflich"
+      },
+      "en": {
+        "word": "kind",
+        "opposite": "rude"
+      },
+      "fr": {
+        "word": "gentil",
+        "opposite": "grossier"
+      },
+      "ar": {
+        "word": "لطيف",
+        "opposite": "فظ"
+      }
+    },
+    {
+      "de": {
+        "word": "höflich",
+        "opposite": "grob"
+      },
+      "en": {
+        "word": "polite",
+        "opposite": "rough"
+      },
+      "fr": {
+        "word": "poli",
+        "opposite": "grossier"
+      },
+      "ar": {
+        "word": "مؤدب",
+        "opposite": "فظ"
+      }
+    },
+    {
+      "de": {
+        "word": "ruhig",
+        "opposite": "wütend"
+      },
+      "en": {
+        "word": "calm",
+        "opposite": "angry"
+      },
+      "fr": {
+        "word": "calme",
+        "opposite": "furieux"
+      },
+      "ar": {
+        "word": "هادئ",
+        "opposite": "غاضب"
+      }
+    },
+    {
+      "de": {
+        "word": "wütend",
+        "opposite": "ruhig"
+      },
+      "en": {
+        "word": "angry",
+        "opposite": "calm"
+      },
+      "fr": {
+        "word": "furieux",
+        "opposite": "calme"
+      },
+      "ar": {
+        "word": "غاضب",
+        "opposite": "هادئ"
+      }
+    },
+    {
+      "de": {
+        "word": "traurig",
+        "opposite": "fröhlich"
+      },
+      "en": {
+        "word": "sad",
+        "opposite": "cheerful"
+      },
+      "fr": {
+        "word": "triste",
+        "opposite": "joyeux"
+      },
+      "ar": {
+        "word": "حزين",
+        "opposite": "مرح"
+      }
+    },
+    {
+      "de": {
+        "word": "ängstlich",
+        "opposite": "mutig"
+      },
+      "en": {
+        "word": "afraid",
+        "opposite": "brave"
+      },
+      "fr": {
+        "word": "peureux",
+        "opposite": "courageux"
+      },
+      "ar": {
+        "word": "خائف",
+        "opposite": "شجاع"
+      }
+    },
+    {
+      "de": {
+        "word": "mutig",
+        "opposite": "ängstlich"
+      },
+      "en": {
+        "word": "brave",
+        "opposite": "afraid"
+      },
+      "fr": {
+        "word": "courageux",
+        "opposite": "peureux"
+      },
+      "ar": {
+        "word": "شجاع",
+        "opposite": "خائف"
+      }
+    },
+    {
+      "de": {
+        "word": "stolz",
+        "opposite": "bescheiden"
+      },
+      "en": {
+        "word": "proud",
+        "opposite": "modest"
+      },
+      "fr": {
+        "word": "fier",
+        "opposite": "modeste"
+      },
+      "ar": {
+        "word": "فخور",
+        "opposite": "متواضع"
+      }
+    },
+    {
+      "de": {
+        "word": "arrogant",
+        "opposite": "bescheiden"
+      },
+      "en": {
+        "word": "arrogant",
+        "opposite": "modest"
+      },
+      "fr": {
+        "word": "arrogant",
+        "opposite": "modeste"
+      },
+      "ar": {
+        "word": "متكبر",
+        "opposite": "متواضع"
+      }
+    },
+    {
+      "de": {
+        "word": "eifersüchtig",
+        "opposite": "gelassen"
+      },
+      "en": {
+        "word": "jealous",
+        "opposite": "calm"
+      },
+      "fr": {
+        "word": "jaloux",
+        "opposite": "serein"
+      },
+      "ar": {
+        "word": "غيور",
+        "opposite": "هادئ"
+      }
+    },
+    {
+      "de": {
+        "word": "nervös",
+        "opposite": "ruhig"
+      },
+      "en": {
+        "word": "nervous",
+        "opposite": "calm"
+      },
+      "fr": {
+        "word": "nerveux",
+        "opposite": "calme"
+      },
+      "ar": {
+        "word": "عصبي",
+        "opposite": "هادئ"
+      }
+    },
+    {
+      "de": {
+        "word": "gestresst",
+        "opposite": "entspannt"
+      },
+      "en": {
+        "word": "stressed",
+        "opposite": "relaxed"
+      },
+      "fr": {
+        "word": "stressé",
+        "opposite": "détendu"
+      },
+      "ar": {
+        "word": "متوتر",
+        "opposite": "مسترخي"
+      }
+    },
+    {
+      "de": {
+        "word": "entspannt",
+        "opposite": "gestresst"
+      },
+      "en": {
+        "word": "relaxed",
+        "opposite": "stressed"
+      },
+      "fr": {
+        "word": "détendu",
+        "opposite": "stressé"
+      },
+      "ar": {
+        "word": "مسترخي",
+        "opposite": "متوتر"
+      }
+    },
+    {
+      "de": {
+        "word": "müde",
+        "opposite": "munter"
+      },
+      "en": {
+        "word": "tired",
+        "opposite": "lively"
+      },
+      "fr": {
+        "word": "fatigué",
+        "opposite": "vif"
+      },
+      "ar": {
+        "word": "متعب",
+        "opposite": "نشيط"
+      }
+    },
+    {
+      "de": {
+        "word": "munter",
+        "opposite": "müde"
+      },
+      "en": {
+        "word": "lively",
+        "opposite": "tired"
+      },
+      "fr": {
+        "word": "vif",
+        "opposite": "fatigué"
+      },
+      "ar": {
+        "word": "نشيط",
+        "opposite": "متعب"
+      }
+    },
+    {
+      "de": {
+        "word": "krank",
+        "opposite": "fit"
+      },
+      "en": {
+        "word": "sick",
+        "opposite": "fit"
+      },
+      "fr": {
+        "word": "malade",
+        "opposite": "en forme"
+      },
+      "ar": {
+        "word": "مريض",
+        "opposite": "لائق"
+      }
+    },
+    {
+      "de": {
+        "word": "fit",
+        "opposite": "krank"
+      },
+      "en": {
+        "word": "fit",
+        "opposite": "sick"
+      },
+      "fr": {
+        "word": "en forme",
+        "opposite": "malade"
+      },
+      "ar": {
+        "word": "لائق",
+        "opposite": "مريض"
+      }
+    },
+    {
+      "de": {
+        "word": "stark",
+        "opposite": "gebrechlich"
+      },
+      "en": {
+        "word": "strong",
+        "opposite": "frail"
+      },
+      "fr": {
+        "word": "fort",
+        "opposite": "fragile"
+      },
+      "ar": {
+        "word": "قوي",
+        "opposite": "هش"
+      }
+    },
+    {
+      "de": {
+        "word": "gefährlich",
+        "opposite": "sicher"
+      },
+      "en": {
+        "word": "dangerous",
+        "opposite": "safe"
+      },
+      "fr": {
+        "word": "dangereux",
+        "opposite": "sûr"
+      },
+      "ar": {
+        "word": "خطير",
+        "opposite": "آمن"
+      }
+    },
+    {
+      "de": {
+        "word": "harmlos",
+        "opposite": "gefährlich"
+      },
+      "en": {
+        "word": "harmless",
+        "opposite": "dangerous"
+      },
+      "fr": {
+        "word": "inoffensif",
+        "opposite": "dangereux"
+      },
+      "ar": {
+        "word": "غير ضار",
+        "opposite": "خطير"
+      }
+    },
+    {
+      "de": {
+        "word": "gefährlich",
+        "opposite": "harmlos"
+      },
+      "en": {
+        "word": "dangerous",
+        "opposite": "harmless"
+      },
+      "fr": {
+        "word": "dangereux",
+        "opposite": "inoffensif"
+      },
+      "ar": {
+        "word": "خطير",
+        "opposite": "غير ضار"
+      }
     }
   ]
 }
