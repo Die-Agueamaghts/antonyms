@@ -621,46 +621,48 @@ main {
 .exercise-actions button {
   width: 100%;
   border-width: 2px;
-  box-shadow: 0 0 9px rgba(91, 111, 126, 0.2);
+  box-shadow: none;
   transition:
     background 0.18s ease,
     border-color 0.18s ease,
-    box-shadow 0.18s ease,
     transform 0.18s ease;
 }
 .exercise-actions #backButton {
   grid-column: 1;
-  background: #2f6fa3;
-  border-color: #5f9bd0;
+  background: #527493;
+  border-color: #7696ae;
   color: #fff;
 }
 .exercise-actions #nextButton {
   grid-column: 2;
-  background: #258553;
-  border-color: #5bc486;
+  background: #4d8265;
+  border-color: #73a587;
   color: #fff;
 }
 .exercise-actions #finishButton {
   grid-column: 3;
-  background: #b83e46;
-  border-color: #e47c82;
+  background: #96575b;
+  border-color: #b77b7f;
   color: #fff;
 }
-.exercise-actions button:hover,
-.exercise-actions button:focus-visible {
-  box-shadow: 0 0 18px currentColor;
+.exercise-actions button:not(:disabled):hover,
+.exercise-actions button:not(:disabled):focus-visible {
   transform: translateY(-1px);
 }
-.exercise-actions #backButton:hover,
-.exercise-actions #backButton:focus-visible {
+.exercise-actions button:not(:disabled):focus-visible {
+  outline: 3px solid rgba(255, 255, 255, 0.9);
+  outline-offset: 2px;
+}
+.exercise-actions #backButton:not(:disabled):hover,
+.exercise-actions #backButton:not(:disabled):focus-visible {
   background: #3f8bc7;
 }
-.exercise-actions #nextButton:hover,
-.exercise-actions #nextButton:focus-visible {
+.exercise-actions #nextButton:not(:disabled):hover,
+.exercise-actions #nextButton:not(:disabled):focus-visible {
   background: #2fa96a;
 }
-.exercise-actions #finishButton:hover,
-.exercise-actions #finishButton:focus-visible {
+.exercise-actions #finishButton:not(:disabled):hover,
+.exercise-actions #finishButton:not(:disabled):focus-visible {
   background: #d4525b;
 }
 
@@ -779,12 +781,12 @@ main {
     font-size: 1rem;
   }
   [data-theme="dark"] .exercise-actions .primary-button {
-    background: #3a8eb8;
-    border-color: #8bcce8;
+    background: #376b78;
+    border-color: #6095a1;
   }
   [data-theme="dark"] .exercise-actions .secondary-button {
-    background: #29465a;
-    border-color: #8bcce8;
+    background: #405c76;
+    border-color: #6f8ca8;
   }
   [data-theme="dark"] .exercise-actions button:disabled {
     background: #1c2d3c;
